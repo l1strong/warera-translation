@@ -1778,7 +1778,7 @@ msgstr "Commandant"
 #: src/components/_user/notification/notification.frontConfig.tsx:1630
 #: src/components/_user/notification/notification.frontConfig.tsx:1821
 msgid "Commission earned"
-msgstr ""
+msgstr "Commissie verdiend"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
@@ -5685,63 +5685,63 @@ msgstr "Tijd om te produceren!"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:17
 msgid "Tiny Pixel"
-msgstr ""
+msgstr "Kleine Pixel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Tiny Pixel Ammo"
-msgstr ""
+msgstr "Kleine Pixel Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Boots"
-msgstr ""
+msgstr "Kleine Pixel Laarzen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Chest"
-msgstr ""
+msgstr "Kleine Pixel Borstbescherming"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Gloves"
-msgstr ""
+msgstr "Kleine Pixel Handschoenen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gun"
-msgstr ""
+msgstr "Kleine Pixel Geweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Heavy Ammo"
-msgstr ""
+msgstr "Kleine Pixel Zware Munitie"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Helmet"
-msgstr ""
+msgstr "Kleine Pixel Helm"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Jet"
-msgstr ""
+msgstr "Kleine Pixel Straaljager"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Light Ammo"
-msgstr ""
+msgstr "Kleine Pixel Lichte Munitie"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:16
 msgid "Tiny Pixel Pack"
-msgstr ""
+msgstr "Kleine Pixel Pakket"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Pants"
-msgstr ""
+msgstr "Kleine Pixel Broek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Rifle"
-msgstr ""
+msgstr "Kleine Pixel Geweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Sniper"
-msgstr ""
+msgstr "Kleine Pixel Sniper"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Tank"
-msgstr ""
+msgstr "Kleine Pixel Tank"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:288
 msgid "Tip <0>{count}</0> articles"
@@ -6138,11 +6138,11 @@ msgstr "Valentijn Boots"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:26
 msgid "Valentine Cat Ears"
-msgstr "Valentijn Kattoren"
+msgstr "Valentijn Kattenoren"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:29
 msgid "Valentine Chest"
-msgstr "Valentijn Borstbeschermer"
+msgstr "Valentijn Borstbescherming"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:53
 msgid "Valentine Gloves"
@@ -6496,15 +6496,15 @@ msgstr "Je hebt geen toestemming om sollicitaties te bekijken."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1632
 msgid "You earned gems from a banner sale!"
-msgstr ""
+msgstr "Je hebt edelstenen verdiend met de verkoop van een banner!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1823
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
-msgstr ""
+msgstr "Je hebt edelstenen verdiend met de verkoop van \"{skinTitle}\"!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1827
 msgid "You earned gems from a skin pack sale!"
-msgstr ""
+msgstr "Je hebt edelstenen verdiend met de verkoop van een skinpakket!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:874
 msgid "You feel healthy, the debuff effect no longer affects you."
