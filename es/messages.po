@@ -629,7 +629,7 @@ msgstr "<0>Malestar</0> representa la tensión interna en el país.<1/><2/>Los c
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:108
 msgid "<0>Your account requires additional verification. Please verify your phone number as soon as possible to continue using your account normally. Unverified accounts will have restricted access after 48 hours and may be permanently suspended after 5 days.</0><1>Phone numbers are encrypted and not visible to any administrator.</1>"
-msgstr ""
+msgstr "<0>Tu cuenta requiere verificación adicional. Por favor, verifica tu número de teléfono tan pronto como sea posible para seguir usando tu cuenta con normalidad. Las cuentas sin verificar tendrán acceso restringido tras 48 horas y pueden ser suspendidas permanentemente tras 5 días.</0><1>Los números de teléfono están cifrados y no son visibles para ningún administrador.</1>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1025,7 +1025,7 @@ msgstr "Se ha encontrado un recurso estratégico en esta región, otorga a su pr
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:144
 msgid "A verification code has been sent to {phoneNumber}"
-msgstr ""
+msgstr "Se ha enviado un código de verificación a {phoneNumber}"
 
 #: src/components/_political/law/Law.tsx:170
 #: src/components/_political/partyMotion/PartyMotion.tsx:169
@@ -3830,7 +3830,7 @@ msgstr "Misiones"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:123
 msgid "Mobile phone number"
-msgstr ""
+msgstr "Número de teléfono móvil"
 
 #: src/components/_military/damageRanking/DamageRankingSides.tsx:133
 msgid "Money earned from mercenary contracts."
@@ -4533,19 +4533,19 @@ msgstr "Suboficial"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:60
 msgid "Phone number verified!"
-msgstr ""
+msgstr "¡Número de teléfono verificado!"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:99
 msgid "Phone Verification"
-msgstr ""
+msgstr "Verificación del número de teléfono"
 
 #: src/components/_user/user/UserDropdown.tsx:186
 msgid "Phone verification requested"
-msgstr ""
+msgstr "Verificación del número de teléfono solicitada"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:105
 msgid "Phone verification required"
-msgstr ""
+msgstr "Verificación del número de teléfono requerida"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:137
 msgid "Pick a fight!"
@@ -5094,7 +5094,7 @@ msgstr "Republicano"
 
 #: src/components/_user/user/UserDropdown.tsx:334
 msgid "Request Phone Verification"
-msgstr ""
+msgstr "Solicitar verificación del número de teléfono"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:197
 msgid "Requests:"
@@ -5377,7 +5377,7 @@ msgstr "Envía un mensaje para completar el tutorial. ¡Bienvenido a la comunida
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:135
 msgid "Send Code"
-msgstr ""
+msgstr "Enviar código"
 
 #: src/components/_other/shop/SkinPackModal.tsx:300
 msgid "Send Gift"
@@ -5905,7 +5905,7 @@ msgstr "Este usuario no forma parte de ningún grupo familiar"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "This will require the user to verify their mobile phone number."
-msgstr ""
+msgstr "Esto requerirá que el usuario verifique su número de teléfono móvil."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:132
 msgid "Time to fight for your country! Let's join the action."
@@ -6430,7 +6430,7 @@ msgstr "Código de verificación"
 
 #: src/components/_user/modals/PhoneVerificationModal.tsx:50
 msgid "Verification code sent!"
-msgstr ""
+msgstr "¡Código de verificación enviado!"
 
 #: src/components/_user/auth/LoginFormModal.tsx:149
 #: src/components/_user/modals/PhoneVerificationModal.tsx:181
