@@ -1492,7 +1492,7 @@ msgid "Attacker"
 msgstr "攻擊方"
 
 #: src/components/_military/battleLoot/BattleLootsCard.tsx:78
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:166
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:164
 msgid "Attackers"
 msgstr "攻擊方"
 
@@ -1600,7 +1600,7 @@ msgstr "基礎頭盔"
 msgid "Basic Pants"
 msgstr "基礎褲子"
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:85
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:83
 #: src/components/_military/mercenaryContract/CreateMercenaryProposalModal.tsx:188
 #: src/components/_military/mercenaryContract/MercenaryContractModal.tsx:194
 #: src/components/_military/mercenaryContract/MercenaryProposalItem.tsx:108
@@ -1618,6 +1618,7 @@ msgid "Battle Hero"
 msgstr ""
 
 #: src/components/_military/battleLoot/BattleLootsCard.tsx:42
+#: src/components/_military/damageRanking/DamageRankingList.tsx:208
 msgid "Battle loots"
 msgstr ""
 
@@ -2358,7 +2359,7 @@ msgstr "要移除的中常委"
 msgid "countries"
 msgstr "國家"
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:96
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:94
 msgid "Countries"
 msgstr "國家"
 
@@ -2523,7 +2524,7 @@ msgstr ""
 msgid "Damage Limit"
 msgstr ""
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:113
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:111
 msgid "Damage ranking"
 msgstr "傷害排名"
 
@@ -2662,7 +2663,7 @@ msgid "Defender"
 msgstr "防守方"
 
 #: src/components/_military/battleLoot/BattleLootsCard.tsx:63
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:158
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:156
 msgid "Defenders"
 msgstr "防守方"
 
@@ -3084,6 +3085,11 @@ msgstr "活動"
 msgid "Every <0/> damage dealt by a side rolls a <1/> into its round loot pool. On round end, {winnerPercent}% of rolled cases go to the winning side's battle pool and {loserPercent}% go to the losing side's battle pool. Items are ranked by estimated value and distributed in order: rank 1 receives the most valuable item, rank 2 the next, and so on."
 msgstr ""
 
+#. placeholder {0}: ts.case2
+#: src/components/_military/damageRanking/DamageRankingList.tsx:211
+msgid "Every <0/> damage dealt by a side rolls a <1>{0}</1> into its round loot pool.<2>On round end, {winnerPercent}% of rolled cases go to the winning side's battle pool and {loserPercent}% go to the losing side's battle pool.</2><3>Items are ranked by estimated value and distributed in order: rank 1 receives the most valuable item, rank 2 the next, and so on.</3>"
+msgstr ""
+
 #: src/pages/tournament/[tournamentId]/index.tsx:42
 msgid "Everyone participates automatically"
 msgstr "每個人會自動參加"
@@ -3493,7 +3499,7 @@ msgstr "優勢點"
 msgid "ground per tick"
 msgstr "每刻優勢點"
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:122
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:120
 msgid "Ground points"
 msgstr "優勢點"
 
@@ -4277,7 +4283,7 @@ msgstr "軍團"
 msgid "Military unit created"
 msgstr "軍團已創建"
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:104
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:102
 msgid "Military units"
 msgstr "軍團"
 
@@ -4319,7 +4325,7 @@ msgstr ""
 msgid "Money"
 msgstr ""
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:134
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:132
 msgid "Money earned from mercenary contracts."
 msgstr "從傭兵合約中賺到的錢"
 
@@ -4331,7 +4337,7 @@ msgstr ""
 msgid "Money per 1k Damages"
 msgstr ""
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:133
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:131
 msgid "Money ranking"
 msgstr "金錢排名"
 
@@ -4700,7 +4706,7 @@ msgstr "沒有國會議員"
 msgid "No contributions yet"
 msgstr "尚無貢獻者"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:171
+#: src/components/_military/damageRanking/DamageRankingList.tsx:247
 msgid "No damages ranking yet."
 msgstr "還沒有傷害排名"
 
@@ -4708,7 +4714,7 @@ msgstr "還沒有傷害排名"
 msgid "No donations yet"
 msgstr "尚無捐款"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:173
+#: src/components/_military/damageRanking/DamageRankingList.tsx:249
 msgid "No ground ranking yet."
 msgstr "還沒有優勢點排名。"
 
@@ -4732,7 +4738,7 @@ msgstr "沒有找到軍團"
 msgid "No missions available"
 msgstr "沒有任務可用"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:174
+#: src/components/_military/damageRanking/DamageRankingList.tsx:250
 msgid "No money ranking yet."
 msgstr "還沒有金錢排名。"
 
@@ -5912,7 +5918,7 @@ msgstr ""
 #. placeholder {0}: (roundIndex ?? 0) + 1
 #. placeholder {0}: i + 1
 #: src/components/_military/battle/BattleTimelineRound.tsx:88
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:74
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:72
 msgid "Round #{0}"
 msgstr "回合 #{0}"
 
@@ -6203,7 +6209,7 @@ msgstr "設定"
 msgid "Shop"
 msgstr "商店"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:190
+#: src/components/_military/damageRanking/DamageRankingList.tsx:265
 #: src/components/_social/ArticleTags.tsx:268
 #: src/components/_social/ArticleTags.tsx:319
 #: src/components/_social/ArticleTags.tsx:427
@@ -7165,7 +7171,7 @@ msgstr "用戶已擁有所有造型"
 msgid "User blocked"
 msgstr "用戶遭屏蔽"
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:123
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:121
 msgid "User participation to the ground points."
 msgstr "用戶對優勢點的貢獻"
 
@@ -7189,7 +7195,7 @@ msgstr "用戶名"
 msgid "Username removed"
 msgstr "用戶名已刪除"
 
-#: src/components/_military/damageRanking/DamageRankingSides.tsx:89
+#: src/components/_military/damageRanking/DamageRankingSides.tsx:87
 msgid "Users"
 msgstr "用戶"
 
@@ -8022,7 +8028,7 @@ msgstr "你的高級訂閱方案已啟動！"
 msgid "Your premium subscription has expired!"
 msgstr "你的高級訂閱方案已到期！"
 
-#: src/components/_military/damageRanking/DamageRankingList.tsx:196
+#: src/components/_military/damageRanking/DamageRankingList.tsx:271
 msgid "Your rank"
 msgstr "你的排名"
 
