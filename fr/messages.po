@@ -3592,6 +3592,10 @@ msgstr "Points de terrain"
 msgid "Gun"
 msgstr "Pistolet"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:236
+msgid "Hamster Tank"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
 msgstr "Bourreau de travail"

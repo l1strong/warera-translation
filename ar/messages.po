@@ -3592,6 +3592,10 @@ msgstr "نقاط برية"
 msgid "Gun"
 msgstr "بندقية"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:236
+msgid "Hamster Tank"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
 msgstr "عامل مجتهد"
