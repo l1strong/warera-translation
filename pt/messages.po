@@ -13,10 +13,42 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+#: src/components/_common/GameRules.tsx:55
+msgid "  a. Trading equipment"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:57
+msgid "  b. Working for each other"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:129
+msgid " - Funneling assets without proper exchange"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:127
+msgid " - Gear merging schemes *"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:117
+msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
+msgstr ""
+
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:412
 msgid " - Reason: {0}"
 msgstr " - Motivo: {0}"
+
+#: src/components/_common/GameRules.tsx:133
+msgid " - Repeated donations of resources or money to a military unit or country."
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:131
+msgid " - Repeatedly tipping articles"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:123
+msgid " - Using outside market standards or manipulated trade prices"
+msgstr ""
 
 #: src/components/_user/premium/PremiumActions.tsx:71
 msgid " Gift a sub"
@@ -138,6 +170,10 @@ msgstr "{roundsToWin} Rondas até à vitória"
 #: src/components/_military/battle/RoundScore.tsx:50
 msgid "{score}/{0} Rounds"
 msgstr "{score}/{0} Rondas"
+
+#: src/components/_common/GameRules.tsx:153
+msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
+msgstr ""
 
 #: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
@@ -710,6 +746,14 @@ msgstr "<0>Sua conta requer verificação adicional. Por favor, verifique seu n�
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
 msgstr "1 lendário conseguido, faltam 5 para o set completo, continue jogando!"
 
+#: src/components/_common/GameRules.tsx:182
+msgid "1. English is the only allowed language in World/Global chat"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:28
+msgid "1. One-Account Policy"
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:137
 msgid "1★ Admiral"
 msgstr "1★ Almirante"
@@ -821,6 +865,14 @@ msgstr "1★ Vice-almirante"
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:77
 msgid "1★ Warrant Officer"
 msgstr "1★ Subtenente"
+
+#: src/components/_common/GameRules.tsx:46
+msgid "2. IP and Device Sharing"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:187
+msgid "2. The report tool must be used fairly"
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:138
 msgid "2★ Admiral"
@@ -934,6 +986,14 @@ msgstr "2★ Vice-almirante"
 msgid "2★ Warrant Officer"
 msgstr "2★ Subtenente"
 
+#: src/components/_common/GameRules.tsx:70
+msgid "3. Bots and Automation"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:190
+msgid "3. The following content, directly or implied, is strictly prohibited:"
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:139
 msgid "3★ Admiral"
 msgstr "3★ Almirante"
@@ -1046,6 +1106,14 @@ msgstr "3★ Vice-almirante"
 msgid "3★ Warrant Officer"
 msgstr "3★ Subtenente"
 
+#: src/components/_common/GameRules.tsx:90
+msgid "4. Bug Exploits"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:256
+msgid "4. Community Behavior rules apply to every possible place within the game where people can write text and post content, as well as everywhere within the War Era Discord server"
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:152
 msgid "4★ General"
 msgstr "4★ General"
@@ -1054,6 +1122,14 @@ msgstr "4★ General"
 msgid "4★ Lt. General"
 msgstr "4★ Ten. General"
 
+#: src/components/_common/GameRules.tsx:108
+msgid "5. Boosting and Exploitation"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:263
+msgid "5. Prohibited content will be removed, and offenders will be muted and/or banned for increasing periods of time, depending on the level and/or frequency of abuse. Highly problematic individuals with a heavy history of abuse will be permanently muted or banned."
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:153
 msgid "5★ General"
 msgstr "5★ General"
@@ -1061,6 +1137,14 @@ msgstr "5★ General"
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:146
 msgid "5★ Lt. General"
 msgstr "5★ Ten. General"
+
+#: src/components/_common/GameRules.tsx:163
+msgid "6. Taking Over and Misuse of State/Military unit assets"
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:178
+msgid "7. Community Behavior"
+msgstr ""
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:75
 msgid "A <0>supporter badge</0>"
@@ -1106,6 +1190,10 @@ msgstr "Um recurso estratégico foi encontrado nesta região, dá ao seu proprie
 #: src/components/_user/modals/PhoneVerificationModal.tsx:144
 msgid "A verification code has been sent to {phoneNumber}"
 msgstr "Um código de verificação foi enviado para {phoneNumber}"
+
+#: src/components/_common/GameRules.tsx:197
+msgid "a. Insults, slurs and targeted harassment"
+msgstr ""
 
 #: src/components/_political/law/Law.tsx:170
 #: src/components/_political/partyMotion/PartyMotion.tsx:169
@@ -1170,6 +1258,10 @@ msgstr "Acesse a guerra"
 #: src/pages/user/[userId]/index.tsx:150
 msgid "Account"
 msgstr "Conta"
+
+#: src/components/_common/GameRules.tsx:111
+msgid "Accounts created solely to benefit a player, group, military unit or country are not permitted. Exploited accounts can take many forms. This includes, but is not limited to:"
+msgstr ""
 
 #: src/pages/country/[countryId]/government.tsx:69
 msgid "Actions"
@@ -1321,6 +1413,10 @@ msgstr "Todas as rondas"
 msgid "All skins owned"
 msgstr "Todas skins possuídas"
 
+#: src/components/_common/GameRules.tsx:59
+msgid "All transactions must stay fair and balanced."
+msgstr ""
+
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
 msgstr "Todos os tipos"
@@ -1405,6 +1501,10 @@ msgstr "Um email com o código de verificação foi enviado para {email}"
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "<0>GIF</0> animado como avatar"
 
+#: src/components/_common/GameRules.tsx:61
+msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:40
 msgid "API token created"
 msgstr "Token de API criado"
@@ -1442,7 +1542,7 @@ msgstr "Solicitar"
 msgid "Approved"
 msgstr "Aprovado"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:179
+#: src/components/_other/shop/skin.frontConfig.tsx:182
 msgid "Arcane Boots"
 msgstr "Botas Arcanas"
 
@@ -1596,6 +1696,10 @@ msgstr "Motor Automatizado"
 msgid "Avatar removed"
 msgstr "Avatar removido"
 
+#: src/components/_common/GameRules.tsx:200
+msgid "b. Revealing personal information or doxxing (such as names or addresses), without explicit consent"
+msgstr ""
+
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:170
 msgid "Baby Boomer"
 msgstr "Baby Boomer"
@@ -1738,11 +1842,15 @@ msgstr "Melhor que nada, né?"
 msgid "Bid"
 msgstr "Lance"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:8
+msgid "Birthday Hat for 1st year of Beta"
+msgstr ""
+
 #: src/components/_user/user/UserDropdown.tsx:278
 msgid "Block (hide content)"
 msgstr "Bloquear (ocultar conteúdo)"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:161
+#: src/components/_other/shop/skin.frontConfig.tsx:164
 msgid "Blue Staff"
 msgstr "Cajado Azul"
 
@@ -1760,9 +1868,9 @@ msgstr "Aumente sua produção!"
 msgid "Boots"
 msgstr "Botas"
 
-#: src/components/_military/battle/LootSummaryCard.tsx:104
+#: src/components/_military/battle/LootSummaryCard.tsx:103
 msgid "Bounty"
-msgstr ""
+msgstr "Recompensa(s)"
 
 #: src/components/_military/battle/BattleSystem.tsx:844
 #: src/components/_military/battle/BattleSystem.tsx:854
@@ -1877,6 +1985,10 @@ msgstr "Ao rejeitar a redução salarial, você deixará a empresa e perderá se
 msgid "By side"
 msgstr "Por lado"
 
+#: src/components/_common/GameRules.tsx:206
+msgid "c. Sexual, explicit or suggestive remarks, comments, images or content"
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:26
 msgid "Cadet"
 msgstr "Cadete"
@@ -1973,7 +2085,7 @@ msgstr "Caixa"
 msgid "Cases contain random items. Click to open it!"
 msgstr "As caixas contêm itens aleatórios. Clique para abrir!"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:89
+#: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
 msgstr "Catapulta"
 
@@ -2377,7 +2489,7 @@ msgstr "Contrato revertido"
 #: src/components/_military/battle/BattleHeader.tsx:312
 #: src/components/_military/battle/BattlesHeader.tsx:43
 #: src/components/_military/battle/BattleSideContractsModal.tsx:47
-#: src/components/_military/battle/LootSummaryCard.tsx:96
+#: src/components/_military/battle/LootSummaryCard.tsx:95
 #: src/components/_political/country/CountryHeader.tsx:132
 msgid "Contracts"
 msgstr "Contratos"
@@ -2548,7 +2660,7 @@ msgstr "Dano crítico"
 msgid "Critical Hit"
 msgstr "Golpe crítico"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:86
+#: src/components/_other/shop/skin.frontConfig.tsx:89
 msgid "Crossbow"
 msgstr "Besta"
 
@@ -2567,6 +2679,10 @@ msgstr "Total atual:"
 #: src/components/_user/premium/PremiumFeatureList.tsx:98
 msgid "Custom username font"
 msgstr "Fonte personalizada para o nome de utilizador"
+
+#: src/components/_common/GameRules.tsx:212
+msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
+msgstr ""
 
 #: src/components/_user/mission/MissionsList.tsx:190
 msgid "Daily"
@@ -2939,9 +3055,13 @@ msgstr "Doações"
 msgid "Dormitories"
 msgstr "Dormitórios"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:152
+#: src/components/_other/shop/skin.frontConfig.tsx:155
 msgid "Dragon"
 msgstr "Dragão"
+
+#: src/components/_common/GameRules.tsx:218
+msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:130
 msgid "Eat"
@@ -3058,7 +3178,7 @@ msgstr "Ativar empresa"
 msgid "Enacting cost"
 msgstr "Custo de promulgação"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:185
+#: src/components/_other/shop/skin.frontConfig.tsx:188
 msgid "Enchanted Trousers"
 msgstr "Calças Encantadas"
 
@@ -3182,6 +3302,18 @@ msgstr "Expira em"
 msgid "Exploit Finder"
 msgstr "Caçador de exploits"
 
+#: src/components/_common/GameRules.tsx:146
+msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:93
+msgid "Exploiting or ignoring bugs for personal gain is forbidden. All players are expected to report any discovered bugs and avoid taking advantage of them."
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:225
+msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
+msgstr ""
+
 #: src/components/_user/apiToken/ApiTokenList.tsx:92
 msgid "Failed to copy"
 msgstr "Falha ao copiar"
@@ -3246,27 +3378,27 @@ msgstr "Republicano fanático"
 msgid "Farmer"
 msgstr "Fazendeiro"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:143
+#: src/components/_other/shop/skin.frontConfig.tsx:146
 msgid "Farmer Boots"
 msgstr "Botas de Fazendeiro"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:140
+#: src/components/_other/shop/skin.frontConfig.tsx:143
 msgid "Farmer Chest"
 msgstr "Colete de Fazendeiro"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:149
+#: src/components/_other/shop/skin.frontConfig.tsx:152
 msgid "Farmer Gloves"
 msgstr "Luvas de Fazendeiro"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:137
+#: src/components/_other/shop/skin.frontConfig.tsx:140
 msgid "Farmer Helmet"
 msgstr "Capacete de Fazendeiro"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:134
+#: src/components/_other/shop/skin.frontConfig.tsx:137
 msgid "Farmer Knife"
 msgstr "Faca de Fazendeiro"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:146
+#: src/components/_other/shop/skin.frontConfig.tsx:149
 msgid "Farmer Pants"
 msgstr "Calças de Fazendeiro"
 
@@ -3396,7 +3528,7 @@ msgstr "Peixe"
 msgid "Flags"
 msgstr "Bandeiras"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:155
+#: src/components/_other/shop/skin.frontConfig.tsx:158
 msgid "Flail"
 msgstr "Mangual"
 
@@ -3428,6 +3560,10 @@ msgstr "Recompensa diária grátis"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
 msgstr "Curiosidade: A banca sempre ganha"
+
+#: src/components/_common/GameRules.tsx:234
+msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
+msgstr ""
 
 #: src/components/_user/user/Level.tsx:91
 msgid "Gain <0>Xp</0> by finishing your missions!"
@@ -3568,7 +3704,7 @@ msgstr "Retícula"
 msgid "Great job! Hit a few more times to help your side win the battle."
 msgstr "Ótimo trabalho! Ataque mais algumas vezes para ajudar seu lado a vencer."
 
-#: src/components/_other/shop/skin.frontConfig.tsx:158
+#: src/components/_other/shop/skin.frontConfig.tsx:161
 msgid "Green Staff"
 msgstr "Cajado Verde"
 
@@ -3576,43 +3712,43 @@ msgstr "Cajado Verde"
 msgid "Grimdark"
 msgstr "Conjunto Sombrio"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:215
+#: src/components/_other/shop/skin.frontConfig.tsx:218
 msgid "Grimdark Ammo"
 msgstr "Munição Sombria"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:227
+#: src/components/_other/shop/skin.frontConfig.tsx:230
 msgid "Grimdark Boots"
 msgstr "Botas Sombrias"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:224
+#: src/components/_other/shop/skin.frontConfig.tsx:227
 msgid "Grimdark Chest"
 msgstr "Colete Sombrio"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:233
+#: src/components/_other/shop/skin.frontConfig.tsx:236
 msgid "Grimdark Gloves"
 msgstr "Luvas Sombrias"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:197
+#: src/components/_other/shop/skin.frontConfig.tsx:200
 msgid "Grimdark Gun"
 msgstr "Arma Sombria"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:218
+#: src/components/_other/shop/skin.frontConfig.tsx:221
 msgid "Grimdark Heavy Ammo"
 msgstr "Munição Pesada Sombria"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:221
+#: src/components/_other/shop/skin.frontConfig.tsx:224
 msgid "Grimdark Helmet"
 msgstr "Capacete Sombrio"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:209
+#: src/components/_other/shop/skin.frontConfig.tsx:212
 msgid "Grimdark Jet"
 msgstr "Jet Sombrio"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:194
+#: src/components/_other/shop/skin.frontConfig.tsx:197
 msgid "Grimdark Knife"
 msgstr "Faca Sombria"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:212
+#: src/components/_other/shop/skin.frontConfig.tsx:215
 msgid "Grimdark Light Ammo"
 msgstr "Faca Sombria"
 
@@ -3620,19 +3756,19 @@ msgstr "Faca Sombria"
 msgid "Grimdark Pack"
 msgstr "Pack Sombrio"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:230
+#: src/components/_other/shop/skin.frontConfig.tsx:233
 msgid "Grimdark Pants"
 msgstr "Calças Sombrias"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:200
+#: src/components/_other/shop/skin.frontConfig.tsx:203
 msgid "Grimdark Rifle"
 msgstr "Fuzil Sombrio"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:203
+#: src/components/_other/shop/skin.frontConfig.tsx:206
 msgid "Grimdark Sniper"
 msgstr "Sniper Sombria"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:206
+#: src/components/_other/shop/skin.frontConfig.tsx:209
 msgid "Grimdark Tank"
 msgstr "Tanque Sombrio"
 
@@ -3652,7 +3788,11 @@ msgstr "Pontos de terreno"
 msgid "Gun"
 msgstr "Pistola"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:236
+#: src/components/_common/GameRules.tsx:243
+msgid "h. Glorification, promotion or encouragement of rule-breaking or cheating"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
 msgstr "Tanque Hamster"
 
@@ -3737,6 +3877,10 @@ msgstr "Eu sinto, a próxima é um mítico!"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:28
 msgid "I heard buying premium boost your chances :3"
 msgstr "Ouvi dizer que comprar premium aumenta suas chances :3"
+
+#: src/components/_common/GameRules.tsx:249
+msgid "i. Promotion of other games, products, or services"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:81
 msgid "I'm proud of you"
@@ -3856,6 +4000,10 @@ msgstr "Desenvolvimento inicial"
 msgid "Initiate"
 msgstr "Iniciado"
 
+#: src/components/_common/GameRules.tsx:37
+msgid "Intentional or repeated violations of this policy will result in a permanent ban."
+msgstr ""
+
 #: src/components/_layout/LayoutMenu.tsx:125
 #: src/components/_user/user/MyAvatar.tsx:35
 #: src/components/_user/user/UserHeader.tsx:157
@@ -3901,6 +4049,10 @@ msgstr "Mercado de itens"
 #: src/components/_user/user/WealthPanel.tsx:49
 msgid "Items"
 msgstr "Itens"
+
+#: src/components/_common/GameRules.tsx:252
+msgid "j. Spam and repeated messages"
+msgstr ""
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -3951,6 +4103,10 @@ msgstr "Entrar em um novo emprego fará você deixar o atual!"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:22
 msgid "Just 1 more..."
 msgstr "Só mais 1..."
+
+#: src/components/_common/GameRules.tsx:274
+msgid "Just because something isn't explicitly stated in the rules does not mean you can abuse it. Attempts to bypass rules or exploit loopholes will still be punished."
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:50
 msgid "Just one more… what could go wrong?"
@@ -4202,7 +4358,7 @@ msgstr "Localização"
 msgid "Logout"
 msgstr "Sair"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:83
+#: src/components/_other/shop/skin.frontConfig.tsx:86
 msgid "Long Sword"
 msgstr "Espada Longa"
 
@@ -4227,7 +4383,7 @@ msgstr "Recompensa de saque"
 msgid "Loots"
 msgstr "Saque"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:20
+#: src/components/_other/shop/skin.frontConfig.tsx:23
 msgid "Love Paper Jet"
 msgstr "Jato Love Paper"
 
@@ -4243,7 +4399,7 @@ msgstr "Ten. General"
 msgid "Luck is finally on payroll"
 msgstr "A sorte finalmente está do seu lado"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:188
+#: src/components/_other/shop/skin.frontConfig.tsx:191
 msgid "Mage Robe"
 msgstr "Robe de Mago"
 
@@ -4320,23 +4476,23 @@ msgstr "Quem sabe na próxima ^^"
 msgid "Medieval"
 msgstr "Medieval"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:65
+#: src/components/_other/shop/skin.frontConfig.tsx:68
 msgid "Medieval Boots"
 msgstr "Botas Medievais"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:59
+#: src/components/_other/shop/skin.frontConfig.tsx:62
 msgid "Medieval Chest"
 msgstr "Colete Medieval"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:68
+#: src/components/_other/shop/skin.frontConfig.tsx:71
 msgid "Medieval Gloves"
 msgstr "Luvas Medievais"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:56
+#: src/components/_other/shop/skin.frontConfig.tsx:59
 msgid "Medieval Helmet"
 msgstr "Capacete Medieval"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:74
+#: src/components/_other/shop/skin.frontConfig.tsx:77
 msgid "Medieval Iron Arrow"
 msgstr "Flecha de Ferro Medieval"
 
@@ -4344,19 +4500,19 @@ msgstr "Flecha de Ferro Medieval"
 msgid "Medieval Pack"
 msgstr "Conjunto Medieval"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:62
+#: src/components/_other/shop/skin.frontConfig.tsx:65
 msgid "Medieval Pants"
 msgstr "Calças Medievais"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:80
+#: src/components/_other/shop/skin.frontConfig.tsx:83
 msgid "Medieval Spear"
 msgstr "Lança Medieval"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:77
+#: src/components/_other/shop/skin.frontConfig.tsx:80
 msgid "Medieval Steel Arrow"
 msgstr "Flecha de Aço Medieval"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:71
+#: src/components/_other/shop/skin.frontConfig.tsx:74
 msgid "Medieval Stone Arrow"
 msgstr "Flecha de Pedra Medieval"
 
@@ -4404,9 +4560,9 @@ msgstr "Contratos Mercenários"
 msgid "Mercenary contracts are currently disabled."
 msgstr "Contratos mercenários estão temporariamente indisponíveis."
 
-#: src/components/_military/battle/LootSummaryCard.tsx:90
+#: src/components/_military/battle/LootSummaryCard.tsx:89
 msgid "Mercenary earnings"
-msgstr ""
+msgstr "Rendimentos mercenários"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:15
 msgid "Mercenary Reputation"
@@ -4629,7 +4785,7 @@ msgstr "UM atingiu o nível {0}! Recompensa: {rewardDisplay}"
 msgid "MU Tournament Winner"
 msgstr "Vencedor do Torneio de UMs"
 
-#: src/components/_military/battle/LootSummaryCard.tsx:121
+#: src/components/_military/battle/LootSummaryCard.tsx:122
 msgid "My battle loot"
 msgstr "As minhas recompensas"
 
@@ -4884,7 +5040,7 @@ msgstr "Ainda não há doações"
 msgid "No ground ranking yet."
 msgstr "Nenhum ranking de terreno ainda."
 
-#: src/components/_political/law/LawList.tsx:65
+#: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
 msgstr "Nenhuma lei ainda"
 
@@ -4985,6 +5141,10 @@ msgstr "Nomeação para o governo"
 #: src/components/_political/law/LawFormModal.tsx:270
 msgid "Normal"
 msgstr "Normal"
+
+#: src/components/_common/GameRules.tsx:140
+msgid "Not all forms of helping are treated as boosting or exploiting; the intent will be assessed in line with the list provided above."
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:40
 msgid "Not bad!"
@@ -5353,6 +5513,14 @@ msgstr "Pílula"
 msgid "Plant a tree in the data center"
 msgstr "Plante uma árvore no data center"
 
+#: src/components/_common/GameRules.tsx:31
+msgid "Players are limited to a single account. Creating multiple accounts or using someone else's account for any reason is strictly prohibited."
+msgstr ""
+
+#: src/components/_common/GameRules.tsx:49
+msgid "Players can share an IP address if they have been registered as a \"Family Group\". This status must be requested in advance to an admin on our Discord. Group members are prohibited from:"
+msgstr ""
+
 #: src/components/_user/auth/ConnectFromModal.tsx:93
 #: src/components/_user/auth/ConnectFromModal.tsx:113
 #: src/components/_user/auth/ConnectFromModal.tsx:190
@@ -5375,6 +5543,10 @@ msgstr "Leis políticas"
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:66
 msgid "Political motions"
 msgstr "Moções Políticas"
+
+#: src/components/_common/GameRules.tsx:166
+msgid "Political Take Overs (PTOs) are permitted, but misusing it to extract a country's resources for personal/another country's gain, to damage the country or to intentionally distort market conditions is a punishable offense, which will include fines, bans, and removal from government roles. This goes for Military Units as well."
+msgstr ""
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:156
 msgid "Politics & Government"
@@ -5609,7 +5781,11 @@ msgstr "Propor redução salarial"
 msgid "Propositions"
 msgstr "Propostas"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:164
+#: src/components/_common/GameRules.tsx:286
+msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
 msgstr "Cajado Roxo"
 
@@ -5734,7 +5910,7 @@ msgstr "Regiões recomendadas"
 msgid "Recruit"
 msgstr "Recruta"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:167
+#: src/components/_other/shop/skin.frontConfig.tsx:170
 msgid "Red Staff"
 msgstr "Cajado Vermelho"
 
@@ -6511,7 +6687,7 @@ msgstr "Especialização"
 msgid "Specialization item"
 msgstr "Item de especialização"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:191
+#: src/components/_other/shop/skin.frontConfig.tsx:194
 msgid "Spellcaster Gloves"
 msgstr "Luvas de feiticeiro"
 
@@ -6847,6 +7023,10 @@ msgstr "O torneio terminou para sua equipe <0/>. Confira os resultados!"
 msgid "The universe owes you something big"
 msgstr "O universo te deve algo grande"
 
+#: src/components/_common/GameRules.tsx:73
+msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
+msgstr ""
+
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
 msgid "This action will submit your MU bid for this contract."
 msgstr "Esta ação vai submeter a licitação da sua UM para este contrato."
@@ -6924,39 +7104,39 @@ msgstr "Hora de produzir!"
 msgid "Tiny Pixel"
 msgstr "Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:95
+#: src/components/_other/shop/skin.frontConfig.tsx:98
 msgid "Tiny Pixel Ammo"
 msgstr "Munição Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:107
+#: src/components/_other/shop/skin.frontConfig.tsx:110
 msgid "Tiny Pixel Boots"
 msgstr "Botas Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:104
+#: src/components/_other/shop/skin.frontConfig.tsx:107
 msgid "Tiny Pixel Chest"
 msgstr "Colete Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:113
+#: src/components/_other/shop/skin.frontConfig.tsx:116
 msgid "Tiny Pixel Gloves"
 msgstr "Luvas Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:116
+#: src/components/_other/shop/skin.frontConfig.tsx:119
 msgid "Tiny Pixel Gun"
 msgstr "Pistola Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:98
+#: src/components/_other/shop/skin.frontConfig.tsx:101
 msgid "Tiny Pixel Heavy Ammo"
 msgstr "Munição Pesada Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:101
+#: src/components/_other/shop/skin.frontConfig.tsx:104
 msgid "Tiny Pixel Helmet"
 msgstr "Capacete Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:128
+#: src/components/_other/shop/skin.frontConfig.tsx:131
 msgid "Tiny Pixel Jet"
 msgstr "Jato Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:131
+#: src/components/_other/shop/skin.frontConfig.tsx:134
 msgid "Tiny Pixel Light Ammo"
 msgstr "Munição Leve Tiny Pixel"
 
@@ -6964,19 +7144,19 @@ msgstr "Munição Leve Tiny Pixel"
 msgid "Tiny Pixel Pack"
 msgstr "Conjunto Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:110
+#: src/components/_other/shop/skin.frontConfig.tsx:113
 msgid "Tiny Pixel Pants"
 msgstr "Calças Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:119
+#: src/components/_other/shop/skin.frontConfig.tsx:122
 msgid "Tiny Pixel Rifle"
 msgstr "Fuzil Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:122
+#: src/components/_other/shop/skin.frontConfig.tsx:125
 msgid "Tiny Pixel Sniper"
 msgstr "Sniper Tiny Pixel"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:125
+#: src/components/_other/shop/skin.frontConfig.tsx:128
 msgid "Tiny Pixel Tank"
 msgstr "Tanque Tiny Pixel"
 
@@ -6992,15 +7172,15 @@ msgstr "Dar gorjeta em artigo"
 msgid "Token Name"
 msgstr "Nome do Token"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:176
+#: src/components/_other/shop/skin.frontConfig.tsx:179
 msgid "Tome of Flames"
 msgstr "Tomo das Chamas"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:173
+#: src/components/_other/shop/skin.frontConfig.tsx:176
 msgid "Tome of Storms"
 msgstr "Tomo das Tempestades"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:170
+#: src/components/_other/shop/skin.frontConfig.tsx:173
 msgid "Tome of Tides"
 msgstr "Tomo das marés"
 
@@ -7178,7 +7358,7 @@ msgstr "Transferir <0/> para <1/>"
 msgid "Translator"
 msgstr "Tradutor"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:92
+#: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Trebuchet"
 msgstr "Trabuco"
 
@@ -7429,43 +7609,43 @@ msgstr "Utilizadores online"
 msgid "UwU"
 msgstr "UwU"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:8
+#: src/components/_other/shop/skin.frontConfig.tsx:11
 msgid "Valentine Ammo"
 msgstr "Munição de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:47
+#: src/components/_other/shop/skin.frontConfig.tsx:50
 msgid "Valentine Boots"
 msgstr "Botas de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:26
+#: src/components/_other/shop/skin.frontConfig.tsx:29
 msgid "Valentine Cat Ears"
 msgstr "Orelhas de Gato de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:29
+#: src/components/_other/shop/skin.frontConfig.tsx:32
 msgid "Valentine Chest"
 msgstr "Colete de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:53
+#: src/components/_other/shop/skin.frontConfig.tsx:56
 msgid "Valentine Gloves"
 msgstr "Luvas de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:41
+#: src/components/_other/shop/skin.frontConfig.tsx:44
 msgid "Valentine Gun"
 msgstr "Arma de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:14
+#: src/components/_other/shop/skin.frontConfig.tsx:17
 msgid "Valentine Heavy Ammo"
 msgstr "Munição Pesada de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:35
+#: src/components/_other/shop/skin.frontConfig.tsx:38
 msgid "Valentine Knife"
 msgstr "Faca de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:11
+#: src/components/_other/shop/skin.frontConfig.tsx:14
 msgid "Valentine Light Ammo"
 msgstr "Munição Leve de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:38
+#: src/components/_other/shop/skin.frontConfig.tsx:41
 msgid "Valentine Lollipop"
 msgstr "Chupa de São Valentim"
 
@@ -7473,25 +7653,29 @@ msgstr "Chupa de São Valentim"
 msgid "Valentine Pack"
 msgstr "Conjunto de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:32
+#: src/components/_other/shop/skin.frontConfig.tsx:35
 msgid "Valentine Pants"
 msgstr "Calças de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:44
+#: src/components/_other/shop/skin.frontConfig.tsx:47
 msgid "Valentine Rifle"
 msgstr "Fuzil de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:23
+#: src/components/_other/shop/skin.frontConfig.tsx:26
 msgid "Valentine Skirt"
 msgstr "Saia de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:50
+#: src/components/_other/shop/skin.frontConfig.tsx:53
 msgid "Valentine Sniper"
 msgstr "Sniper de São Valentim"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:17
+#: src/components/_other/shop/skin.frontConfig.tsx:20
 msgid "Valentine Tank"
 msgstr "Tanque de São Valentim"
+
+#: src/components/_common/GameRules.tsx:99
+msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
+msgstr ""
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -7662,6 +7846,10 @@ msgstr "Bem-vindo à sua economia!"
 msgid "When your <0>Health</0> runs out, open this menu to restore it with food."
 msgstr "Quando sua <0>Saúde</0> acabar, abra este menu para restaurá-la com comida."
 
+#: src/components/_common/GameRules.tsx:80
+msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
+msgstr ""
+
 #: src/pages/companies.tsx:102
 msgid "Whole Production"
 msgstr "Produção completa"
@@ -7683,7 +7871,7 @@ msgstr "com bônus + fidelidade"
 msgid "With bounty"
 msgstr "Com recompensa"
 
-#: src/components/_other/shop/skin.frontConfig.tsx:182
+#: src/components/_other/shop/skin.frontConfig.tsx:185
 msgid "Wizard Hat"
 msgstr "Chapéu de feiticeiro"
 
@@ -7730,7 +7918,7 @@ msgid "Wow congratulations! Anyway have you considered buying premium?"
 msgstr "Uau parabéns! Aliás, já pensou em comprar premium?"
 
 #: src/components/_political/law/LawFormModal.tsx:168
-#: src/components/_political/law/LawList.tsx:51
+#: src/components/_political/law/LawList.tsx:52
 msgid "Write a law"
 msgstr "Propor uma lei"
 
@@ -7741,6 +7929,10 @@ msgstr "Wtf"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:79
 msgid "Wtf is this possible?"
 msgstr "Wtf isso é possível?"
+
+#: src/components/_common/GameRules.tsx:283
+msgid "X. Punishments and Appeals"
+msgstr ""
 
 #: src/components/_user/user/UserRankingsPanel.tsx:44
 msgid "XP"
