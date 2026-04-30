@@ -15,23 +15,23 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:55
 msgid "  a. Trading equipment"
-msgstr ""
+msgstr "  a. Razmjena opreme"
 
 #: src/components/_common/GameRules.tsx:57
 msgid "  b. Working for each other"
-msgstr ""
+msgstr "  b. Rad jedno za drugo"
 
 #: src/components/_common/GameRules.tsx:129
 msgid " - Funneling assets without proper exchange"
-msgstr ""
+msgstr " - Utaja imovine bez odgovarajuće razmjene"
 
 #: src/components/_common/GameRules.tsx:127
 msgid " - Gear merging schemes *"
-msgstr ""
+msgstr " - Shema povezivanja opreme *"
 
 #: src/components/_common/GameRules.tsx:117
 msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
-msgstr ""
+msgstr " - Nisko plaćena radna snaga (0.7x manja od i 1.3x iznad normalne plaće)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:412
@@ -40,15 +40,15 @@ msgstr " - Razlog: {0}"
 
 #: src/components/_common/GameRules.tsx:133
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr ""
+msgstr " - Opetovane donacije resursa ili novca za vojnu jedinicu ili državu."
 
 #: src/components/_common/GameRules.tsx:131
 msgid " - Repeatedly tipping articles"
-msgstr ""
+msgstr " - Opetovano davanje napojnice za članke"
 
 #: src/components/_common/GameRules.tsx:123
 msgid " - Using outside market standards or manipulated trade prices"
-msgstr ""
+msgstr " - Korištenje trećih tržišnih standarda i manipuliranih trgovačkih cijena"
 
 #: src/components/_user/premium/PremiumActions.tsx:71
 msgid " Gift a sub"
@@ -173,7 +173,7 @@ msgstr "{score}/{0} Rundi"
 
 #: src/components/_common/GameRules.tsx:153
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
-msgstr ""
+msgstr "* Shema povezivanja opreme podrazumijeva kupnju škart predmeta za relativno visoku cijenu, njihovo povezivanje u predmet više kvalitete i preprodaju za manju cijenu."
 
 #: src/components/_other/shop/SkinPackModal.tsx:214
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
@@ -748,11 +748,11 @@ msgstr "1 legendarni јe pao, јoš 5 za punu ratnu opremu, nastavi s kockanjem!
 
 #: src/components/_common/GameRules.tsx:182
 msgid "1. English is the only allowed language in World/Global chat"
-msgstr ""
+msgstr "1. U globalnom chatu isključivo se koristi Engleski jezik"
 
 #: src/components/_common/GameRules.tsx:28
 msgid "1. One-Account Policy"
-msgstr ""
+msgstr "1. Pravila Jedinstvenog-Računa"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:137
 msgid "1★ Admiral"
@@ -868,11 +868,11 @@ msgstr "1★ Časnički Namjesnik"
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
-msgstr ""
+msgstr "2. IP i Dijeljenje Uređaja"
 
 #: src/components/_common/GameRules.tsx:187
 msgid "2. The report tool must be used fairly"
-msgstr ""
+msgstr "2. Nije dozvoljena zlouparaba sustava prijave"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:138
 msgid "2★ Admiral"
@@ -988,11 +988,11 @@ msgstr "2★ Časnički Namjesnik"
 
 #: src/components/_common/GameRules.tsx:70
 msgid "3. Bots and Automation"
-msgstr ""
+msgstr "3. Botovi i Automatizacija"
 
 #: src/components/_common/GameRules.tsx:190
 msgid "3. The following content, directly or implied, is strictly prohibited:"
-msgstr ""
+msgstr "3. Sljedeći sadržaj, direktno ili implicitno, je zabranjen:"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:139
 msgid "3★ Admiral"
@@ -1108,11 +1108,11 @@ msgstr "3★ Časnički Namjesnik"
 
 #: src/components/_common/GameRules.tsx:90
 msgid "4. Bug Exploits"
-msgstr ""
+msgstr "4. Iskorištavanje Bugova"
 
 #: src/components/_common/GameRules.tsx:256
 msgid "4. Community Behavior rules apply to every possible place within the game where people can write text and post content, as well as everywhere within the War Era Discord server"
-msgstr ""
+msgstr "4. Pravila ponašanja zajednice vrijede za sva mjesta u igri gdje korisnici mogu objaviti svoj sadržaj kao i unutar WarEra Discord servera"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:152
 msgid "4★ General"
@@ -1124,11 +1124,11 @@ msgstr "4★ General-potpukovnik"
 
 #: src/components/_common/GameRules.tsx:108
 msgid "5. Boosting and Exploitation"
-msgstr ""
+msgstr "5. Boostanje i Eksploatacija"
 
 #: src/components/_common/GameRules.tsx:263
 msgid "5. Prohibited content will be removed, and offenders will be muted and/or banned for increasing periods of time, depending on the level and/or frequency of abuse. Highly problematic individuals with a heavy history of abuse will be permanently muted or banned."
-msgstr ""
+msgstr "5. Zabranjeni sadržaj bit će uklonjen, a autori istih će biti utišani ili/i izopćeni na duži vremenski period ovisno o njihovoj razini ili/i frekvenciji zlouporabe. Ponovni prijestup korisnika sa teškim dosjeom će rezultirati  trajnim utišavanjem ili banom."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:153
 msgid "5★ General"
@@ -1140,11 +1140,11 @@ msgstr "5★ General-potpukovnik"
 
 #: src/components/_common/GameRules.tsx:163
 msgid "6. Taking Over and Misuse of State/Military unit assets"
-msgstr ""
+msgstr "6. Preuzimanje ili Pronevjera imovine Države/Vojne jedinice"
 
 #: src/components/_common/GameRules.tsx:178
 msgid "7. Community Behavior"
-msgstr ""
+msgstr "7. Ponašanje u Zajednici"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:75
 msgid "A <0>supporter badge</0>"
@@ -1193,7 +1193,7 @@ msgstr "Verifikacijski kod јe poslan na {phoneNumber}"
 
 #: src/components/_common/GameRules.tsx:197
 msgid "a. Insults, slurs and targeted harassment"
-msgstr ""
+msgstr "a. Uvrede, klevetanje i ciljano uznemiravanje"
 
 #: src/components/_political/law/Law.tsx:170
 #: src/components/_political/partyMotion/PartyMotion.tsx:169
@@ -1261,7 +1261,7 @@ msgstr "Račun"
 
 #: src/components/_common/GameRules.tsx:111
 msgid "Accounts created solely to benefit a player, group, military unit or country are not permitted. Exploited accounts can take many forms. This includes, but is not limited to:"
-msgstr ""
+msgstr "Računi kreirani isključivo za beneficiju drugog korisnika, grupe, vojne jedinice ili države nisu dozvoljeni. Računi stvoreni za eksploataciju postoje u različitim formama:"
 
 #: src/pages/country/[countryId]/government.tsx:69
 msgid "Actions"
@@ -1415,7 +1415,7 @@ msgstr "Svi skinovi u vlasništvu"
 
 #: src/components/_common/GameRules.tsx:59
 msgid "All transactions must stay fair and balanced."
-msgstr ""
+msgstr "Sve transakcije moraju ostati poštene i urvanotežene."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1503,7 +1503,7 @@ msgstr "Postavi animirani <0>GIF</0> kao avatar"
 
 #: src/components/_common/GameRules.tsx:61
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
-msgstr ""
+msgstr "Svaki pokušaj zaobilaženja pravila može rezultirati uklanjanjem statusa dijeljenja, novčanim kaznama i privremenom ili trajnom zabranom pristupa."
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:40
 msgid "API token created"
@@ -1698,7 +1698,7 @@ msgstr "Avatar uklonjen"
 
 #: src/components/_common/GameRules.tsx:200
 msgid "b. Revealing personal information or doxxing (such as names or addresses), without explicit consent"
-msgstr ""
+msgstr "b. Otkrivanje osobnih podataka ili doxxanja (stvarnog imena ili kućne adrese), bez prethodno eksplicitnog pristanka žrtve"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:170
 msgid "Baby Boomer"
@@ -1844,7 +1844,7 @@ msgstr "Ponudi"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:8
 msgid "Birthday Hat for 1st year of Beta"
-msgstr ""
+msgstr "Rođendanska Kapa za 1. godinu beta verzije igre"
 
 #: src/components/_user/user/UserDropdown.tsx:278
 msgid "Block (hide content)"
@@ -1987,7 +1987,7 @@ msgstr "Po strani"
 
 #: src/components/_common/GameRules.tsx:206
 msgid "c. Sexual, explicit or suggestive remarks, comments, images or content"
-msgstr ""
+msgstr "c. Seksualne, eksplicitne ili sugestivne primjedbe, komentari, slike ili sadržaj"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:26
 msgid "Cadet"
@@ -2682,7 +2682,7 @@ msgstr "Prilagođen font korisničkog imena"
 
 #: src/components/_common/GameRules.tsx:212
 msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
-msgstr ""
+msgstr "d. Bilo koji oblik diskriminacije, rasizma, ksenofobije, antisemitizma, homofobije, transfobije ili govora mržnje"
 
 #: src/components/_user/mission/MissionsList.tsx:190
 msgid "Daily"
@@ -3061,7 +3061,7 @@ msgstr "Zmaј"
 
 #: src/components/_common/GameRules.tsx:218
 msgid "e. Content about ongoing real-world wars and armed conflicts (most notably the Russo-Ukrainian war and the Israeli–Palestinian conflict)"
-msgstr ""
+msgstr "e. Sadržaj o trenutnim ratnim konfliktima (npr. sadržaj o ruskoj invaziji na ukrajinu i sukobima na bliskom istoku)"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:130
 msgid "Eat"
@@ -3304,15 +3304,15 @@ msgstr "Lovac Ranjivosti"
 
 #: src/components/_common/GameRules.tsx:146
 msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
-msgstr ""
+msgstr "Računi korišteni za eksploataciju biti će zauvijek izopćeni, a boostani račun će biti novčano kažnjen, privremeno ili zauvijek izopćen ako se uspije ustanoviti ponovno kršenje pravila."
 
 #: src/components/_common/GameRules.tsx:93
 msgid "Exploiting or ignoring bugs for personal gain is forbidden. All players are expected to report any discovered bugs and avoid taking advantage of them."
-msgstr ""
+msgstr "Eksploatacija ili ignoriranje bugova za vlastitu dobit je zabranjena. Očekuje se od svih igrača da prijave novootkrivene bugove i izbjegavaju iskorištavanja istih."
 
 #: src/components/_common/GameRules.tsx:225
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
-msgstr ""
+msgstr "f. Glorifikacija/apologetičnost prema ideologijama koje promiću mržnju; poput nacizma, neo-nacizma, fašizma, komunizma, terorizma i terorističkih grupacija i pokreta (prepoznate od strane UN-a, Europske Unije ili Francuske države), poricanje genocida, ratnih zločina, ili zločina protiv humanosti."
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:92
 msgid "Failed to copy"
@@ -3563,7 +3563,7 @@ msgstr "Zanimljivost: Kuća uvijek pobjeđuje."
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
-msgstr ""
+msgstr "g. Korištenje profila (profilne slike, deskripcije, imena) povezanih s ranije spomenutim ideologijama i pokretima kao i političke figure povezane s trenutnim ratnim konfliktima. Humoristična imena, deskripcije i slike su tolerirane s iznimkom za sadržaj povezan s nacizom i neo-nacizmom."
 
 #: src/components/_user/user/Level.tsx:91
 msgid "Gain <0>Xp</0> by finishing your missions!"
@@ -3790,7 +3790,7 @@ msgstr "Pištolj"
 
 #: src/components/_common/GameRules.tsx:243
 msgid "h. Glorification, promotion or encouragement of rule-breaking or cheating"
-msgstr ""
+msgstr "h. Glorifikacija, promocija ili poticanje na kršenje pravila ili varanje"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:239
 msgid "Hamster Tank"
@@ -3880,7 +3880,7 @@ msgstr "Čuo sam da kupovina premiuma povećava šanse :3"
 
 #: src/components/_common/GameRules.tsx:249
 msgid "i. Promotion of other games, products, or services"
-msgstr ""
+msgstr "i. Promocija drugih igara, proizvoda ili servisa"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:81
 msgid "I'm proud of you"
@@ -4002,7 +4002,7 @@ msgstr "Novak"
 
 #: src/components/_common/GameRules.tsx:37
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
-msgstr ""
+msgstr "Namjerno ili ponovljeno kršenje ovih pravila rezultirati će trajnim izopćenjem."
 
 #: src/components/_layout/LayoutMenu.tsx:125
 #: src/components/_user/user/MyAvatar.tsx:35
@@ -4052,7 +4052,7 @@ msgstr "Predmeti"
 
 #: src/components/_common/GameRules.tsx:252
 msgid "j. Spam and repeated messages"
-msgstr ""
+msgstr "j. Spam i ponavljanje poruka"
 
 #: src/pages/companies.tsx:32
 #: src/pages/user/[userId]/companies.tsx:56
@@ -4106,7 +4106,7 @@ msgstr "Samo јoš 1..."
 
 #: src/components/_common/GameRules.tsx:274
 msgid "Just because something isn't explicitly stated in the rules does not mean you can abuse it. Attempts to bypass rules or exploit loopholes will still be punished."
-msgstr ""
+msgstr "Samo zato što nešto nije jasno definirano pravilima ne znači da je zlouporaba dozvoljena. Pokušaji zaobilaženja pravila ili iskorištavanje rupa u zakonu je i dalje kažnjivo."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:50
 msgid "Just one more… what could go wrong?"
@@ -5144,7 +5144,7 @@ msgstr "Normalno"
 
 #: src/components/_common/GameRules.tsx:140
 msgid "Not all forms of helping are treated as boosting or exploiting; the intent will be assessed in line with the list provided above."
-msgstr ""
+msgstr "Ne adresiraju se sve forme pomoći kao pokušaji boostanja ili iskorištavanja; namjera će se procijeniti u skladu s gore navedenim popisom."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:40
 msgid "Not bad!"
@@ -5515,11 +5515,11 @@ msgstr "Posadi drvo pored podatkovnog centra"
 
 #: src/components/_common/GameRules.tsx:31
 msgid "Players are limited to a single account. Creating multiple accounts or using someone else's account for any reason is strictly prohibited."
-msgstr ""
+msgstr "Igrači su ograničeni na jedan jedinstveni račun. Kreiranje više računa ili korištenje tuđeg računa je striktno zabranjeno."
 
 #: src/components/_common/GameRules.tsx:49
 msgid "Players can share an IP address if they have been registered as a \"Family Group\". This status must be requested in advance to an admin on our Discord. Group members are prohibited from:"
-msgstr ""
+msgstr "Igrači smiju dijeliti istu IP adresu ako su se registrirali kao \"Obiteljska Grupa\". Za ovaj status je potrebno prethodno podnijeti zahtjev administratoru na službenom Discord serveru. Članovi obiteljske grupe ne smiju:"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:93
 #: src/components/_user/auth/ConnectFromModal.tsx:113
@@ -5546,7 +5546,7 @@ msgstr "Politički prijedlozi"
 
 #: src/components/_common/GameRules.tsx:166
 msgid "Political Take Overs (PTOs) are permitted, but misusing it to extract a country's resources for personal/another country's gain, to damage the country or to intentionally distort market conditions is a punishable offense, which will include fines, bans, and removal from government roles. This goes for Military Units as well."
-msgstr ""
+msgstr "Političko Preuzimanje Vlasti (PPV) je dozvoljeno, ali zloupraba iste za ekstrakciju državnih resursa za vlastitu ili dobit trećih država; za nanošenje štete zemlji ili namjerno iskrivljavanje tržišnih uvjeta rezultirati će novčanim kaznama, izopćenjima, i opozivom korisnika na vladinim funkcijama. Pravilo vrijedi i u domeni Vojne Jedinice."
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:156
 msgid "Politics & Government"
@@ -5783,7 +5783,7 @@ msgstr "Prijedlozi"
 
 #: src/components/_common/GameRules.tsx:286
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
-msgstr ""
+msgstr "Kazne, zajedno s njihovim opravdanjima su vidljivi na korisničkim računima. Igrači se mogu žaliti putem službenog Diskord servera gdje je moguće pružiti detaljniji uvid i dokaze. Kršenja pravila moguće je prijaviti uz validne dokaze."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
@@ -7025,7 +7025,7 @@ msgstr "Univerzum ti duguјe nešto veliko.."
 
 #: src/components/_common/GameRules.tsx:73
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
-msgstr ""
+msgstr "Korištenje botova, skripti ili bilo koje forme automatizacija za dobivanje prednosti nad drugim igračima je striktno zabranjeno. Ovo uključuje, ali nije ograničeno na web-scraping i stvaranje skripti koje zaobilaze zamišljene restrikcije ili funkcije igre."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
 msgid "This action will submit your MU bid for this contract."
@@ -7675,7 +7675,7 @@ msgstr "Valentinovo Tenk"
 
 #: src/components/_common/GameRules.tsx:99
 msgid "Valuable contributions will be recognized with the \"Bug Finder\" badge."
-msgstr ""
+msgstr "Vrijedni doprinosi biti će nagrađeni \"Deratizator Bugova\" značkom."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:56
 msgid "Vanguard"
@@ -7848,7 +7848,7 @@ msgstr "Kada potrošiš svoje <0>Zdravlje</0>, otvori ovaј meni da povratiš zd
 
 #: src/components/_common/GameRules.tsx:80
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
-msgstr ""
+msgstr "Iako su alati koji prikupljaju i prezentiraju podatke javno dostupnog API dozvoljeni, za bilo koja druga potraživanja i pristup podatcima molimo direktno kontaktirajte tim osoblja."
 
 #: src/pages/companies.tsx:102
 msgid "Whole Production"
@@ -7932,7 +7932,7 @@ msgstr "Kvragu, kako je ovo moguće?"
 
 #: src/components/_common/GameRules.tsx:283
 msgid "X. Punishments and Appeals"
-msgstr ""
+msgstr "X. Kazne i Žalbe"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:44
 msgid "XP"
