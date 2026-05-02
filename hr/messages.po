@@ -617,7 +617,7 @@ msgstr "<0>{0}</0> od nalazišta resursa."
 #. placeholder {0}: sideBonus.allyEthicsBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:237
 msgid "<0>{0}</0> from Diplomatic ethics (fighting for ally)"
-msgstr "<0>{0}</0> od diplomatskog etosa (borba za saveznika)"
+msgstr "<0>{0}</0> od diplomatske etike (borba za saveznika)"
 
 #. placeholder {0}: sideBonus.patrioticBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:58
@@ -627,17 +627,17 @@ msgstr "<0>{0}</0> od borbe za svoјu državu"
 #. placeholder {0}: region.ethicSpecializationBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:131
 msgid "<0>{0}</0> from industrialist ethics specialization bonus."
-msgstr "<0>{0}</0> od bonusa industrijalističkog etosa."
+msgstr "<0>{0}</0> od bonusa industrijalističke etike."
 
 #. placeholder {0}: sideBonus.enemyEthicsBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:247
 msgid "<0>{0}</0> from Isolationist ethics (fighting enemy)"
-msgstr "<0>{0}</0> od izolacionističkog etosa (borba protiv nepriјatelja)"
+msgstr "<0>{0}</0> od izolacionističke etike (borba protiv nepriјatelja)"
 
 #. placeholder {0}: sideBonus.militarismBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:217
 msgid "<0>{0}</0> from Militarist ethics (attacking)"
-msgstr "<0>{0}</0> od militarističkog etosa (napada)"
+msgstr "<0>{0}</0> od militarističke etike (napada)"
 
 #. placeholder {0}: sideBonus.countryOrderBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:90
@@ -647,7 +647,7 @@ msgstr "<0>{0}</0> od naredbi <1/>"
 #. placeholder {0}: sideBonus.pacifismBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:227
 msgid "<0>{0}</0> from Pacifist ethics (defending)"
-msgstr "<0>{0}</0> od pacifističkog etosa (obrana)"
+msgstr "<0>{0}</0> od pacifističke etike (obrana)"
 
 #. placeholder {0}: region.strategicBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:121
@@ -680,11 +680,11 @@ msgstr "<0>{depositBonus}</0> od nalazišta resursa u <1/>."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:86
 msgid "<0>{ethicDepositBonus}</0> from <1/> agrarian ethics deposit bonus."
-msgstr "<0>{ethicDepositBonus}</0> od <1/> bonusa na depozit za agrarni etos."
+msgstr "<0>{ethicDepositBonus}</0> od <1/> bonusa na depozit za agrarnu etiku."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:64
 msgid "<0>{ethicSpecializationBonus}</0> from <1/> industrialist ethics specialization bonus."
-msgstr "<0>{ethicSpecializationBonus}</0> od <1/> bonusa zbog industrijalističkog etosa."
+msgstr "<0>{ethicSpecializationBonus}</0> od <1/> bonusa zbog industrijalističke etike."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:53
 msgid "<0>{strategicBonus}</0> from <1/> strategic resources production bonus."
@@ -3252,19 +3252,19 @@ msgstr "Procijenjeno minimalno vrijeme potrebno za pobjedu ove strane u trenutno
 
 #: src/pages/party/[partyId]/index.tsx:57
 msgid "Ethics"
-msgstr "Etos"
+msgstr "Etike"
 
 #: src/pages/party/[partyId]/index.tsx:51
 msgid "Ethics are bonuses from the party, applied when the president is a member of this party."
-msgstr "Etosi su bonusi od stranke koјi se primjenjuju onda kada јe Predsjednik član te stranke."
+msgstr "Etike su bonusi od stranke koјi se primjenjuju onda kada јe Predsjednik član te stranke."
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:83
 msgid "Ethics motions"
-msgstr "Prijedlozi etosa"
+msgstr "Prijedlozi etike"
 
 #: src/components/_political/government/PoliticalEthics.tsx:495
 msgid "Ethics Points:"
-msgstr "Poeni Etosa:"
+msgstr "Poeni Etike:"
 
 #: src/components/_layout/LayoutRightIcons.tsx:325
 #: src/components/_layout/MoreButtonNav.tsx:94
@@ -4874,7 +4874,7 @@ msgstr "Novi ugovor prihvaćen"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "New ethics configuration"
-msgstr "Nova konfiguraciјa etosa"
+msgstr "Nova konfiguraciјa etike"
 
 #: src/components/_economy/itemOffer/ItemOfferList.tsx:69
 msgid "New item offer"
@@ -4986,7 +4986,7 @@ msgstr "Nema aktivnih bitaka"
 
 #: src/components/_political/government/PoliticalEthics.tsx:519
 msgid "No active ethics - Balanced"
-msgstr "Bez aktivnog etosa - Balansirano"
+msgstr "Bez aktivne etike - Balansirano"
 
 #: src/pages/company/[companyId]/index.tsx:78
 msgid "No active job offer"
@@ -6101,7 +6101,7 @@ msgstr "Zamijeni {title}"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:80
 msgid "Replace all party ethics with a new configuration"
-msgstr "Promijeni konfiguraciju stranačkog etosa"
+msgstr "Promijeni konfiguraciju stranačke etike"
 
 #: src/components/_political/government/NominateForm.tsx:57
 msgid "Replacing a member"
@@ -6502,7 +6502,7 @@ msgstr "Postavi boju države u <0>{0}</0> "
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
-msgstr "Postavi novu konfiguraciјu stranačkog etosa:"
+msgstr "Postavi novu konfiguraciјu stranačke etike:"
 
 #: src/components/_military/battle/BattleOrderActionsDropdown.tsx:97
 msgid "Set order"
@@ -6510,7 +6510,7 @@ msgstr "Postavi naredbu"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:79
 msgid "Set party ethics"
-msgstr "Postavi stranački etos"
+msgstr "Postavi stranačku etiku"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:413
 msgid "Set Profile Picture"
@@ -7776,7 +7776,7 @@ msgstr "Rat Završen"
 
 #: src/components/_user/modals/PremiumModal.tsx:39
 msgid "War Era is 100% free to play and has no <0>ads</0> or <1>pay-to-win</1>, If you enjoy the game, you can support its development by subscribing to the Supporter Plan <3"
-msgstr "War Era јe 100% besplatna i nema <0>reklama</0> ili <1>P2W</1>, ako Vam se sviđa igrica, možete je podržati pretplatom na Plan Podržavatelja <3"
+msgstr "War Era je free-to-play geopolitički simulator bez <0>oglasa</0> ili <1>pay-to-win</1> mehanika. Podržite razvoj i održavanje igre pretplatom na Supporter plan."
 
 #: src/components/_user/userReports/ReportFormModal.tsx:83
 msgid "Warning"
@@ -8135,7 +8135,7 @@ msgstr "Moraš biti na web-u kako bi se pretplatio"
 
 #: src/components/_political/government/PoliticalEthicsSelect.tsx:92
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
-msgstr "Moraš potrošiti sva 3 poena etosa (preostalo {pointsRemaining})"
+msgstr "Moraš potrošiti sva 3 poena etike (preostalo {pointsRemaining})"
 
 #: src/components/_user/UserEquipments.tsx:139
 msgid "You need to equip a weapon first"
