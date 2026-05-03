@@ -6459,7 +6459,7 @@ msgstr "Eladási megbízások"
 msgid "Sell price:"
 msgstr "Eladási ár:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "elad"
 
@@ -7792,7 +7792,7 @@ msgstr "Várakozás a(z) {0}. szintre"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Várakozás arra, hogy a munkás elfogadja vagy elutasítsa a bércsökkentést. Nem változtathatod meg a bért, amíg nem válaszol."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "szeretne"
 
@@ -8376,7 +8376,7 @@ msgstr "Az országod felkelést kezdett <0/> területén <1/> ellen"
 msgid "Your current job"
 msgstr "Jelenlegi munkád"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Jelenlegi megrendelésed"
 

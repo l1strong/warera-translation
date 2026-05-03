@@ -6459,7 +6459,7 @@ msgstr "Pārdošanas rīkojumi"
 msgid "Sell price:"
 msgstr "Pārdošanas cena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "pārdod"
 
@@ -7792,7 +7792,7 @@ msgstr "Gaidām {0}. līmeņa sasniegšanu"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Gaidām, kad strādnieks apstiprinās vai noraidīs algas samazināšanu. Tu nevari mainīt algu, kamēr viņš nav atbildējis."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "pērk"
 
@@ -8376,7 +8376,7 @@ msgstr "Tava valsts uzsāka sacelšanos <0/> pret <1/>"
 msgid "Your current job"
 msgstr "Tava darba vieta"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Tavs pašreizējais sludinājums"
 

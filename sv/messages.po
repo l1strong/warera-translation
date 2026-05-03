@@ -6459,7 +6459,7 @@ msgstr "Säljorder"
 msgid "Sell price:"
 msgstr "Säljpris:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "säljer"
 
@@ -7792,7 +7792,7 @@ msgstr "Väntar på nivå {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Väntar på att den anställde ska acceptera eller neka lönesänkningen. Du kan inte ändra lönen förrän de har svarat."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "köper"
 
@@ -8376,7 +8376,7 @@ msgstr "Ditt land startade en revolt i <0/> mot <1/>"
 msgid "Your current job"
 msgstr "Ditt nuvarande jobb"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Din nuvarande order"
 

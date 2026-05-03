@@ -6459,7 +6459,7 @@ msgstr "Verkooporders"
 msgid "Sell price:"
 msgstr "Verkoopprijs:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "verkoopt"
 
@@ -7792,7 +7792,7 @@ msgstr "Wachten op level {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Wachten tot de werknemer de loonsverlaging accepteert of weigert. Je kunt het loon niet wijzigen totdat ze hebben gereageerd."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "wil"
 
@@ -8376,7 +8376,7 @@ msgstr "Je land begon in <0/> een opstand tegen <1/>"
 msgid "Your current job"
 msgstr "Je huidige baan"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Je huidige bestelling"
 

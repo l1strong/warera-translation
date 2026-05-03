@@ -6459,7 +6459,7 @@ msgstr "Замовлення на продаж"
 msgid "Sell price:"
 msgstr "Ціна продажу:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "продає"
 
@@ -7792,7 +7792,7 @@ msgstr "Очікуємо на {0} рівень"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Очікуємо на рішення робітника щодо зменшення зарплати. Ви не можете змінити зарплату, поки він не відповість."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "хоче"
 
@@ -8376,7 +8376,7 @@ msgstr "Ваша держава розпочала повстання у <0/> п
 msgid "Your current job"
 msgstr "Ваша поточна робота"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Ваше замовлення"
 

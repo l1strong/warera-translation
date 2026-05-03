@@ -6459,7 +6459,7 @@ msgstr "Ordens de venda"
 msgid "Sell price:"
 msgstr "Preço de venda:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "vende"
 
@@ -7792,7 +7792,7 @@ msgstr "Aguardando nível {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Aguardando o trabalhador aceitar ou rejeitar a redução salarial. Você não pode alterar o salário até que ele responda."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "quer"
 
@@ -8376,7 +8376,7 @@ msgstr "Seu país iniciou uma revolta em <0/> contra <1/>"
 msgid "Your current job"
 msgstr "Seu emprego atual"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Sua ordem atual"
 

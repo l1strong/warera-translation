@@ -6459,7 +6459,7 @@ msgstr "賣單"
 msgid "Sell price:"
 msgstr "賣出價格："
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "賣出"
 
@@ -7792,7 +7792,7 @@ msgstr "等待達到等級 {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "在員工同意或拒絕接受降薪之前，你無法更改其薪資。"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "需求"
 
@@ -8376,7 +8376,7 @@ msgstr "你的國家在<0/>開始反抗<1/>"
 msgid "Your current job"
 msgstr "你當前的工作"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "你當前的訂單"
 
