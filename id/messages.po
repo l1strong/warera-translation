@@ -6459,7 +6459,7 @@ msgstr "Pesanan penjualan"
 msgid "Sell price:"
 msgstr "Harga jual:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "menjual"
 
@@ -7792,7 +7792,7 @@ msgstr "Menunggu level {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Menunggu pekerja menerima atau menolak pengurangan upah. Kamu tidak bisa mengubah upah sampai mereka merespons."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "ingin"
 
@@ -8376,7 +8376,7 @@ msgstr "Negaramu memulai pemberontakan di <0/> melawan <1/>"
 msgid "Your current job"
 msgstr "Pekerjaanmu saat ini"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Pesananmu saat ini"
 

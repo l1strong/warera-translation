@@ -6459,7 +6459,7 @@ msgstr "Pardavimo pavedimai"
 msgid "Sell price:"
 msgstr "Pardavimo kaina:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "parduoda"
 
@@ -7792,7 +7792,7 @@ msgstr "Laukiama {0} lygio"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Laukiama, kol darbuotojas priims arba atmes atlyginimo sumažinimą. Negalite keisti atlyginimo, kol jis neatsakys."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "nori"
 
@@ -8376,7 +8376,7 @@ msgstr "Jūsų šalis pradėjo sukilimą vietovėje <0/> prieš <1/>"
 msgid "Your current job"
 msgstr "Tavo dabartinis darbas"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Jūsų dabartinis užsakymas"
 

@@ -6459,7 +6459,7 @@ msgstr "Meow meow"
 msgid "Sell price:"
 msgstr "Meow meow:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "meow"
 
@@ -7792,7 +7792,7 @@ msgstr "Meow meow meow {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Meow meow meow meow meow meow meow meow meow meow meow. Meow meow meow meow meow meow meow meow."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "meow"
 
@@ -8376,7 +8376,7 @@ msgstr "Meow meow meow meow meow meow <0/> meow <1/>"
 msgid "Your current job"
 msgstr "Meow meow meow"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Meow meow meow"
 
