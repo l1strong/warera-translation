@@ -6459,7 +6459,7 @@ msgstr "طلبات البيع"
 msgid "Sell price:"
 msgstr "سعر البيع:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "يبيع"
 
@@ -7792,7 +7792,7 @@ msgstr "بانتظار المستوى {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "بانتظار قبول العامل أو رفضه لتخفيض الأجر. لا يمكنك تغيير الأجر حتى يرد."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "يريد"
 
@@ -8376,7 +8376,7 @@ msgstr "بدأت دولتك ثورة في <0/> ضد <1/>"
 msgid "Your current job"
 msgstr "وظيفتك الحالية"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "طلبك الحالي"
 

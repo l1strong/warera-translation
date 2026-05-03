@@ -6459,7 +6459,7 @@ msgstr "Satış emirleri"
 msgid "Sell price:"
 msgstr "Satış fiyatı:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "satıyor"
 
@@ -7792,7 +7792,7 @@ msgstr "{0}. seviye bekleniyor"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Çalışanın maaş indirimini kabul veya reddetmesi bekleniyor. Yanıt verene kadar maaşı değiştiremezsiniz."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "istiyor"
 
@@ -8376,7 +8376,7 @@ msgstr "Ülken <1/>'a karşı <0/>'da isyan başlattı"
 msgid "Your current job"
 msgstr "Şuanki işin"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Mevcut market emrin"
 

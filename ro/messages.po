@@ -6457,7 +6457,7 @@ msgstr "Comenzi de vânzare"
 msgid "Sell price:"
 msgstr "Preț vânzare:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "vinde"
 
@@ -7790,7 +7790,7 @@ msgstr "Se așteaptă nivel {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Se așteaptă ca angajatul să accepte sau să respingă reducerea salarială. Nu poți modifica salariul până când nu răspunde."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "vrea"
 
@@ -8374,7 +8374,7 @@ msgstr "Țara ta a început o revoltă în <0/> împotriva <1/>"
 msgid "Your current job"
 msgstr "Locul tău de muncă actual"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Comanda ta actuală"
 

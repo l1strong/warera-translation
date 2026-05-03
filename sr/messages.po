@@ -6459,7 +6459,7 @@ msgstr "Налози за продају"
 msgid "Sell price:"
 msgstr "Продајна цена:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "продаје"
 
@@ -7792,7 +7792,7 @@ msgstr "Чека се ниво {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Чека се да радник прихвати или одбије смањење плате. Не можеш променити плату док не одговори."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "жели"
 
@@ -8376,7 +8376,7 @@ msgstr "Твоја држава је започела побуну у <0/> пр�
 msgid "Your current job"
 msgstr "Твој тренутни посао"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Твој тренутни налог"
 
