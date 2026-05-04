@@ -2188,7 +2188,7 @@ msgstr "Izaberi stranu i dodirni da naneseš <0>Štetu</0>! Nastavi nanositi št
 
 #: src/components/_user/user/UserHeader.tsx:272
 msgid "Citizen since <0><1/></0>"
-msgstr "Korisnik od: <0><1/></0>"
+msgstr "Korisnik već: <0><1/></0>"
 
 #: src/components/_political/country/CountryHeader.tsx:124
 msgid "Citizens"
