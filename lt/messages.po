@@ -179,7 +179,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Jei vartotojas jau turi dalį šio rinkinio dalių, kaina bus sumažinta"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Gali sudegti"
 
@@ -721,7 +721,7 @@ msgstr "<0>Pastiprinimas</0> baigsis <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Silpninimas</0> baigsis <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>Jaustukai</0> pokalbyje"
 
@@ -1164,11 +1164,11 @@ msgstr ""
 msgid "7. Community Behavior"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "<0>rėmėjo ženklelis</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Gražus spalvotas vartotojo vardas, kuris tave padarys labai populiarų"
 
@@ -1321,7 +1321,7 @@ msgstr "Vykstantys karai"
 msgid "Activity"
 msgstr "Aktyvumas"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Pridėti vartotoją"
 
@@ -1472,7 +1472,7 @@ msgstr "Beveik paruošta..."
 msgid "Alpha Tester"
 msgstr "Alfa testuotojas"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Amunicija"
@@ -1515,7 +1515,7 @@ msgstr "Sukurta sąjunga"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "El. laiškas su patvirtinimo kodu išsiųstas adresu {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Animuotas <0>GIF</0> avataras"
 
@@ -1881,7 +1881,7 @@ msgstr "Žalos bonusai"
 msgid "Boost your production!"
 msgstr "Padidink savo gamybą!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Batai"
@@ -2027,7 +2027,7 @@ msgstr "Atšaukti"
 msgid "Cancel as gov"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Galite bet kada atsisakyti prenumeratos"
 
@@ -2165,7 +2165,7 @@ msgstr "Pakeisti {0} mokestį į"
 msgid "Check your loot!"
 msgstr "Patikrink savo grobį!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Liemenė"
@@ -2698,7 +2698,7 @@ msgstr "Dabartinis ciklas:"
 msgid "Current total:"
 msgstr "Dabartinis iš viso:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Pasirinktinis vartotojo vardo šriftas"
 
@@ -3242,7 +3242,7 @@ msgstr "Įveskite kodą, kurį išsiuntėme į jūsų el. paštą."
 msgid "Entrepreneurship"
 msgstr "Verslumas"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Nepavyko pradėti prisijungimo per Google."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Nepavyko pradėti prisijungimo per Google. Bandykite iš naujo įvykdyti CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Šeimos grupė"
 
@@ -3616,7 +3616,7 @@ msgstr "Generuoti misijas"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Pagamina <0>{0}</0> per dieną"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr ""
 
@@ -3624,7 +3624,7 @@ msgstr ""
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Gaukite kelias išvaizdas vienu metu su 30 % nuolaida!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Įsigyk rėmėjo planą"
 
@@ -3677,7 +3677,7 @@ msgstr "Suteikia <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Gaublys (eksperimentinis)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Pirštinės"
@@ -3835,7 +3835,7 @@ msgstr "Sveikata"
 msgid "Heavy Ammo"
 msgstr "Sunkioji Amunicija"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Šalmas"
@@ -3852,7 +3852,7 @@ msgstr "Pagalba MU"
 msgid "Help MU Members"
 msgstr "Padėk karinio vieneto nariams"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Padėk žaidimui augti"
 
@@ -4158,7 +4158,7 @@ msgstr "Pašalinti narį"
 msgid "Knife"
 msgstr "Peilis"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Peiliams nereikia amunicijos"
 
@@ -4723,7 +4723,7 @@ msgstr "Per mėnesį:"
 msgid "More"
 msgstr "Daugiau"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Netrukus pasirodys daugiau Premium funkcijų!"
 
@@ -4876,7 +4876,7 @@ msgstr "Niekada nepasiduok!"
 msgid "Never stop gambling"
 msgstr "Niekada nenustok lošti"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Tik prezidentai gali užregistruoti savo šalį"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Tik rėmėjai gali matyti savo išlaidų ir pajamų išklotinę."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Atidaryti"
 
@@ -5258,8 +5258,8 @@ msgstr "Atidaryti"
 msgid "Open <0>{count}</0>"
 msgstr "Atidaryk <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Atidaryti dėžę"
 
@@ -5287,7 +5287,7 @@ msgstr "Atidaryk jį, kad gautum geresnį atsitiktinį daiktą"
 msgid "Open it to get a random item"
 msgstr "Atidaryk, kad gautum atsitiktinį daiktą"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Vienu metu atidaryk kelias <0>dėžes</0>"
 
@@ -5383,7 +5383,7 @@ msgstr "Pacifistas"
 msgid "Packs"
 msgstr "Rinkiniai"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Kelnės"
@@ -5535,7 +5535,7 @@ msgstr "Pradėk kovą!"
 msgid "Pill"
 msgstr "Tabletė"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Pasodinti medį duomenų centre"
 
@@ -5819,12 +5819,16 @@ msgstr "Purpurinė Lazda"
 msgid "Put yourself to work!"
 msgstr "Imkis darbo!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick best items of any tier"
+msgstr ""
+
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Greitas išardymas"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Greitai išardykite daiktus"
 
@@ -6381,11 +6385,11 @@ msgstr "Ieškokite gavėjo vartotojo vardo..."
 msgid "Search username to nominate..."
 msgstr "Ieškokite naudotojo vardo, kurį norite nominuoti..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Peržiūrėk visą savo darbuotojų ir įmonių statistiką"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Peržiūrėkite savo išlaidų ir pajamų suvestinę"
 
@@ -6397,7 +6401,7 @@ msgstr "Pasirink vietą"
 msgid "Select a region"
 msgstr "Pasirinkite regioną"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Pažymėti viską"
 
@@ -6500,7 +6504,7 @@ msgstr "Siųsti pinigus kitai šaliai"
 msgid "Sergeant"
 msgstr "Seržantas"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Nustatykite <0>aprašymą</0>"
 
@@ -6868,7 +6872,7 @@ msgstr "Dosnus rėmėjas"
 msgid "Support the game"
 msgstr "Palaikyk žaidimą"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Paremkite žaidimą ir greitai išardykite daiktus!"
 
@@ -7114,7 +7118,7 @@ msgstr "Šis regionas nėra sujungtas su savininko sostine."
 msgid "This round only"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Šis naudotojas nepriklauso jokiai šeimos grupei"
 
@@ -7284,7 +7288,7 @@ msgstr "iš viso"
 msgid "Total"
 msgstr "Iš viso"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Iš viso atidaryta dėžių"
 
@@ -7408,7 +7412,7 @@ msgstr "Pamokos nustatytos iš naujo"
 msgid "Unblock (show content)"
 msgstr "Atblokuoti (rodyti turinį)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Nuimti viską"
 
@@ -7430,11 +7434,11 @@ msgstr "Atrakinti"
 msgid "Unlock {0} skin{1}"
 msgstr "Atrakinti {0} skin{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Atrakinti mygtuką „Padėti visiems“"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Atrakinkite mygtuką „Gaminti viską“"
 
@@ -7462,7 +7466,7 @@ msgstr "Neramumai"
 msgid "Unrest Contributors"
 msgstr "Neramumų kurstytojai"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Atžymėti viską"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Panaikinti prisiekusio priešo šalį"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Iki {0} ekipuotės rinkinių"
 
@@ -7504,7 +7508,7 @@ msgstr "Patobulinti įmonę"
 msgid "Upgrade Skills"
 msgstr "Tobulinti įgūdžius"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Tapti rėmėju"
 
@@ -7607,7 +7611,7 @@ msgstr "Vartotojas užblokuotas"
 msgid "User participation to the ground points."
 msgstr "Žaidėjų indėlis į sausumos taškus."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Naudotojas pašalintas iš šeimos grupės"
 
@@ -7825,8 +7829,8 @@ msgstr "Karai"
 msgid "Wealth"
 msgstr "Turtas"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Ginklas"
 
@@ -8035,7 +8039,7 @@ msgstr "Sugadinai RNG"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr ""
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Išardyti daiktus iš savo inventoriaus galite pasirinkę daiktą."
 
@@ -8167,7 +8171,7 @@ msgstr "Norėdami užsiprenumeruoti, turite būti prisijungę per svetainę"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Privalote išleisti visus 3 etikos taškus (liko {pointsRemaining})"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Pirmiausia turi apsiginkluoti"
 

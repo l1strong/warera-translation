@@ -179,7 +179,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*如果用戶已經擁有一些造型包中的造型，價格會減少"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*可能會燒起來"
 
@@ -721,7 +721,7 @@ msgstr "<0>加成</0> 結束於 <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>減益</0> 結束於 <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "在聊天中使用 <0>表情符號</0> "
 
@@ -1164,11 +1164,11 @@ msgstr ""
 msgid "7. Community Behavior"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "一個 <0>支持者勳章</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "一個漂亮的使用者名稱會讓你變得十分受歡迎"
 
@@ -1321,7 +1321,7 @@ msgstr "進行中戰爭"
 msgid "Activity"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "新增用戶"
 
@@ -1472,7 +1472,7 @@ msgstr "快準備好了..."
 msgid "Alpha Tester"
 msgstr ""
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "子彈"
@@ -1515,7 +1515,7 @@ msgstr "聯盟已被建立"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "一封包含認證密碼的 email 已經送至 {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "把會動的 <0>GIF</0> 當作頭像"
 
@@ -1881,7 +1881,7 @@ msgstr "傷害加成"
 msgid "Boost your production!"
 msgstr "增加你的產量！"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "靴子"
@@ -2027,7 +2027,7 @@ msgstr "取消"
 msgid "Cancel as gov"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "可隨時取消"
 
@@ -2165,7 +2165,7 @@ msgstr "將 {0} 的稅率更改為"
 msgid "Check your loot!"
 msgstr "來看看你的戰利品！"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "胸甲"
@@ -2698,7 +2698,7 @@ msgstr "目前刻："
 msgid "Current total:"
 msgstr "目前總共："
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "客製化用戶名稱字體"
 
@@ -3242,7 +3242,7 @@ msgstr "輸入我們傳送至你電子郵件的驗證碼"
 msgid "Entrepreneurship"
 msgstr "創業能力"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "無法開始 Google 登入。"
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "無法開始 Google 登入。請重試 CAPTCHA"
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "家庭群組"
 
@@ -3616,7 +3616,7 @@ msgstr "產生任務"
 msgid "Generates <0>{0}</0>/day"
 msgstr "產生 <0>{0}</0>/日"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr ""
 
@@ -3624,7 +3624,7 @@ msgstr ""
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "一次獲得多款造型享有30%折扣"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "獲取支持者計畫"
 
@@ -3677,7 +3677,7 @@ msgstr "給予 <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "球體 (試驗性)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "手套"
@@ -3835,7 +3835,7 @@ msgstr "生命值"
 msgid "Heavy Ammo"
 msgstr "重型子彈"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "頭盔"
@@ -3852,7 +3852,7 @@ msgstr ""
 msgid "Help MU Members"
 msgstr "幫助軍團成員"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "幫助遊戲發展"
 
@@ -4158,7 +4158,7 @@ msgstr ""
 msgid "Knife"
 msgstr "小刀"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "小刀不使用子彈"
 
@@ -4723,7 +4723,7 @@ msgstr ""
 msgid "More"
 msgstr "更多"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "更多高級訂閱功能即將推出！"
 
@@ -4876,7 +4876,7 @@ msgstr "永不放棄！"
 msgid "Never stop gambling"
 msgstr "不要停止賭博"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "只有總統可以為他的國家報名"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "只有支持者可以查看自己的支出與收入明細。"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "開啟"
 
@@ -5258,8 +5258,8 @@ msgstr "開啟"
 msgid "Open <0>{count}</0>"
 msgstr "開啟 <0>{count}</0> 個"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "開啟箱子"
 
@@ -5287,7 +5287,7 @@ msgstr "打開它來獲取一樣更好的隨機物品"
 msgid "Open it to get a random item"
 msgstr "打開它來獲取一樣隨機物品"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "同時打開多個<0>箱子</0> "
 
@@ -5383,7 +5383,7 @@ msgstr "和平主義"
 msgid "Packs"
 msgstr "組合包"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "褲子"
@@ -5535,7 +5535,7 @@ msgstr "選擇一個戰鬥！"
 msgid "Pill"
 msgstr "藥丸"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "在資料中心種一棵樹"
 
@@ -5819,12 +5819,16 @@ msgstr ""
 msgid "Put yourself to work!"
 msgstr "開始工作吧！"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick best items of any tier"
+msgstr ""
+
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "快速拆解"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "快速拆解物品"
 
@@ -6381,11 +6385,11 @@ msgstr "搜尋接收者用戶名稱..."
 msgid "Search username to nominate..."
 msgstr "搜尋用戶名稱以指派..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "查看所有員工與公司的統計資料"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "查看你的支出與收入明細"
 
@@ -6397,7 +6401,7 @@ msgstr "選擇一個地點"
 msgid "Select a region"
 msgstr "選擇一個地區"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "全選"
 
@@ -6500,7 +6504,7 @@ msgstr "匯錢給其他國家"
 msgid "Sergeant"
 msgstr "中士"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "設置 <0>描述</0>"
 
@@ -6868,7 +6872,7 @@ msgstr ""
 msgid "Support the game"
 msgstr "支持這個遊戲"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "支持這個遊戲，且快速拆解物品"
 
@@ -7114,7 +7118,7 @@ msgstr "該地區未與其擁有者的首都連接。"
 msgid "This round only"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "該用戶不屬於任何家庭群組"
 
@@ -7284,7 +7288,7 @@ msgstr "總共"
 msgid "Total"
 msgstr "總計"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr ""
 
@@ -7408,7 +7412,7 @@ msgstr "重置教學"
 msgid "Unblock (show content)"
 msgstr "解除黑名單（顯示內容）"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "脫下全部"
 
@@ -7430,11 +7434,11 @@ msgstr "解鎖"
 msgid "Unlock {0} skin{1}"
 msgstr "解鎖 {0} 造型{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "解鎖一鍵幫助"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "解鎖一鍵生產"
 
@@ -7462,7 +7466,7 @@ msgstr "動盪值"
 msgid "Unrest Contributors"
 msgstr "動盪值貢獻者"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "取消全選"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "清除宿敵國家"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "最多可擁有 {0} 個裝備集"
 
@@ -7504,7 +7508,7 @@ msgstr "升級公司"
 msgid "Upgrade Skills"
 msgstr "升級技能"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "升級為支持者"
 
@@ -7607,7 +7611,7 @@ msgstr "用戶遭屏蔽"
 msgid "User participation to the ground points."
 msgstr "用戶對優勢點的貢獻"
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "用戶已從家庭群組中被移除"
 
@@ -7825,8 +7829,8 @@ msgstr "戰爭"
 msgid "Wealth"
 msgstr "資產"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "武器"
 
@@ -8035,7 +8039,7 @@ msgstr "隨機數生成器都被你玩壞了"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr ""
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "你可以在倉庫中透過選取裝備來拆解裝備。"
 
@@ -8167,7 +8171,7 @@ msgstr "你必須連上網路才能訂閱"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "你必須花費所有 3 點傳統點數 (剩餘 {pointsRemaining})"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "你需要先裝備一件武器"
 

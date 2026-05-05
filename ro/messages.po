@@ -177,7 +177,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Dacă jucătorul deține deja piese ale setului, prețul va fi redus"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Posibil să ardă"
 
@@ -719,7 +719,7 @@ msgstr "<0>Buff</0> se termină <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Debuff</0> se termină <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>Emoticoane</0> în chat"
 
@@ -1162,11 +1162,11 @@ msgstr ""
 msgid "7. Community Behavior"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "O <0>insignă de Susținător</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Un nume de utilizator colorat care te va face foarte popular"
 
@@ -1319,7 +1319,7 @@ msgstr "Războaie active"
 msgid "Activity"
 msgstr "Activitate"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Adaugă utilizator"
 
@@ -1470,7 +1470,7 @@ msgstr "Aproape gata..."
 msgid "Alpha Tester"
 msgstr "Alpha Tester"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Muniție"
@@ -1513,7 +1513,7 @@ msgstr "O alianță a fost formată"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Un email cu codul de verificare a fost trimis la {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "<0>GIF</0> animat ca avatar"
 
@@ -1879,7 +1879,7 @@ msgstr "Daune bonus"
 msgid "Boost your production!"
 msgstr "Îmbunătățește-ți producția!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Cizme"
@@ -2025,7 +2025,7 @@ msgstr "Anulează"
 msgid "Cancel as gov"
 msgstr "Anulează ca guvern"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Anulează oricând"
 
@@ -2163,7 +2163,7 @@ msgstr "Schimbă taxa {0} la"
 msgid "Check your loot!"
 msgstr "Vezi ce ai primit!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Vestă"
@@ -2696,7 +2696,7 @@ msgstr "Valoare tic actual:"
 msgid "Current total:"
 msgstr "Total până acum:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Font personalizat pentru numele utilizatorului"
 
@@ -3240,7 +3240,7 @@ msgstr "Introdu codul pe care ți l-am trimis pe email."
 msgid "Entrepreneurship"
 msgstr "Antreprenoriat"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3358,7 +3358,7 @@ msgstr "Eroareîn pornirea autentificării cu Google. "
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Eroare în pornirea autentificării cu Google. Refă testul CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Grup Familie"
 
@@ -3614,7 +3614,7 @@ msgstr "Generează Misiuni"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Generează <0>{0}</0>/zi"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "Primește un <0>skin exclusiv</0> pentru suținători!"
 
@@ -3622,7 +3622,7 @@ msgstr "Primește un <0>skin exclusiv</0> pentru suținători!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Primești mai multe skinuri la o reducere de 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Obține planul Susținător"
 
@@ -3675,7 +3675,7 @@ msgstr "Oferă <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Glob (experimental)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Mănuși"
@@ -3833,7 +3833,7 @@ msgstr "Viață"
 msgid "Heavy Ammo"
 msgstr "Muniție grea"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Cască"
@@ -3850,7 +3850,7 @@ msgstr "Ajutor pentru UM"
 msgid "Help MU Members"
 msgstr "Ajută membrii UM"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Ajută jocul să crească"
 
@@ -4156,7 +4156,7 @@ msgstr "Exclude membrul"
 msgid "Knife"
 msgstr "Cuțit"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Cuțitele nu acceptă muniție"
 
@@ -4721,7 +4721,7 @@ msgstr "Lunar:"
 msgid "More"
 msgstr "Mai mult"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Mai multe funcții premium în curând!"
 
@@ -4874,7 +4874,7 @@ msgstr "Nu renunța niciodată!"
 msgid "Never stop gambling"
 msgstr "Nu riști, nu câștigi!"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5248,7 +5248,7 @@ msgstr "Doar președinții pot înregistra țara lor"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Doar Susținătorii își pot vedea raportul de venit și cheltuieli."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Deschide"
 
@@ -5256,8 +5256,8 @@ msgstr "Deschide"
 msgid "Open <0>{count}</0>"
 msgstr "Deschide <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Deschide cutia"
 
@@ -5285,7 +5285,7 @@ msgstr "Deschide-o pentru a primi un obiect aleatoriu mai bun"
 msgid "Open it to get a random item"
 msgstr "Deschide-o pentru a primi un obiect aleatoriu"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Deschide mai multe <0>Cutii</0> în același timp"
 
@@ -5381,7 +5381,7 @@ msgstr "Pacifist"
 msgid "Packs"
 msgstr "Pachete"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Pantaloni"
@@ -5533,7 +5533,7 @@ msgstr "Alege o luptă!"
 msgid "Pill"
 msgstr "Pastilă"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Plantează un copac în datacenter"
 
@@ -5817,12 +5817,16 @@ msgstr "Purple Staff"
 msgid "Put yourself to work!"
 msgstr "Hai, la treabă!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick best items of any tier"
+msgstr ""
+
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Demontare rapidă"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Dezmembrează rapid obiectele"
 
@@ -6379,11 +6383,11 @@ msgstr "Caută nume destinatar..."
 msgid "Search username to nominate..."
 msgstr "Caută nume jucător..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Vezi toate statisticile muncitorilor și companiilor tale"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Vezi raportul cheltuielilor și veniturilor tale"
 
@@ -6395,7 +6399,7 @@ msgstr "Selectează o locație"
 msgid "Select a region"
 msgstr "Selectați o regiune"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Selectează tot"
 
@@ -6498,7 +6502,7 @@ msgstr "Trimite bani către o țară"
 msgid "Sergeant"
 msgstr "Sergent"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Setează o <0>descriere</0>"
 
@@ -6866,7 +6870,7 @@ msgstr "Sugar Daddy"
 msgid "Support the game"
 msgstr "Susține jocul"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Sprijină jocul și demontează rapid obiecte!"
 
@@ -7112,7 +7116,7 @@ msgstr "Această regiune nu este conectată la capitala proprietarului său."
 msgid "This round only"
 msgstr "Doar runda curentă"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Acest utilizator nu face parte din niciun grup de familie"
 
@@ -7282,7 +7286,7 @@ msgstr "total"
 msgid "Total"
 msgstr "Total"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Total cutii deschise"
 
@@ -7406,7 +7410,7 @@ msgstr "Tutoriale resetate"
 msgid "Unblock (show content)"
 msgstr "Deblochează (arată conținut)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Dezechipează tot"
 
@@ -7428,11 +7432,11 @@ msgstr "Deblochează"
 msgid "Unlock {0} skin{1}"
 msgstr "Deblochează {0} skin{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Deblochează butonul Ajută-i pe toți"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Deblochează butonul Produce tot"
 
@@ -7460,7 +7464,7 @@ msgstr "Tensiune"
 msgid "Unrest Contributors"
 msgstr "Contribuții tensiune"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Deselectează tot"
 
@@ -7470,7 +7474,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Elimină inamicul principal al țării"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Până la {0} seturi de echipament"
 
@@ -7502,7 +7506,7 @@ msgstr "Îmbunătățește compania"
 msgid "Upgrade Skills"
 msgstr "Îmbunătățește competențele"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Devino Susținător"
 
@@ -7605,7 +7609,7 @@ msgstr "Utilizator blocat"
 msgid "User participation to the ground points."
 msgstr "Participarea la punctele Teren"
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Utilizator scos din grupul de familie"
 
@@ -7823,8 +7827,8 @@ msgstr "Războaie"
 msgid "Wealth"
 msgstr "Avere"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Armă"
 
@@ -8033,7 +8037,7 @@ msgstr "Ai stricat generatorul de numere"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Ai adus 10 bebeluși pe lume (nivel >= {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Poți demonta obiecte din inventar selectând un obiect."
 
@@ -8165,7 +8169,7 @@ msgstr "Trebuie să fii pe web pentru a te abona"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Trebuie să consumi toate cele 3 puncte (mai ai {pointsRemaining})"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Echipează întâi o armă"
 

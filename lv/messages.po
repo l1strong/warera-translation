@@ -179,7 +179,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Ja lietotājam jau ir dažas lietas no komplekta, cena būs mazāka"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Var aizdegties"
 
@@ -721,7 +721,7 @@ msgstr "<0>Pastiprinājums</0> beigsies <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Paģiras</0> beigsies <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>Emotikoni</0> čatā"
 
@@ -1164,11 +1164,11 @@ msgstr ""
 msgid "7. Community Behavior"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "<0>Atbalstītāja medaļa</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Smuks, krāsains lietotājvārds, kas padarīs tevi ļoti populāru"
 
@@ -1321,7 +1321,7 @@ msgstr "Aktīvi kari"
 msgid "Activity"
 msgstr "Aktivitāte"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Pievienot Lietotāju"
 
@@ -1472,7 +1472,7 @@ msgstr "Gandrīz gatavs..."
 msgid "Alpha Tester"
 msgstr "Alfa Testētājs"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Munīcija"
@@ -1515,7 +1515,7 @@ msgstr "Alianse tika noslēgta"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "E-pasts ar verifikācijas kodu tika nosūtīts uz {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Animēts <0>GIF</0> kā profila bilde"
 
@@ -1881,7 +1881,7 @@ msgstr "Bonusa bojājumi"
 msgid "Boost your production!"
 msgstr "Palielini savu ražotspēju!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Zābaki"
@@ -2027,7 +2027,7 @@ msgstr "Atcelt"
 msgid "Cancel as gov"
 msgstr "Atcelt kā valdība"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Atcel jebkurā laikā"
 
@@ -2165,7 +2165,7 @@ msgstr "Pamainīt {0} nodokli uz"
 msgid "Check your loot!"
 msgstr "Apskati savu salaupīto!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Bruņuveste"
@@ -2698,7 +2698,7 @@ msgstr "Pašreizējais tikšķis:"
 msgid "Current total:"
 msgstr "Kopā raundā:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Pielāgots lietotājvārda fonts"
 
@@ -3242,7 +3242,7 @@ msgstr "Ievadi kodu, kuru nosūtījām tev uz e-pastu."
 msgid "Entrepreneurship"
 msgstr "Uzņēmējdarbība"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Neizdevās pieslēgties caur Google."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Neizdevās pieslēgties caur Google. Lūdzu, pamēģini atkārtot CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Ģimenes Grupa"
 
@@ -3616,7 +3616,7 @@ msgstr "Ģenerēt Uzdevumus"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Saražo <0>{0}</0>/dienā"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "Saņem ekskluzīvu <0>abonētāja veidolu</0>!"
 
@@ -3624,7 +3624,7 @@ msgstr "Saņem ekskluzīvu <0>abonētāja veidolu</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Iegādājies vairākus veidolus reizē ar 30% atlaidi!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Iegādāties atbalstītāja plānu"
 
@@ -3677,7 +3677,7 @@ msgstr "Dod <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Globuss (eksperimentāls)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Cimdi"
@@ -3835,7 +3835,7 @@ msgstr "Dzīvības"
 msgid "Heavy Ammo"
 msgstr "Smagā Munīcija"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Ķivere"
@@ -3852,7 +3852,7 @@ msgstr "Palīdzēt MV"
 msgid "Help MU Members"
 msgstr "Palīdzēt MV biedriem"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Palīdzi spēlei attīstīties"
 
@@ -4158,7 +4158,7 @@ msgstr "Izraidīt Biedru"
 msgid "Knife"
 msgstr "Nazis"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Ar nažiem nevar šaut"
 
@@ -4723,7 +4723,7 @@ msgstr "Mēneša:"
 msgid "More"
 msgstr "Vairāk"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Vairāk premium funkciju jau drīzumā!"
 
@@ -4876,7 +4876,7 @@ msgstr "Nekad nepadodies!"
 msgid "Never stop gambling"
 msgstr "Nekad neatmet spēlēt azartspēles"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Tikai prezidenti var reģistrēt savu valsti"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Tikai atbalstītāji var redzēt savu tēriņu un ienākumu sadalījumu."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Atvērt"
 
@@ -5258,8 +5258,8 @@ msgstr "Atvērt"
 msgid "Open <0>{count}</0>"
 msgstr "Atver <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Atvērt kasti"
 
@@ -5287,7 +5287,7 @@ msgstr "Atver, lai dabūtu kādu labāku ekipējumu"
 msgid "Open it to get a random item"
 msgstr "Atver, lai dabūtu kādu ekipējumu"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Atver vairākas <0>Kastes</0> vienlaicīgi"
 
@@ -5383,7 +5383,7 @@ msgstr "Pacifisms"
 msgid "Packs"
 msgstr "Komplekti"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Bikses"
@@ -5535,7 +5535,7 @@ msgstr "Izvēlies kauju!"
 msgid "Pill"
 msgstr "Tablete"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Iestādi koku datu centrā"
 
@@ -5819,12 +5819,16 @@ msgstr "Violetā Nūja"
 msgid "Put yourself to work!"
 msgstr "Sāc strādāt!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick best items of any tier"
+msgstr ""
+
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Ātrā izjaukšana"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Ātri izjauc ekipējumu"
 
@@ -6381,11 +6385,11 @@ msgstr "Meklēt saņēmēja lietotājvārdu..."
 msgid "Search username to nominate..."
 msgstr "Meklēt lietotāju, kuru nominēt..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Vari aplūkot visu savu strādnieku un uzņēmumu statistiku"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Vari aplūkot savu tēriņu un ienākumu sadalījumu"
 
@@ -6397,7 +6401,7 @@ msgstr "Izvēlies reģionu"
 msgid "Select a region"
 msgstr "Izvēlies reģionu"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Atlasīt visu"
 
@@ -6500,7 +6504,7 @@ msgstr "Nosūtīt naudu kādai valstij"
 msgid "Sergeant"
 msgstr "Seržants"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Iestatīt <0>aprakstu</0>"
 
@@ -6868,7 +6872,7 @@ msgstr "Cukurtētiņš"
 msgid "Support the game"
 msgstr "Atbalsti spēli"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Atbalsti spēli un spēsi ātri izjaukt ekipējumus!"
 
@@ -7114,7 +7118,7 @@ msgstr "Šis reģions nav sasaistīts ar šīs valsts galvaspilsētu."
 msgid "This round only"
 msgstr "Tikai šim raundam"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Šis lietotājs nav nevienas ģimenes grupas dalībnieks"
 
@@ -7284,7 +7288,7 @@ msgstr "kopā"
 msgid "Total"
 msgstr "Kopā"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Kopā atvērtas kastes"
 
@@ -7408,7 +7412,7 @@ msgstr "Pamācības atiestatītas"
 msgid "Unblock (show content)"
 msgstr "Atbloķēt (rādīt saturu)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Izģērbties"
 
@@ -7430,11 +7434,11 @@ msgstr "Iegūt"
 msgid "Unlock {0} skin{1}"
 msgstr "Iegūt {0} veidolu{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Iegūsti \"Palīdzēt visiem\" pogu"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Iegūsti \"Ražot visu\" pogu"
 
@@ -7462,7 +7466,7 @@ msgstr "Nemieri"
 msgid "Unrest Contributors"
 msgstr "Nemieru Dalībnieki"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Noņemt visu atlasi"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Atiestatīt zvērētā ienaidnieka valsti"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Līdz {0} ekipējuma komplektiem"
 
@@ -7504,7 +7508,7 @@ msgstr "Uzlabot Uzņēmumu"
 msgid "Upgrade Skills"
 msgstr "Uzlabot Prasmes"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Kļūt par atbalstītāju"
 
@@ -7607,7 +7611,7 @@ msgstr "Lietotājs nobloķēts"
 msgid "User participation to the ground points."
 msgstr "Lietotāju dalība ieņemšanas punktu ieguvē."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Lietotājs noņemts no ģimenes grupas"
 
@@ -7825,8 +7829,8 @@ msgstr "Kari"
 msgid "Wealth"
 msgstr "Bagātība"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Ierocis"
 
@@ -8035,7 +8039,7 @@ msgstr "Varbūtības teorija no tevis baidās"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Tu laidi pasaulē 10 mazuļus (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Tu vari izjaukt ekipējumus, atlasot tos savā inventārā."
 
@@ -8167,7 +8171,7 @@ msgstr "Abonēt var tikai tīmekļa lapā"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Tu vari izmantot visus 3 vērtību punktus ({pointsRemaining} atlikuši)"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Paņem rokās ieroci vispirms"
 

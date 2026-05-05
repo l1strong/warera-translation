@@ -179,7 +179,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Priset reduceras om användaren redan äger delar av uppsättningen"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Kan brinna upp"
 
@@ -721,7 +721,7 @@ msgstr "<0>Förstärkning</0> upphör <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Försvagning</0> upphör <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>Emojis</0> i chatten"
 
@@ -1164,11 +1164,11 @@ msgstr ""
 msgid "7. Community Behavior"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "Ett <0>supporter-emblem</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Ett vackert färgat användarnamn som gör dig populär"
 
@@ -1321,7 +1321,7 @@ msgstr "Pågående krig"
 msgid "Activity"
 msgstr "Aktivitet"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Lägg till användare"
 
@@ -1472,7 +1472,7 @@ msgstr "Nästan klar..."
 msgid "Alpha Tester"
 msgstr "Alfatestare"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Ammunition"
@@ -1515,7 +1515,7 @@ msgstr "En allians har ingåtts"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Ett e-postmeddelande med verifieringskod har skickats till {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Animerad <0>GIF</0> som profilbild"
 
@@ -1881,7 +1881,7 @@ msgstr "Bonusskada"
 msgid "Boost your production!"
 msgstr "Öka din produktion!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Kängor"
@@ -2027,7 +2027,7 @@ msgstr "Avbryt"
 msgid "Cancel as gov"
 msgstr "Avbryt som regering"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Säg upp när som helst"
 
@@ -2165,7 +2165,7 @@ msgstr "Ändra skatten för {0} till"
 msgid "Check your loot!"
 msgstr "Inventera krigsbytet!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Kroppsskydd"
@@ -2698,7 +2698,7 @@ msgstr "Nuvarande tidsenhet:"
 msgid "Current total:"
 msgstr "Nuvarande total:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Anpassat typsnitt för användarnamn"
 
@@ -3242,7 +3242,7 @@ msgstr "Ange koden vi skickade till din e-post."
 msgid "Entrepreneurship"
 msgstr "Entreprenörskap"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Kunde inte starta Google-inloggning."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Kunde inte starta Google-inloggning. Försök med CAPTCHA igen."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Familjegrupp"
 
@@ -3616,7 +3616,7 @@ msgstr "Generera uppdrag"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Genererar <0>{0}</0>/dag"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "Få ett exklusivt <0>prenumerant-utseende</0>!"
 
@@ -3624,7 +3624,7 @@ msgstr "Få ett exklusivt <0>prenumerant-utseende</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Få flera utseenden samtidigt med 30 % rabatt!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Skaffa supporter-medlemskap"
 
@@ -3677,7 +3677,7 @@ msgstr "Ger <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Jordglobskarta (experimentell)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Handskar"
@@ -3835,7 +3835,7 @@ msgstr "Hälsa"
 msgid "Heavy Ammo"
 msgstr "Tung ammunition"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Hjälm"
@@ -3852,7 +3852,7 @@ msgstr "Hjälp till förbandet"
 msgid "Help MU Members"
 msgstr "Hjälp förbandsmedlemmar"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Hjälp spelet att växa"
 
@@ -4158,7 +4158,7 @@ msgstr "Uteslut medlem"
 msgid "Knife"
 msgstr "Morakniv 2000"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Knivar kan inte laddas med ammunition"
 
@@ -4723,7 +4723,7 @@ msgstr "Månadsvis:"
 msgid "More"
 msgstr "Mer"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Fler premiumfunktioner kommer snart!"
 
@@ -4876,7 +4876,7 @@ msgstr "Ge aldrig upp!"
 msgid "Never stop gambling"
 msgstr "Sluta aldrig försöka"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Endast presidenter kan registrera sitt land"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Endast supporters kan se specifikationen för utgifter och inkomster."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Öppna"
 
@@ -5258,8 +5258,8 @@ msgstr "Öppna"
 msgid "Open <0>{count}</0>"
 msgstr "Öppna <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Öppna låda"
 
@@ -5287,7 +5287,7 @@ msgstr "Öppna för att få ett bättre slumpmässigt föremål"
 msgid "Open it to get a random item"
 msgstr "Öppna för att få ett slumpmässigt föremål"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Öppna flera <0>lådor</0> samtidigt"
 
@@ -5383,7 +5383,7 @@ msgstr "Pacifist"
 msgid "Packs"
 msgstr "Paket"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Byxor"
@@ -5535,7 +5535,7 @@ msgstr "Välj en strid!"
 msgid "Pill"
 msgstr "Piller"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Plantera ett träd i datacentret"
 
@@ -5819,12 +5819,16 @@ msgstr "Lila stav"
 msgid "Put yourself to work!"
 msgstr "Sätt igång och jobba!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick best items of any tier"
+msgstr ""
+
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Snabbskrotning"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Skrota föremål snabbt"
 
@@ -6381,11 +6385,11 @@ msgstr "Sök mottagarens användarnamn..."
 msgid "Search username to nominate..."
 msgstr "Sök användarnamn att nominera..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Se statistik för alla dina anställda och företag"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Se specifikation över dina utgifter och inkomster"
 
@@ -6397,7 +6401,7 @@ msgstr "Välj en plats"
 msgid "Select a region"
 msgstr "Välj en region"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Välj alla"
 
@@ -6500,7 +6504,7 @@ msgstr "Skicka pengar till ett annat land"
 msgid "Sergeant"
 msgstr "Sergeant"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Ange en <0>beskrivning</0>"
 
@@ -6868,7 +6872,7 @@ msgstr "Storsponsor"
 msgid "Support the game"
 msgstr "Stöd spelet"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Stöd spelet och skrota föremål snabbt!"
 
@@ -7114,7 +7118,7 @@ msgstr "Regionen saknar förbindelse till ägarens huvudstad."
 msgid "This round only"
 msgstr "Endast denna rond"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Denna användare ingår inte i någon familjegrupp"
 
@@ -7284,7 +7288,7 @@ msgstr "totalt"
 msgid "Total"
 msgstr "Totalt"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Totalt antal öppnade lådor"
 
@@ -7408,7 +7412,7 @@ msgstr "Guiderna har återställts"
 msgid "Unblock (show content)"
 msgstr "Avblockera (visa innehåll)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Ta av allt"
 
@@ -7430,11 +7434,11 @@ msgstr "Lås upp"
 msgid "Unlock {0} skin{1}"
 msgstr "Lås upp {0} utseende{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Lås upp knappen \"Hjälp alla\""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Lås upp knappen \"Tillverka alla\""
 
@@ -7462,7 +7466,7 @@ msgstr "Oroligheter"
 msgid "Unrest Contributors"
 msgstr "Bidragsgivare till oroligheter"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Avmarkera alla"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Ta bort svuren fiende-status för landet"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Upp till {0} utrustningsuppsättningar"
 
@@ -7504,7 +7508,7 @@ msgstr "Uppgradera företag"
 msgid "Upgrade Skills"
 msgstr "Uppgradera färdigheter"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Uppgradera till supporter"
 
@@ -7607,7 +7611,7 @@ msgstr "Användaren blockerad"
 msgid "User participation to the ground points."
 msgstr "Användarens bidrag till terrängpoängen."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Användaren borttagen från familjegruppen"
 
@@ -7825,8 +7829,8 @@ msgstr "Krig"
 msgid "Wealth"
 msgstr "Förmögenhet"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Vapen"
 
@@ -8035,7 +8039,7 @@ msgstr "Du knäckte slumpgeneratorn"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Du tog 10 bebisar till världen (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Du kan skrota föremål från ditt förråd genom att välja ett föremål."
 
@@ -8167,7 +8171,7 @@ msgstr "Du måste använda webbversionen för att prenumerera"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Du måste spendera alla 3 ideologipoäng ({pointsRemaining} återstår)."
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Du måste utrusta ett vapen först"
 

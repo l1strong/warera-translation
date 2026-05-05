@@ -179,7 +179,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Якщо гравець вже володіє частиною набору, ціну буде зменшено"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Може згоріти"
 
@@ -721,7 +721,7 @@ msgstr "<0>Підсилення</0> закінчується <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Послаблення</0> закінчується <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>Емоції</0> у чаті"
 
@@ -1164,11 +1164,11 @@ msgstr ""
 msgid "7. Community Behavior"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "<0>Значок прихильника</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Прекрасний кольоровий нікнейм, який зробить вас дуже відомим"
 
@@ -1321,7 +1321,7 @@ msgstr "Активні війни"
 msgid "Activity"
 msgstr "Актиність"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Додати користувача"
 
@@ -1472,7 +1472,7 @@ msgstr "Майже готово..."
 msgid "Alpha Tester"
 msgstr "Альфатестер"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Набої"
@@ -1515,7 +1515,7 @@ msgstr "Альянс було сформовано"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Електронний лист з кодом підтвердження було надіслано на {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Анімований <0>GIF</0> як аватар"
 
@@ -1881,7 +1881,7 @@ msgstr "Бонусна шкода"
 msgid "Boost your production!"
 msgstr "Збільште продуктивність!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Чоботи"
@@ -2027,7 +2027,7 @@ msgstr "Скасувати"
 msgid "Cancel as gov"
 msgstr "Скасувати як уряд"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Скасуйте будь-коли"
 
@@ -2165,7 +2165,7 @@ msgstr "Встановити податок на {0}:"
 msgid "Check your loot!"
 msgstr "Перевірте інвентар!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Бронежилет"
@@ -2698,7 +2698,7 @@ msgstr "Поточний такт:"
 msgid "Current total:"
 msgstr "Поточна сума:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Власний шрифт імені користувача"
 
@@ -3242,7 +3242,7 @@ msgstr "Введіть код, який ми надіслали на вашу п
 msgid "Entrepreneurship"
 msgstr "Підприємливість"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Не вдалось розпочати вхід через Google."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Не вдалось розпочати вхід через Google. Повторно пройдіть CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Сімейна група"
 
@@ -3616,7 +3616,7 @@ msgstr "Згенерувати місії"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Створює <0>{0}</0>/день"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "Отримайте ексклюзивний <0>скін підписника</0>!"
 
@@ -3624,7 +3624,7 @@ msgstr "Отримайте ексклюзивний <0>скін підписни
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Отримайте відразу кілька скінів зі знижкою 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Стати підписником"
 
@@ -3677,7 +3677,7 @@ msgstr "Дає <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Глобус (експериментально)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Рукавиці"
@@ -3835,7 +3835,7 @@ msgstr "Здоровʼя"
 msgid "Heavy Ammo"
 msgstr "Важкі набої"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Шолом"
@@ -3852,7 +3852,7 @@ msgstr "Допомога для ВП"
 msgid "Help MU Members"
 msgstr "Допоможіть бійцям ВП"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Підтримай розвиток гри"
 
@@ -4158,7 +4158,7 @@ msgstr "Вигнати бійця"
 msgid "Knife"
 msgstr "Ніж"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Ножі не використовують набої"
 
@@ -4723,7 +4723,7 @@ msgstr "За місяць:"
 msgid "More"
 msgstr "Більше"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Більше преміум-функцій у майбутньому!"
 
@@ -4876,7 +4876,7 @@ msgstr "Ніколи не здавайся!"
 msgid "Never stop gambling"
 msgstr "Ніколи не переставай лудоманити"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Тільки президент може зареєструвати кр
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Тільки підписники можуть бачити розбір їх витрат та доходів."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Відкрити"
 
@@ -5258,8 +5258,8 @@ msgstr "Відкрити"
 msgid "Open <0>{count}</0>"
 msgstr "Відкрийте <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Відкрити кейс"
 
@@ -5287,7 +5287,7 @@ msgstr "Відкрий, щоб отримати кращий випадкови�
 msgid "Open it to get a random item"
 msgstr "Відкрий, щоб отримати предмет"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Відкривайте декілька <0>Кейсів</0> одночасно"
 
@@ -5383,7 +5383,7 @@ msgstr "Пацифізм"
 msgid "Packs"
 msgstr "Набори"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Штани"
@@ -5535,7 +5535,7 @@ msgstr "Вривайся в бій!"
 msgid "Pill"
 msgstr "Пігулка"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Посадіть дерево у дата-центрі"
 
@@ -5819,12 +5819,16 @@ msgstr "Фіолетовий посох"
 msgid "Put yourself to work!"
 msgstr "Почни працювати!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick best items of any tier"
+msgstr ""
+
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Швидкий розбір"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Швидко розбирайте предмети"
 
@@ -6381,11 +6385,11 @@ msgstr "Знайти отримувача за прізвиськом"
 msgid "Search username to nominate..."
 msgstr "Пошук за прізвиськом..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Переглядайте статистику ваших робітників та фабрик"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Переглядайте розбір ваших доходів та витрат"
 
@@ -6397,7 +6401,7 @@ msgstr "Виберіть локацію"
 msgid "Select a region"
 msgstr "Виберіть регіон"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Вибрати все"
 
@@ -6500,7 +6504,7 @@ msgstr "Переказати гроші іншій державі"
 msgid "Sergeant"
 msgstr "Сержант"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Встановити <0>опис</0>"
 
@@ -6868,7 +6872,7 @@ msgstr "Шугар дедді"
 msgid "Support the game"
 msgstr "Підтримати гру"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Підтримайте гру і швидко розбирайте предмети!"
 
@@ -7114,7 +7118,7 @@ msgstr "Цей регіон не з'єднаннй зі столицею вла�
 msgid "This round only"
 msgstr "Лише цей раунд"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Цей гравець не є членом жодної сімейної групи"
 
@@ -7284,7 +7288,7 @@ msgstr "всього"
 msgid "Total"
 msgstr "Всього"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "кейсів відкрито"
 
@@ -7408,7 +7412,7 @@ msgstr "Навчання скинуто"
 msgid "Unblock (show content)"
 msgstr "Розблокувати (показати контент)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Зняти все"
 
@@ -7430,11 +7434,11 @@ msgstr "Розблокувати"
 msgid "Unlock {0} skin{1}"
 msgstr "Розблокувати {0} скін{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Доступ до кнопки Допомогти всім"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Доступ до кнопки Виробити все"
 
@@ -7462,7 +7466,7 @@ msgstr "Заворушення"
 msgid "Unrest Contributors"
 msgstr "Сприячі заворушенням"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Скасувати вибір"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Прибрати заклятого ворога"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Аж до {0} наборів спорядження"
 
@@ -7504,7 +7508,7 @@ msgstr "Покращте фабрику"
 msgid "Upgrade Skills"
 msgstr "Покращте навички"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Станьте підписником"
 
@@ -7607,7 +7611,7 @@ msgstr "Користувача заблоковано"
 msgid "User participation to the ground points."
 msgstr "Внесок користувача у бали контролю."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Користувача прибрано з сімейної групи"
 
@@ -7825,8 +7829,8 @@ msgstr "Війни"
 msgid "Wealth"
 msgstr "Багатство"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Зброя"
 
@@ -8035,7 +8039,7 @@ msgstr "Ти зламав рандом"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Ви привели на світ 10 малюків (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Ви можете розібрати предмети у інвентарі вибираючи їх тут."
 
@@ -8167,7 +8171,7 @@ msgstr "Ви повинні бути в мережі щоб підписатис
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Ви повинні витратити усі 3 бали принципів (залишилось: {pointsRemaining})"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Для початку вам потрібно екіпірувати зброю"
 
