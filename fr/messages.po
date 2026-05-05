@@ -5819,14 +5819,14 @@ msgstr "Bâton Pourpre"
 msgid "Put yourself to work!"
 msgstr "Mets-toi au travail !"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:45
-msgid "Quick best items of any tier"
-msgstr ""
-
 #: src/components/_economy/inventory/DismantleModal.tsx:196
 #: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Démontage rapide"
+
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick equip best items of any tier"
+msgstr ""
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"

@@ -5819,14 +5819,14 @@ msgstr "Lila bot"
 msgid "Put yourself to work!"
 msgstr "Lássál munkához!"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:45
-msgid "Quick best items of any tier"
-msgstr ""
-
 #: src/components/_economy/inventory/DismantleModal.tsx:196
 #: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Gyors szétszerelés"
+
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick equip best items of any tier"
+msgstr ""
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"

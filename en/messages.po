@@ -5819,14 +5819,14 @@ msgstr "Purple Staff"
 msgid "Put yourself to work!"
 msgstr "Put yourself to work!"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:45
-msgid "Quick best items of any tier"
-msgstr "Quick best items of any tier"
-
 #: src/components/_economy/inventory/DismantleModal.tsx:196
 #: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Quick dismantle"
+
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick equip best items of any tier"
+msgstr "Quick equip best items of any tier"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
