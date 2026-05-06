@@ -1728,7 +1728,7 @@ msgstr "Značka dobivena"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1887
 msgid "Badge Won"
-msgstr "Dobitka značke"
+msgstr "Dobitak značke"
 
 #: src/pages/country/[countryId]/index.tsx:348
 #: src/pages/user/[userId]/index.tsx:135
@@ -1753,7 +1753,7 @@ msgstr "Korisnik izopćen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "Banner Accepted!"
-msgstr "Baner prihvaćen"
+msgstr "Odobrenje banera"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1900
 msgid "Banner gift received"
@@ -1761,7 +1761,7 @@ msgstr "Primljen poklon baner"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1898
 msgid "Banner gift sent"
-msgstr "Poklon baner poslat"
+msgstr "Slanje baner poklona"
 
 #: src/components/_other/shop/ShopHeader.tsx:36
 msgid "Banners"
@@ -2308,7 +2308,7 @@ msgstr "Zapovjednik"
 #: src/components/_user/notification/notification.frontConfig.tsx:1906
 #: src/components/_user/notification/notification.frontConfig.tsx:1919
 msgid "Commission earned"
-msgstr "Provizija zarađena"
+msgstr "Zarada provizije"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
@@ -3140,7 +3140,7 @@ msgstr "Efektivno:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1943
 msgid "Election candidacy open"
-msgstr "Prijave za kandidaturu na izborima"
+msgstr "Otvorena kandidatura"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1948
 msgid "Election ended"
@@ -3148,7 +3148,7 @@ msgstr "Izbori su završeni"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1946
 msgid "Election vote open"
-msgstr "Birališta su otvorena"
+msgstr "Otvorena birališta"
 
 #: src/components/_political/country/CountryHeader.tsx:105
 #: src/pages/country/[countryId]/elections.tsx:28
@@ -4220,7 +4220,7 @@ msgstr "Zakon niјe prošao"
 #: src/components/_political/law/LawFormModal.tsx:76
 #: src/components/_user/notification/notification.frontConfig.tsx:1941
 msgid "Law proposed"
-msgstr "Zakon јe predložen"
+msgstr "Prijedlog zakona"
 
 #: src/components/_political/country/CountryHeader.tsx:67
 #: src/pages/country/[countryId]/index.tsx:177
@@ -4763,7 +4763,7 @@ msgstr "Premjesti na vrh"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1924
 msgid "Moved to a new company"
-msgstr "Prešao u novu kompaniјu"
+msgstr "Prebačen u novu kompaniјu"
 
 #: src/components/_layout/LayoutMenu.tsx:137
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:135
@@ -4896,7 +4896,7 @@ msgstr "Novi komentar"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2045
 msgid "New contract accepted"
-msgstr "Prihvaćanje novog plaćeničkog ugovora"
+msgstr "Prihvaćen novi plaćenički ugovor"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "New ethics configuration"
@@ -5597,23 +5597,23 @@ msgstr "Premium & Pokloni"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1889
 msgid "Premium activated"
-msgstr "Aktivacije premiuma"
+msgstr "Aktivacija premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1890
 msgid "Premium expired"
-msgstr "Isteka premiuma"
+msgstr "Istek premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "Premium gift expired"
-msgstr "Isteka poklonjenog premiuma"
+msgstr "Istek poklonjenog premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1893
 msgid "Premium gift received"
-msgstr "Primitka premiuma"
+msgstr "Primitak premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1891
 msgid "Premium gift sent"
-msgstr "Slanja poklona premiuma"
+msgstr "Slanje poklona premiuma"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:46
 msgid "Premium has started working"
