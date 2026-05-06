@@ -15,11 +15,11 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:55
 msgid "  a. Trading equipment"
-msgstr ""
+msgstr "  أ. تبادل المعدات"
 
 #: src/components/_common/GameRules.tsx:57
 msgid "  b. Working for each other"
-msgstr ""
+msgstr "  ب. العمل لصالح بعضكم البعض"
 
 #: src/components/_common/GameRules.tsx:129
 msgid " - Funneling assets without proper exchange"
@@ -179,7 +179,7 @@ msgstr "* يتكون من دمج العتاد من شراء عناصر ذات ا
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*إذا كان المستخدم يمتلك بالفعل بعض القطع من المجموعة، فسيتم تخفيض السعر"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*قد يحترق"
 
@@ -200,21 +200,21 @@ msgstr "<0/> بأجر <1>{0}</1>.{1}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1821
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr ""
+msgstr "اشترى <0/> {assetLabel} الخاص بك كهدية لـ <1/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1828
 msgid "<0/> bought your {assetLabel}!"
-msgstr ""
+msgstr "اشترى <0/> {assetLabel} الخاص بك!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1475
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
-msgstr ""
+msgstr "اشترى <0/> لافتتك{0} كهدية لـ <1/>!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1483
 msgid "<0/> bought your banner{0}!"
-msgstr ""
+msgstr "اشترى <0/> لافتتك{0}!"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:380
@@ -721,7 +721,7 @@ msgstr "ينتهي تأثير <0>التعزيز</0> في <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "ينتهي تأثير <0>العقوبة</0> في <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>رموز تعبيرية</0> في الدردشة"
 
@@ -1164,11 +1164,11 @@ msgstr "6. الاستيلاء على أصول الدولة/الوحدة العس
 msgid "7. Community Behavior"
 msgstr "7. سلوك المجتمع"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "شارة <0>داعم</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "اسم مستخدم ملون جميل سيجعلك مشهوراً جداً"
 
@@ -1321,7 +1321,7 @@ msgstr "حروب نشطة"
 msgid "Activity"
 msgstr "النشاط"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "إضافة مستخدم"
 
@@ -1472,7 +1472,7 @@ msgstr "جاهز تقريبًا..."
 msgid "Alpha Tester"
 msgstr "مختبر نسخة ألفا"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "ذخيرة"
@@ -1515,7 +1515,7 @@ msgstr "تم تشكيل تحالف"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "تم إرسال بريد إلكتروني يحتوي على رمز التحقق إلى {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "<0>GIF</0> متحرك كصورة رمزية"
 
@@ -1881,7 +1881,7 @@ msgstr "أضرار إضافية"
 msgid "Boost your production!"
 msgstr "عزز إنتاجك!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "أحذية"
@@ -1974,7 +1974,7 @@ msgstr "مخبأ"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:69
 msgid "Buy <0/>"
-msgstr ""
+msgstr "شراء <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:408
@@ -2027,7 +2027,7 @@ msgstr "إلغاء"
 msgid "Cancel as gov"
 msgstr "إلغاء بصفتك الحكومية"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "إلغاء في أي وقت"
 
@@ -2165,7 +2165,7 @@ msgstr "تغيير ضريبة {0} إلى"
 msgid "Check your loot!"
 msgstr "تحقق من غنيمتك!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "درع صدر"
@@ -2698,7 +2698,7 @@ msgstr "النبضة الحالية:"
 msgid "Current total:"
 msgstr "المجموع الحالي:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "خط اسم مستخدم مخصص"
 
@@ -3242,7 +3242,7 @@ msgstr "أدخل الرمز الذي أرسلناه إلى بريدك الإلك
 msgid "Entrepreneurship"
 msgstr "ريادة الأعمال"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "فشل بدء تسجيل الدخول باستخدام جوجل."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "فشل بدء تسجيل الدخول باستخدام جوجل. يرجى إعادة محاولة اختبار التحقق."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "مجموعة العائلة"
 
@@ -3616,7 +3616,7 @@ msgstr "توليد المهام"
 msgid "Generates <0>{0}</0>/day"
 msgstr "ينتج <0>{0}</0>/يوم"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "احصل على <0>مظهر حصري للمشتركين</0>!"
 
@@ -3624,7 +3624,7 @@ msgstr "احصل على <0>مظهر حصري للمشتركين</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "احصل على مظاهر متعددة دفعة واحدة بخصم 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "احصل على خطة الداعم"
 
@@ -3677,7 +3677,7 @@ msgstr "يعطي <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "الكرة الأرضية (تجريبي)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "قفازات"
@@ -3835,7 +3835,7 @@ msgstr "الصحة"
 msgid "Heavy Ammo"
 msgstr "ذخيرة ثقيلة"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "خوذة"
@@ -3852,7 +3852,7 @@ msgstr "مساعدة للوحدة العسكرية"
 msgid "Help MU Members"
 msgstr "مساعدة أعضاء الوحدة العسكرية"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "ساعد اللعبة على النمو"
 
@@ -4158,7 +4158,7 @@ msgstr "طرد العضو"
 msgid "Knife"
 msgstr "سكين"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "السكاكين لا تقبل الذخيرة"
 
@@ -4723,7 +4723,7 @@ msgstr "شهرياً:"
 msgid "More"
 msgstr "المزيد"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "المزيد من الميزات المميزة قادمة قريباً!"
 
@@ -4862,7 +4862,7 @@ msgstr "تحتاج وظيفة؟"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
-msgstr ""
+msgstr "شهرة مرتزقة سلبية"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:173
 msgid "Net benefit:"
@@ -4876,7 +4876,7 @@ msgstr "لا تستسلم أبدًا!"
 msgid "Never stop gambling"
 msgstr "لا تتوقف عن المقامرة أبدًا"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "فقط الرؤساء يمكنهم تسجيل دولهم"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "يمكن للداعمين فقط رؤية تفاصيل إنفاقهم ودخلهم."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "فتح"
 
@@ -5258,8 +5258,8 @@ msgstr "فتح"
 msgid "Open <0>{count}</0>"
 msgstr "فتح <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "فتح الصندوق"
 
@@ -5287,7 +5287,7 @@ msgstr "افتحه للحصول على عنصر عشوائي أفضل"
 msgid "Open it to get a random item"
 msgstr "افتحه للحصول على عنصر عشوائي"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "فتح عدة <0>صناديق</0> في نفس الوقت"
 
@@ -5383,7 +5383,7 @@ msgstr "مسالم"
 msgid "Packs"
 msgstr "حزم"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "سراويل"
@@ -5535,7 +5535,7 @@ msgstr "ابدأ قتالاً!"
 msgid "Pill"
 msgstr "حبة دواء"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "ازرع شجرة في مركز البيانات"
 
@@ -5819,12 +5819,16 @@ msgstr "عصا أرجوانية"
 msgid "Put yourself to work!"
 msgstr "ضع نفسك في العمل!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "تفكيك سريع"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick equip best items of any tier"
+msgstr ""
+
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "تفكيك العناصر بسرعة"
 
@@ -6152,7 +6156,7 @@ msgstr "تنخفض الشهرة بنسبة 20% نحو الصفر كل أسبوع
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:26
 msgid "Reputation purchased!"
-msgstr ""
+msgstr "تم شراء الشهرة للمرتزقة!"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "Request Phone Verification"
@@ -6381,11 +6385,11 @@ msgstr "ابحث عن اسم المستخدم المستلم..."
 msgid "Search username to nominate..."
 msgstr "ابحث عن اسم مستخدم لترشيحه..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "شاهد إحصائيات جميع عمالك وشركاتك"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "شاهد تفاصيل إنفاقك ودخلك"
 
@@ -6397,7 +6401,7 @@ msgstr "اختر موقعاً"
 msgid "Select a region"
 msgstr "اختر منطقة"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "تحديد الكل"
 
@@ -6500,7 +6504,7 @@ msgstr "إرسال أموال لدولة أخرى"
 msgid "Sergeant"
 msgstr "رقيب"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "تعيين <0>وصف</0>"
 
@@ -6868,7 +6872,7 @@ msgstr "شوغار دادي"
 msgid "Support the game"
 msgstr "ادعم اللعبة"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "ادعم اللعبة وقم بتفكيك العناصر بسرعة!"
 
@@ -7114,7 +7118,7 @@ msgstr "هذه المنطقة غير مرتبطة بعاصمة مالكها."
 msgid "This round only"
 msgstr "هذه الجولة فقط"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "هذا المستخدم ليس جزءاً من أي مجموعة عائلية"
 
@@ -7284,7 +7288,7 @@ msgstr "المجموع"
 msgid "Total"
 msgstr "الإجمالي"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "إجمالي الصناديق المفتوحة"
 
@@ -7408,7 +7412,7 @@ msgstr "تم إعادة تعيين الدروس التعليمية"
 msgid "Unblock (show content)"
 msgstr "إلغاء الحظر (عرض المحتوى)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "إزالة كل التجهيزات"
 
@@ -7430,11 +7434,11 @@ msgstr "فتح"
 msgid "Unlock {0} skin{1}"
 msgstr "فتح {0} مظهر{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "فتح زر مساعدة الكل"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "فتح زر إنتاج الكل"
 
@@ -7462,7 +7466,7 @@ msgstr "اضطرابات"
 msgid "Unrest Contributors"
 msgstr "المساهمون في الاضطرابات"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "إلغاء تحديد الكل"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "إلغاء تعيين الدولة العدوة اللدود"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "ما يصل إلى {0} مجموعات معدات"
 
@@ -7504,7 +7508,7 @@ msgstr "ترقية الشركة"
 msgid "Upgrade Skills"
 msgstr "ترقية المهارات"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "الترقية إلى داعم"
 
@@ -7607,7 +7611,7 @@ msgstr "تم حظر المستخدم"
 msgid "User participation to the ground points."
 msgstr "مشاركة المستخدم في النقاط البرية."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "تمت إزالة المستخدم من المجموعة العائلية"
 
@@ -7825,8 +7829,8 @@ msgstr "حروب"
 msgid "Wealth"
 msgstr "الثروة"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "سلاح"
 
@@ -8035,7 +8039,7 @@ msgstr "لقد حطمت نظام الحظ (RNG)"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "لقد جلبت 10 لاعبين جدد للعالم (مستوى {0} او أعلى)"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "يمكنك تفكيك العناصر من مخزونك عن طريق تحديد عنصر."
 
@@ -8167,7 +8171,7 @@ msgstr "يجب أن تكون على الويب للاشتراك"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "يجب عليك إنفاق جميع نقاط الأخلاق الثلاث ({pointsRemaining} متبقية)"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "تحتاج إلى تجهيز سلاح أولاً"
 
@@ -8431,7 +8435,7 @@ msgstr "اسم وحدتك العسكرية"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr ""
+msgstr "لدى وحدتك العسكرية <0/> شهرة ولا يمكنها المزايدة على عقود المرتزقة. ادفع لاستعادة نقطة شهرة (مرة واحدة يوميًا)."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."

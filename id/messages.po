@@ -179,7 +179,7 @@ msgstr ""
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Jika pengguna sudah memiliki beberapa bagian dari set ini, harganya akan dikurangi"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Bisa terbakar"
 
@@ -721,7 +721,7 @@ msgstr "<0>Buff</0> berakhir <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Debuff</0> berakhir <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>Emote</0> di chat"
 
@@ -1164,11 +1164,11 @@ msgstr ""
 msgid "7. Community Behavior"
 msgstr ""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "Sebuah <0>lencana supporter</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Nama pengguna berwarna yang keren, bikin kamu makin populer"
 
@@ -1321,7 +1321,7 @@ msgstr "Perang aktif"
 msgid "Activity"
 msgstr "Aktivitas"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Tambah pengguna"
 
@@ -1472,7 +1472,7 @@ msgstr "Hampir siap..."
 msgid "Alpha Tester"
 msgstr "Penguji Alpha"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Peluru"
@@ -1515,7 +1515,7 @@ msgstr "Aliansi telah dibentuk"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Email berisi kode verifikasi telah dikirim ke {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Avatar <0>GIF</0> animasi"
 
@@ -1881,7 +1881,7 @@ msgstr "Bonus damage"
 msgid "Boost your production!"
 msgstr "Tingkatkan produksi!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Sepatu"
@@ -2027,7 +2027,7 @@ msgstr "Batal"
 msgid "Cancel as gov"
 msgstr "Batalkan sebagai pemerintah"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Batal kapan saja"
 
@@ -2165,7 +2165,7 @@ msgstr "Ubah pajak {0} menjadi"
 msgid "Check your loot!"
 msgstr "Cek jarahanmu!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Pelindung Dada"
@@ -2698,7 +2698,7 @@ msgstr "Tick saat ini:"
 msgid "Current total:"
 msgstr "Total saat ini:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Font nama pengguna kustom"
 
@@ -3242,7 +3242,7 @@ msgstr "Masukkan kode yang kami kirim ke emailmu."
 msgid "Entrepreneurship"
 msgstr "Kewirausahaan"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Gagal memulai login Google."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Gagal memulai login Google. Silakan ulangi CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Grup keluarga"
 
@@ -3616,7 +3616,7 @@ msgstr "Buat misi"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Menghasilkan <0>{0}</0>/hari"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "Dapatkan <0>skin pelanggan eksklusif</0>!"
 
@@ -3624,7 +3624,7 @@ msgstr "Dapatkan <0>skin pelanggan eksklusif</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Dapatkan banyak skin sekaligus dengan diskon 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Dapatkan paket supporter"
 
@@ -3677,7 +3677,7 @@ msgstr "Memberi <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Globe (eksperimental)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Sarung Tangan"
@@ -3835,7 +3835,7 @@ msgstr "Kesehatan"
 msgid "Heavy Ammo"
 msgstr "Amunisi Berat"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Helm"
@@ -3852,7 +3852,7 @@ msgstr "Bantuan untuk MU"
 msgid "Help MU Members"
 msgstr "Bantu Anggota MU"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Bantu game ini berkembang"
 
@@ -4158,7 +4158,7 @@ msgstr "Keluarkan anggota"
 msgid "Knife"
 msgstr "Pisau"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Pisau tidak memakai peluru"
 
@@ -4723,7 +4723,7 @@ msgstr "Bulanan:"
 msgid "More"
 msgstr "Lainnya"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Fitur premium lainnya akan segera hadir!"
 
@@ -4876,7 +4876,7 @@ msgstr "Jangan menyerah!"
 msgid "Never stop gambling"
 msgstr "Jangan berhenti berjudi"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Hanya presiden yang bisa mendaftarkan negaranya"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Hanya supporter yang bisa melihat rincian pengeluaran dan pemasukan mereka."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Buka"
 
@@ -5258,8 +5258,8 @@ msgstr "Buka"
 msgid "Open <0>{count}</0>"
 msgstr "Buka <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Buka peti"
 
@@ -5287,7 +5287,7 @@ msgstr "Buka untuk mendapatkan item acak yang lebih bagus"
 msgid "Open it to get a random item"
 msgstr "Buka untuk mendapatkan item acak"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Buka beberapa <0>Peti</0> sekaligus"
 
@@ -5383,7 +5383,7 @@ msgstr "Pasifis"
 msgid "Packs"
 msgstr "Paket"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Celana"
@@ -5535,7 +5535,7 @@ msgstr "Cari gara-gara!"
 msgid "Pill"
 msgstr "Pil"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Tanam pohon di data center"
 
@@ -5819,12 +5819,16 @@ msgstr "Tongkat Ungu"
 msgid "Put yourself to work!"
 msgstr "Ayo kerja!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Bongkar cepat"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick equip best items of any tier"
+msgstr ""
+
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Bongkar item dengan cepat"
 
@@ -6381,11 +6385,11 @@ msgstr "Cari nama pengguna penerima..."
 msgid "Search username to nominate..."
 msgstr "Cari nama pengguna untuk dinominasikan..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Lihat statistik semua pekerja dan perusahaanmu"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Lihat rincian pengeluaran dan pemasukanmu"
 
@@ -6397,7 +6401,7 @@ msgstr "Pilih lokasi"
 msgid "Select a region"
 msgstr "Pilih wilayah"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Pilih semua"
 
@@ -6500,7 +6504,7 @@ msgstr "Kirim uang ke negara lain"
 msgid "Sergeant"
 msgstr "Sergeant"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Atur <0>deskripsi</0>"
 
@@ -6868,7 +6872,7 @@ msgstr "Sultan Dermawan"
 msgid "Support the game"
 msgstr "Dukung game"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Dukung game dan bongkar item dengan cepat!"
 
@@ -7114,7 +7118,7 @@ msgstr "Wilayah ini tidak tertaut ke ibu kota pemiliknya."
 msgid "This round only"
 msgstr "Ronde ini saja"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Pengguna ini bukan bagian dari kelompok keluarga mana pun"
 
@@ -7284,7 +7288,7 @@ msgstr "Total"
 msgid "Total"
 msgstr "Total"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Total peti dibuka"
 
@@ -7408,7 +7412,7 @@ msgstr "Tutorials have been reset"
 msgid "Unblock (show content)"
 msgstr "Buka blokir (tampilkan konten)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Lepas semua"
 
@@ -7430,11 +7434,11 @@ msgstr "Buka kunci"
 msgid "Unlock {0} skin{1}"
 msgstr "Buka {0} skin{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Buka tombol \"Bantu semua\""
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Buka tombol \"Produksi semua\""
 
@@ -7462,7 +7466,7 @@ msgstr "Ketidakstabilan"
 msgid "Unrest Contributors"
 msgstr "Kontributor Kerusuhan"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Batal pilih semua"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Hapus negara musuh bebuyutan"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Hingga {0} set perlengkapan"
 
@@ -7504,7 +7508,7 @@ msgstr "Tingkatkan Perusahaan"
 msgid "Upgrade Skills"
 msgstr "Tingkatkan Skill"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Upgrade ke Supporter"
 
@@ -7607,7 +7611,7 @@ msgstr "Pengguna diblokir"
 msgid "User participation to the ground points."
 msgstr "Partisipasi pengguna terhadap poin wilayah."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Pengguna dikeluarkan dari grup keluarga"
 
@@ -7825,8 +7829,8 @@ msgstr "Perang"
 msgid "Wealth"
 msgstr "Kekayaan"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Senjata"
 
@@ -8035,7 +8039,7 @@ msgstr "Kamu merusak RNG"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Anda telah merekrut 10 pemain baru (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Kamu bisa membongkar item dari inventarismu dengan memilih sebuah item."
 
@@ -8167,7 +8171,7 @@ msgstr "Kamu harus menggunakan versi web untuk berlangganan"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Kamu harus menghabiskan semua 3 poin etika ({pointsRemaining} tersisa)"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Kamu harus memasang senjata dulu"
 
