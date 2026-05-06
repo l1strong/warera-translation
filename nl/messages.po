@@ -179,7 +179,7 @@ msgstr "* Een uitrustingssamenvoegingsschema bestaat uit het kopen van items met
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Wanneer de gebruiker delen van de set al bezit, zal de prijs verlaagd worden"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Kan verbranden"
 
@@ -721,7 +721,7 @@ msgstr "<0>Buff</0> eindigt <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Debuff</0> eindigt <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "<0>Emotes</0> in de chat"
 
@@ -1164,11 +1164,11 @@ msgstr "6. Overname en misbruik van staats-/militaire eenheidsmiddelen"
 msgid "7. Community Behavior"
 msgstr "7. Gedrag van de gemeenschap"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "Een <0>supporterbadge</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Een prachtige gekleurde gebruikersnaam die je erg populair zal maken"
 
@@ -1321,7 +1321,7 @@ msgstr "Actieve oorlogen"
 msgid "Activity"
 msgstr "Activiteit"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Gebruiker toevoegen"
 
@@ -1472,7 +1472,7 @@ msgstr "Bijna klaar..."
 msgid "Alpha Tester"
 msgstr "Alfa-tester"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Munitie"
@@ -1515,7 +1515,7 @@ msgstr "Een alliantie is gevormd"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Er is een e-mail met de verificatiecode gestuurd naar {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Geanimeerde <0>GIF</0> als avatar"
 
@@ -1881,7 +1881,7 @@ msgstr "Bonusschade"
 msgid "Boost your production!"
 msgstr "Verhoog je productie!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Laarzen"
@@ -2027,7 +2027,7 @@ msgstr "Annuleren"
 msgid "Cancel as gov"
 msgstr "Annuleren als regering"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Op elk moment annuleren"
 
@@ -2165,7 +2165,7 @@ msgstr "Verander de belasting van {0} naar"
 msgid "Check your loot!"
 msgstr "Controleer je buit!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Borst"
@@ -2698,7 +2698,7 @@ msgstr "Huidige tick:"
 msgid "Current total:"
 msgstr "Huidig totaal:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Aangepaste lettertype voor gebruikersnaam"
 
@@ -3242,7 +3242,7 @@ msgstr "Voer de code in die we naar je e-mail hebben verzonden."
 msgid "Entrepreneurship"
 msgstr "Ondernemerschap"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Google-login is niet gestart."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Google-login is niet gestart. Probeer de CAPTCHA alsjeblieft opnieuw."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Familiegroep"
 
@@ -3616,7 +3616,7 @@ msgstr "Genereer Missies"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Genereert <0>{0}</0>/dag"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "Krijg een exclusieve <0>abonnee skin</0>!"
 
@@ -3624,7 +3624,7 @@ msgstr "Krijg een exclusieve <0>abonnee skin</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Krijg meerdere skins met 30% korting!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Neem een supporterplan"
 
@@ -3677,7 +3677,7 @@ msgstr "Geeft <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Wereldbol (experimenteel)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Handschoenen"
@@ -3835,7 +3835,7 @@ msgstr "Gezondheid"
 msgid "Heavy Ammo"
 msgstr "Zware munitie"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Helm"
@@ -3852,7 +3852,7 @@ msgstr "Help voor ME"
 msgid "Help MU Members"
 msgstr "Help MU leden"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Help het spel te groeien"
 
@@ -4158,7 +4158,7 @@ msgstr "Lid verwijderen"
 msgid "Knife"
 msgstr "Mes"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Messen accepteren geen munitie"
 
@@ -4723,7 +4723,7 @@ msgstr "Maandelijks:"
 msgid "More"
 msgstr "Meer"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Binnenkort meer premium functies!"
 
@@ -4876,7 +4876,7 @@ msgstr "Geef nooit op!"
 msgid "Never stop gambling"
 msgstr "Stop nooit met gokken"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Alleen presidenten kunnen hun land registreren"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Alleen supporters kunnen hun uitgaven en inkomstenoverzicht zien."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Open"
 
@@ -5258,8 +5258,8 @@ msgstr "Open"
 msgid "Open <0>{count}</0>"
 msgstr "Open <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Open kist"
 
@@ -5287,7 +5287,7 @@ msgstr "Maak open om een beter willekeurig item te krijgen"
 msgid "Open it to get a random item"
 msgstr "Maak open om een willekeurig item te krijgen"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Open meerdere <0>Kisten</0> tegelijk"
 
@@ -5383,7 +5383,7 @@ msgstr "Pacifist"
 msgid "Packs"
 msgstr "Pakketten"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Broek"
@@ -5535,7 +5535,7 @@ msgstr "Kies een gevecht!"
 msgid "Pill"
 msgstr "Pil"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Plant een boom in het datacenter"
 
@@ -5819,12 +5819,16 @@ msgstr "Paarse staf"
 msgid "Put yourself to work!"
 msgstr "Zet jezelf aan het werk!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Snel uit elkaar halen"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick equip best items of any tier"
+msgstr ""
+
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Snel onderdelen uit elkaar halen"
 
@@ -6381,11 +6385,11 @@ msgstr "Zoek gebruikersnaam van ontvanger..."
 msgid "Search username to nominate..."
 msgstr "Zoek gebruikersnaam om te nomineren..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Bekijk alle statistieken van je werknemers en bedrijven"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Bekijk je uitgaven- en inkomensverdeling"
 
@@ -6397,7 +6401,7 @@ msgstr "Selecteer een locatie"
 msgid "Select a region"
 msgstr "Selecteer een regio"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Selecteer alles"
 
@@ -6500,7 +6504,7 @@ msgstr "Stuur geld naar een ander land"
 msgid "Sergeant"
 msgstr "Sergeant"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Stel een <0>beschrijving</0> in"
 
@@ -6868,7 +6872,7 @@ msgstr "Suiker Papa"
 msgid "Support the game"
 msgstr "Steun het spel"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Steun het spel en demonteer snel items!"
 
@@ -7114,7 +7118,7 @@ msgstr "Deze regio is niet verbonden met de hoofdstad van de eigenaar."
 msgid "This round only"
 msgstr "Alleen deze ronde"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Deze gebruiker maakt geen deel uit van een familiegroep"
 
@@ -7284,7 +7288,7 @@ msgstr "totaal"
 msgid "Total"
 msgstr "Totaal"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Totaal aantal geopende kisten"
 
@@ -7408,7 +7412,7 @@ msgstr "Uitleg gereset"
 msgid "Unblock (show content)"
 msgstr "Deblokkeren (inhoud tonen)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Doe alle uitrusting uit"
 
@@ -7430,11 +7434,11 @@ msgstr "Ontgrendel"
 msgid "Unlock {0} skin{1}"
 msgstr "Ontgrendel {0} skin{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Ontgrendel Iedereen helpen-knop"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Ontgrendel Produceer alles-knop"
 
@@ -7462,7 +7466,7 @@ msgstr "Onrust"
 msgid "Unrest Contributors"
 msgstr "Onrust bijdragers"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Deselecteer alles"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Maak het gezworen vijandig land ongedaan"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Tot {0} uitrustingssets"
 
@@ -7504,7 +7508,7 @@ msgstr "Verbeter een bedrijf"
 msgid "Upgrade Skills"
 msgstr "Verbeter vaardigheden"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Upgrade naar supporter"
 
@@ -7607,7 +7611,7 @@ msgstr "Gebruiker geblokkeerd"
 msgid "User participation to the ground points."
 msgstr "Gebruikersparticipatie op de grondpunten."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Gebruiker verwijderd uit de familiegroep"
 
@@ -7825,8 +7829,8 @@ msgstr "Oorlogen"
 msgid "Wealth"
 msgstr "Rijkdom"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Wapen"
 
@@ -8035,7 +8039,7 @@ msgstr "Je hebt de RNG kapotgemaakt"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Je hebt 10 baby's in de wereld gebracht (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Je kunt items uit je inventaris demonteren door een item te selecteren."
 
@@ -8167,7 +8171,7 @@ msgstr "Je moet op de webversie zijn om je te abonneren"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Je moet alle 3 ethiekpunten ({pointsRemaining}) uitgeven"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Je moet jezelf eerst uitrusten met een wapen"
 

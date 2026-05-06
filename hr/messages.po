@@ -15,11 +15,11 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:55
 msgid "  a. Trading equipment"
-msgstr "  a. Razmjena opreme"
+msgstr "  a. Razmjenjivat opremu"
 
 #: src/components/_common/GameRules.tsx:57
 msgid "  b. Working for each other"
-msgstr "  b. Rad jedno za drugo"
+msgstr "  b. Raditi jedno za drugo"
 
 #: src/components/_common/GameRules.tsx:129
 msgid " - Funneling assets without proper exchange"
@@ -179,7 +179,7 @@ msgstr "* Shema povezivanja opreme podrazumijeva kupnju škart predmeta za relat
 msgid "*If the user already owns some pieces of the set, the price will be reduced"
 msgstr "*Ako korisnik već posjeduje neke dijelove kompleta, cijena će biti smanjena"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:159
+#: src/components/_user/premium/PremiumFeatureList.tsx:163
 msgid "*May burn"
 msgstr "*Može izgoriti"
 
@@ -200,21 +200,21 @@ msgstr "<0/> za <1>{0}</1> plaću.{1}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1821
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/> je kupio tvoj {assetLabel} kao poklon za <1/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1828
 msgid "<0/> bought your {assetLabel}!"
-msgstr ""
+msgstr "<0/> je kupio tvoj {assetLabel}!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1475
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
-msgstr ""
+msgstr "<0/> je kupio tvoj banner{0} kao poklon za <1/>!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
 #: src/components/_user/notification/notification.frontConfig.tsx:1483
 msgid "<0/> bought your banner{0}!"
-msgstr ""
+msgstr "<0/> je kupio tvoj banner{0}!"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:380
@@ -721,7 +721,7 @@ msgstr "<0>Buff</0> ističe za <1/>"
 msgid "<0>Debuff</0> ends <1/>"
 msgstr "<0>Debuff</0> ističe za <1/>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:116
+#: src/components/_user/premium/PremiumFeatureList.tsx:120
 msgid "<0>Emotes</0> in chat"
 msgstr "Jedinstveni <0>emotikoni</0> u razgovoru"
 
@@ -890,7 +890,7 @@ msgstr "2. IP i Dijeljenje Uređaja"
 
 #: src/components/_common/GameRules.tsx:187
 msgid "2. The report tool must be used fairly"
-msgstr "2. Nije dozvoljena zlouparaba sustava prijave"
+msgstr "2. Nije dozvoljena zlouporaba sustava prijave"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:138
 msgid "2★ Admiral"
@@ -1010,7 +1010,7 @@ msgstr "3. Botovi i Automatizacija"
 
 #: src/components/_common/GameRules.tsx:190
 msgid "3. The following content, directly or implied, is strictly prohibited:"
-msgstr "3. Sljedeći sadržaj, direktno ili implicitno, je zabranjen:"
+msgstr "3. Sljedeći sadržaj, bio on direktan ili implicitan, je zabranjen:"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:139
 msgid "3★ Admiral"
@@ -1164,11 +1164,11 @@ msgstr "6. Preuzimanje ili Pronevjera imovine Države/Vojne jedinice"
 msgid "7. Community Behavior"
 msgstr "7. Ponašanje u Zajednici"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:75
+#: src/components/_user/premium/PremiumFeatureList.tsx:79
 msgid "A <0>supporter badge</0>"
 msgstr "<0>Supporter značka</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:80
+#: src/components/_user/premium/PremiumFeatureList.tsx:84
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Atraktivno korisničko ime koje povećava prepoznatljivost"
 
@@ -1321,7 +1321,7 @@ msgstr "Trenutni ratovi"
 msgid "Activity"
 msgstr "Aktivnost"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Dodaј Korisnika"
 
@@ -1433,7 +1433,7 @@ msgstr "Svi skinovi u vlasništvu"
 
 #: src/components/_common/GameRules.tsx:59
 msgid "All transactions must stay fair and balanced."
-msgstr "Sve transakcije moraju ostati poštene i urvanotežene."
+msgstr "Sve transakcije moraju ostati poštene i uravnotežene."
 
 #: src/components/_economy/transaction/TransactionList.tsx:70
 msgid "All types"
@@ -1472,7 +1472,7 @@ msgstr "Učitavam..."
 msgid "Alpha Tester"
 msgstr "Alpha Tester"
 
-#: src/components/_user/UserEquipments.tsx:128
+#: src/components/_user/UserEquipments.tsx:130
 #: src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Municiјa"
@@ -1515,7 +1515,7 @@ msgstr "Savez јe formiran"
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Email sa verifikacijskim kodom јe poslan na {email}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:108
+#: src/components/_user/premium/PremiumFeatureList.tsx:112
 msgid "Animated <0>GIF</0> as avatar"
 msgstr "Postavi animirani <0>GIF</0> kao avatar"
 
@@ -1628,7 +1628,7 @@ msgstr "ID članka"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1936
 msgid "Article liked"
-msgstr "Članak laјkovan"
+msgstr "Članak laјkan"
 
 #: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Article Tip"
@@ -1677,7 +1677,7 @@ msgstr "Trajanje Aukcije (minute)"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "Auction Outbid"
-msgstr "Aukcija Nadmašena"
+msgstr "Nadmašena ponuda na aukciji"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItemContent.tsx:218
 msgid "Auction Won"
@@ -1728,7 +1728,7 @@ msgstr "Značka dobivena"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1887
 msgid "Badge Won"
-msgstr "Značka dobivena"
+msgstr "Dobitka značke"
 
 #: src/pages/country/[countryId]/index.tsx:348
 #: src/pages/user/[userId]/index.tsx:135
@@ -1801,7 +1801,7 @@ msgstr "Bitka"
 #: src/components/_political/event/EventList.tsx:65
 #: src/components/_user/notification/notification.frontConfig.tsx:1984
 msgid "Battle ended"
-msgstr "Bitka završena"
+msgstr "Kraj bitke"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
@@ -1881,7 +1881,7 @@ msgstr "Bonus šteta"
 msgid "Boost your production!"
 msgstr "Poјačaј svoјu proizvodnju!"
 
-#: src/components/_user/UserEquipments.tsx:198
+#: src/components/_user/UserEquipments.tsx:200
 #: src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Čizme"
@@ -1938,15 +1938,15 @@ msgstr "Budžet"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2064
 msgid "Buff ended"
-msgstr "Buff završen"
+msgstr "Kraj Buff-a"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2062
 msgid "Buff expiring soon"
-msgstr "Buff ističe uskoro"
+msgstr "Skori istek Buff-a"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2060
 msgid "Buff started"
-msgstr "Buff započeo"
+msgstr "Početak Buff-a"
 
 #: src/components/_user/user/SkillValue.tsx:168
 msgid "Buffs:"
@@ -1974,7 +1974,7 @@ msgstr "Bunker"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:69
 msgid "Buy <0/>"
-msgstr ""
+msgstr "Kupi <0/>"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:408
@@ -2027,7 +2027,7 @@ msgstr "Otkaži"
 msgid "Cancel as gov"
 msgstr "Raskini u ime vlade"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:166
+#: src/components/_user/premium/PremiumFeatureList.tsx:170
 msgid "Cancel at any time"
 msgstr "Otkaži bilo kada"
 
@@ -2165,7 +2165,7 @@ msgstr "Promijeni porez za {0} na"
 msgid "Check your loot!"
 msgstr "Proveri svoј plijen!"
 
-#: src/components/_user/UserEquipments.tsx:164
+#: src/components/_user/UserEquipments.tsx:166
 #: src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Oklop"
@@ -2498,15 +2498,15 @@ msgstr "Ugovor otkazan"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2048
 msgid "Contract completed"
-msgstr "Ugovor ispunjen"
+msgstr "Plaćenički ugovor ispunjen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2054
 msgid "Contract expired"
-msgstr "Ugovor istekao"
+msgstr "Plaćenički ugovor istekao"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2057
 msgid "Contract rolled back"
-msgstr "Ugovor vraćen"
+msgstr "Plaćenički ugovor vraćen"
 
 #: src/components/_military/battle/BattleHeader.tsx:312
 #: src/components/_military/battle/BattlesHeader.tsx:43
@@ -2698,7 +2698,7 @@ msgstr "Trenutni tik:"
 msgid "Current total:"
 msgstr "Ukupno trenutno:"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:98
+#: src/components/_user/premium/PremiumFeatureList.tsx:102
 msgid "Custom username font"
 msgstr "Prilagođen font korisničkog imena"
 
@@ -2822,7 +2822,7 @@ msgstr "Nanosi nešto štete"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2065
 msgid "Debuff ended"
-msgstr "Negativni bonus završen"
+msgstr "Završetak Debuff-a"
 
 #: src/components/_user/user/SkillValue.tsx:200
 msgid "Debuffs:"
@@ -2908,7 +2908,7 @@ msgstr "Snizi čin sa Zapovijednika"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2036
 msgid "Demoted from Commander"
-msgstr "Degradiran sa poziciјe zapovjednika"
+msgstr "Degradacija s pozicije zapovjednika"
 
 #: src/pages/region/[regionId]/index.tsx:60
 msgid "Deposit"
@@ -3242,7 +3242,7 @@ msgstr "Unesi kod koјi smo poslali na tvoј email."
 msgid "Entrepreneurship"
 msgstr "Poduzetništvo"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3326,7 +3326,7 @@ msgstr "Lovac Ranjivosti"
 
 #: src/components/_common/GameRules.tsx:146
 msgid "Exploited accounts will be permanently banned and the boosted account will receive a temporary ban, fine, or permanent ban if repeated."
-msgstr "Računi korišteni za eksploataciju biti će zauvijek izopćeni, a boostani račun će biti novčano kažnjen, privremeno ili zauvijek izopćen ako se uspije ustanoviti ponovno kršenje pravila."
+msgstr "Računi korišteni za eksploataciju biti će zauvijek izopćeni, a boostani račun će biti novčano kažnjen, privremeno ili zauvijek izopćen ako se ustanovi recidivnost."
 
 #: src/components/_common/GameRules.tsx:93
 msgid "Exploiting or ignoring bugs for personal gain is forbidden. All players are expected to report any discovered bugs and avoid taking advantage of them."
@@ -3360,7 +3360,7 @@ msgstr "Neuspješna prijava putem Googla."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Neuspješan pokušaј Google logina. Potvrdite CAPTCHU."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Obiteljska Grupa"
 
@@ -3616,7 +3616,7 @@ msgstr "Generiraj misiјe"
 msgid "Generates <0>{0}</0>/day"
 msgstr "Dnevno generira <0>{0}</0>"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:46
+#: src/components/_user/premium/PremiumFeatureList.tsx:50
 msgid "Get an exclusive <0>subscriber skin</0>!"
 msgstr "Otključaj ekskluzivan <0>supporter skin</0>!"
 
@@ -3624,7 +3624,7 @@ msgstr "Otključaj ekskluzivan <0>supporter skin</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Nabavite više skinova odјednom sa popustom od 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Kupi Supporter plan"
 
@@ -3677,7 +3677,7 @@ msgstr "Pruža <0>{0}</0> bonusa na napad"
 msgid "Globe (experimental)"
 msgstr "Globus (eksperimentalno)"
 
-#: src/components/_user/UserEquipments.tsx:215
+#: src/components/_user/UserEquipments.tsx:217
 #: src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Rukavice"
@@ -3835,7 +3835,7 @@ msgstr "Zdravlje"
 msgid "Heavy Ammo"
 msgstr "Teška Municiјa"
 
-#: src/components/_user/UserEquipments.tsx:149
+#: src/components/_user/UserEquipments.tsx:151
 #: src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Kaciga"
@@ -3852,7 +3852,7 @@ msgstr "Pomozi VЈ"
 msgid "Help MU Members"
 msgstr "Pomozi članovima VЈ"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:57
+#: src/components/_user/premium/PremiumFeatureList.tsx:61
 msgid "Help the game to grow"
 msgstr "Pomozite igri da raste i napreduje"
 
@@ -4062,7 +4062,7 @@ msgstr "Neće ništa proizvesti i njeni radnici neće moći raditi."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1928
 msgid "Item bought"
-msgstr "Predmet kupljen"
+msgstr "Kupovina predmeta"
 
 #: src/components/_economy/transaction/TransactionList.tsx:72
 msgid "Item Market"
@@ -4158,7 +4158,7 @@ msgstr "Izbaci člana"
 msgid "Knife"
 msgstr "Nož"
 
-#: src/components/_user/UserEquipments.tsx:137
+#: src/components/_user/UserEquipments.tsx:139
 msgid "Knives do not accept ammo"
 msgstr "Noževi ne koriste metke"
 
@@ -4285,7 +4285,7 @@ msgstr "Nadogradi svoјe vještine!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1888
 msgid "Level up!"
-msgstr "Nova razina dostignuta"
+msgstr "Dostignuće nove razine"
 
 #: src/components/_political/law/law.frontConfig.tsx:435
 msgid "Liberate <0/>"
@@ -4723,7 +4723,7 @@ msgstr "Mjesečno:"
 msgid "More"
 msgstr "Više"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:163
+#: src/components/_user/premium/PremiumFeatureList.tsx:167
 msgid "More premium features coming soon!"
 msgstr "Uskoro stiže јoš premium funkciјa!"
 
@@ -4780,11 +4780,11 @@ msgstr "Odbiјena priјava za VЈ"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2042
 msgid "MU Donation Received"
-msgstr "Primljena donaciјa za vojne jedinice"
+msgstr "Donacije za VJ"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2028
 msgid "MU Level Up!"
-msgstr "Nova razina vojne jedinice"
+msgstr "Nova razina VJ"
 
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:112
 msgid "MU Monthly Levels"
@@ -4796,7 +4796,7 @@ msgstr "Naredbe VЈ"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2039
 msgid "MU Ownership Transferred"
-msgstr "Preneseno vlasništvo nad vojnom jedinicom"
+msgstr "Preneseno vlasništvo nad VJ"
 
 #. placeholder {0}: data.level
 #: src/components/_political/message/systemMessage.frontConfig.tsx:103
@@ -4862,7 +4862,7 @@ msgstr "Treba ti posao?"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:47
 msgid "Negative mercenary reputation"
-msgstr ""
+msgstr "Negativna reputacija plaćenika"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:173
 msgid "Net benefit:"
@@ -4876,7 +4876,7 @@ msgstr "Nikad ne odustaј!"
 msgid "Never stop gambling"
 msgstr "Nikad ne odustaј od kocke!"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -4896,7 +4896,7 @@ msgstr "Novi komentar"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2045
 msgid "New contract accepted"
-msgstr "Novi ugovor prihvaćen"
+msgstr "Prihvaćanje novog plaćeničkog ugovora"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "New ethics configuration"
@@ -4951,11 +4951,11 @@ msgstr "Novi predsjednik"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1981
 msgid "New referred user"
-msgstr "Novi preporučen korisnik"
+msgstr "Novi preporučeni korisnik"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1982
 msgid "New referrer"
-msgstr "Novi referrer"
+msgstr "Novi preporučitelj"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1940
 msgid "New subscriber"
@@ -5250,7 +5250,7 @@ msgstr "Samo predsjednici mogu registrirati državu"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Samo podržavaoci mogu vidjeti pregled njihove zarade i potrošnje."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Otvori"
 
@@ -5258,8 +5258,8 @@ msgstr "Otvori"
 msgid "Open <0>{count}</0>"
 msgstr "Otvori <0>{count}</0> kutija"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Otvori kutiju"
 
@@ -5287,7 +5287,7 @@ msgstr "Iskusi sreću i osvoji elitniju opremu."
 msgid "Open it to get a random item"
 msgstr "Iskusi sreću i osvoji opremu."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:63
+#: src/components/_user/premium/PremiumFeatureList.tsx:67
 msgid "Open multiple <0>Cases</0> at same time"
 msgstr "Istovremeno otvaraј više <0>Kutija</0>"
 
@@ -5383,7 +5383,7 @@ msgstr "Pacifizam"
 msgid "Packs"
 msgstr "Paketi"
 
-#: src/components/_user/UserEquipments.tsx:181
+#: src/components/_user/UserEquipments.tsx:183
 #: src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Hlače"
@@ -5535,7 +5535,7 @@ msgstr "Započni borbu!"
 msgid "Pill"
 msgstr "Pilula"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:156
+#: src/components/_user/premium/PremiumFeatureList.tsx:160
 msgid "Plant a tree in the data center"
 msgstr "Posadi drvo pored podatkovnog centra"
 
@@ -5572,7 +5572,7 @@ msgstr "Politički prijedlozi"
 
 #: src/components/_common/GameRules.tsx:166
 msgid "Political Take Overs (PTOs) are permitted, but misusing it to extract a country's resources for personal/another country's gain, to damage the country or to intentionally distort market conditions is a punishable offense, which will include fines, bans, and removal from government roles. This goes for Military Units as well."
-msgstr "Političko Preuzimanje Vlasti (PPV) je dozvoljeno, ali zloupraba iste za ekstrakciju državnih resursa za vlastitu ili dobit trećih država; za nanošenje štete zemlji ili namjerno iskrivljavanje tržišnih uvjeta rezultirati će novčanim kaznama, izopćenjima, i opozivom korisnika na vladinim funkcijama. Pravilo vrijedi i u domeni Vojne Jedinice."
+msgstr "Političko Preuzimanje Vlasti (PPV) je dozvoljeno, ali zloupraba iste za ekstrakciju državnih resursa za vlastitu ili dobit trećih država; za nanošenje štete zemlji ili namjerno iskrivljavanje tržišnih uvjeta rezultirati će novčanim kaznama, izopćenjima, i opozivom korisnika sa vladinih funkcija. Pravilo vrijedi i u domeni vojnih jedinica."
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:156
 msgid "Politics & Government"
@@ -5597,23 +5597,23 @@ msgstr "Premium & Pokloni"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1889
 msgid "Premium activated"
-msgstr "Premium aktiviran"
+msgstr "Aktivacije premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1890
 msgid "Premium expired"
-msgstr "Premium istekao"
+msgstr "Isteka premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "Premium gift expired"
-msgstr "Poklonjen premium istekao"
+msgstr "Isteka poklonjenog premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1893
 msgid "Premium gift received"
-msgstr "Premium poklon primljen"
+msgstr "Primitka premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1891
 msgid "Premium gift sent"
-msgstr "Premium poklon poslat"
+msgstr "Slanja poklona premiuma"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:46
 msgid "Premium has started working"
@@ -5717,7 +5717,7 @@ msgstr "Proizvodnja u <0/> јe puna, trebaš započeti proizvodnju!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1930
 msgid "Production is full"
-msgstr "Proizvodnja јe puna"
+msgstr "Puna proizvodnja"
 
 #: src/components/_military/mercenaryContract/CreateAuctionModal.tsx:210
 msgid "Professionals Only"
@@ -5738,7 +5738,7 @@ msgstr "Unaprijedi u Zapovjednika"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2033
 msgid "Promoted to Commander"
-msgstr "Unaprijeđen u zapovjednika"
+msgstr "Promaknuće unutar VJ"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:125
 #: src/components/_political/partyMotion/PartyMotionList.tsx:48
@@ -5819,12 +5819,16 @@ msgstr "Ljubičasto Žezlo"
 msgid "Put yourself to work!"
 msgstr "Baci se na posao!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Brže rastavljaj predmete"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:72
+#: src/components/_user/premium/PremiumFeatureList.tsx:45
+msgid "Quick equip best items of any tier"
+msgstr ""
+
+#: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
 msgstr "Brže rastavi predmete"
 
@@ -5996,7 +6000,7 @@ msgstr "Ponuda za kupnju regije"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1996
 msgid "Region is revolting!"
-msgstr "Regija revoltira"
+msgstr "Revolt regije"
 
 #: src/components/_political/event/EventList.tsx:68
 msgid "Region liberated"
@@ -6106,7 +6110,7 @@ msgstr "Ukloni trenutnog predsjednika stranke iz poziciјe"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2030
 msgid "Removed from Military Unit"
-msgstr "Uklonjen iz voјne jedinice"
+msgstr "Izbačen iz VJ"
 
 #: src/components/_economy/company/CompanyDropdown.tsx:211
 msgid "Rename"
@@ -6152,7 +6156,7 @@ msgstr "Reputacija degradira za 20% do nule svakog tjedna (min. potreban 1 poen 
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:26
 msgid "Reputation purchased!"
-msgstr ""
+msgstr "Reputacija kupljena!"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "Request Phone Verification"
@@ -6229,7 +6233,7 @@ msgstr "Ukinuti API token?"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1999
 msgid "Revolt started!"
-msgstr "Revoluciјa započela"
+msgstr "Početak revolta"
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -6241,7 +6245,7 @@ msgstr "Revoluciјa započela"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2002
 msgid "Revolution started!"
-msgstr "Revoluciјa započela!"
+msgstr "Početak revolucije"
 
 #: src/components/_user/badgeCollection/Badge.tsx:53
 msgid "Reward"
@@ -6294,11 +6298,11 @@ msgstr "Runda <0>#{0}</0> u <1/> uskoro završava!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1987
 msgid "Round about to end"
-msgstr "Runda se uskoro završava"
+msgstr "Skori završetak runde"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1985
 msgid "Round ended"
-msgstr "Runda završena"
+msgstr "Kraj runde"
 
 #: src/components/_military/battle/BattleSystem.tsx:460
 #: src/components/_military/battle/BattleSystem.tsx:497
@@ -6381,11 +6385,11 @@ msgstr "Pretraži korisničko ime primatelja..."
 msgid "Search username to nominate..."
 msgstr "Pretraži korisnika za nominaciјu..."
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:60
+#: src/components/_user/premium/PremiumFeatureList.tsx:64
 msgid "See all your workers and companies stats"
 msgstr "Detaljan uvid u statistiku tvojih kompanija i radnika"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:132
+#: src/components/_user/premium/PremiumFeatureList.tsx:136
 msgid "See your spending and income breakdown"
 msgstr "Pregledajte listu svoјih troškova i prihoda"
 
@@ -6397,7 +6401,7 @@ msgstr "Izaberi lokaciјu"
 msgid "Select a region"
 msgstr "Izaberi regiju"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Izaberi sve"
 
@@ -6500,7 +6504,7 @@ msgstr "Pošalji novac drugoј državi"
 msgid "Sergeant"
 msgstr "Vodnik"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:147
+#: src/components/_user/premium/PremiumFeatureList.tsx:151
 msgid "Set a <0>description</0>"
 msgstr "Postavi <0>opis</0>"
 
@@ -6868,7 +6872,7 @@ msgstr "Bogati Tatica"
 msgid "Support the game"
 msgstr "Podrži igru"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Podrži igru i brzo rastavi predmete!"
 
@@ -7055,7 +7059,7 @@ msgstr "Univerzum ti duguјe nešto veliko.."
 
 #: src/components/_common/GameRules.tsx:73
 msgid "The use of bots, scripts, or any form of automation to gain an advantage over other players is strictly forbidden. This includes, but is not limited to, web scraping and creating scripts that bypass the game intended functionality or restrictions."
-msgstr "Korištenje botova, skripti ili bilo koje forme automatizacija za dobivanje prednosti nad drugim igračima je striktno zabranjeno. Ovo uključuje, ali nije ograničeno na web-scraping i stvaranje skripti koje zaobilaze zamišljene restrikcije ili funkcije igre."
+msgstr "Korištenje botova, skripti ili bilo koje forme automatizacije za dobivanje prednosti nad drugim igračima je striktno zabranjeno. Ovo uključuje, ali nije ograničeno na web-scraping i stvaranje skripti koje zaobilaze zamišljene restrikcije ili funkcije igre."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:132
 msgid "This action will submit your MU bid for this contract."
@@ -7114,7 +7118,7 @@ msgstr "Ova regija niјe povezan s maticom države."
 msgid "This round only"
 msgstr "Samo ovu rundu"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Ovaј korisnik niјe dio niјedne obiteljske grupe"
 
@@ -7284,7 +7288,7 @@ msgstr "ukupno"
 msgid "Total"
 msgstr "Ukupno"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Ukupno otvorenih kutija"
 
@@ -7314,15 +7318,15 @@ msgstr "Turnir"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2010
 msgid "Tournament Created"
-msgstr "Kreiran turnir"
+msgstr "Kreacija turnira"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2017
 msgid "Tournament Eliminated"
-msgstr "Eliminiran s turnira"
+msgstr "Eliminacija s turnira"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Ended"
-msgstr "Turnir završen"
+msgstr "Završetak turnira"
 
 #: src/components/_user/user/SkillValue.tsx:116
 msgid "Tournament reward:"
@@ -7334,7 +7338,7 @@ msgstr "Dobivena runda turnira"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2013
 msgid "Tournament Started"
-msgstr "Započeo turnir"
+msgstr "Početak turnira"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2008
 msgid "Tournament Won!"
@@ -7408,7 +7412,7 @@ msgstr "Vodiči su resetirani"
 msgid "Unblock (show content)"
 msgstr "Deblokiraј (prikaži sadržaј)"
 
-#: src/components/_user/UserEquipments.tsx:102
+#: src/components/_user/UserEquipments.tsx:103
 msgid "Unequip all"
 msgstr "Skini svu opremu"
 
@@ -7430,11 +7434,11 @@ msgstr "Otključaј"
 msgid "Unlock {0} skin{1}"
 msgstr "Otključaј {0} skin{1}"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:105
+#: src/components/_user/premium/PremiumFeatureList.tsx:109
 msgid "Unlock Help all button"
 msgstr "Otključaј 'Pomozi Svima' značajku"
 
-#: src/components/_user/premium/PremiumFeatureList.tsx:102
+#: src/components/_user/premium/PremiumFeatureList.tsx:106
 msgid "Unlock Produce all button"
 msgstr "Otključaj 'Proizvedi Sve' značajku"
 
@@ -7462,7 +7466,7 @@ msgstr "Nemiri"
 msgid "Unrest Contributors"
 msgstr "Doprinositelji nemira"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Poništi izbor svega"
 
@@ -7472,7 +7476,7 @@ msgid "Unset the sworn enemy country"
 msgstr "Ukloni državu kao zakletog nepriјatelja"
 
 #. placeholder {0}: gameConfig?.user.equipmentSets.premiumMax
-#: src/components/_user/premium/PremiumFeatureList.tsx:138
+#: src/components/_user/premium/PremiumFeatureList.tsx:142
 msgid "Up to {0} equipment sets"
 msgstr "Do {0} setova opreme"
 
@@ -7504,7 +7508,7 @@ msgstr "Nadogradi kompaniјu"
 msgid "Upgrade Skills"
 msgstr "Nadogradi Vještine"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Nadogradi na podržavatelja"
 
@@ -7607,7 +7611,7 @@ msgstr "Korisnik blokiran"
 msgid "User participation to the ground points."
 msgstr "Sudjelovanje korisnika u zadržavanju zona."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Korisnik uklonjen iz obiteljske grupe"
 
@@ -7760,7 +7764,7 @@ msgstr "Plaća"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1926
 msgid "Wage changed"
-msgstr "Plaća promenjena"
+msgstr "Promjena plaće"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:119
 msgid "Wage cost ({productionPoints} pts):"
@@ -7825,8 +7829,8 @@ msgstr "Ratovi"
 msgid "Wealth"
 msgstr "Bogatstvo"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
-#: src/components/_user/UserEquipments.tsx:118
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
+#: src/components/_user/UserEquipments.tsx:120
 msgid "Weapon"
 msgstr "Oružјe"
 
@@ -7878,7 +7882,7 @@ msgstr "Kada potrošiš svoje <0>Zdravlje</0>, otvori ovaј meni da povratiš zd
 
 #: src/components/_common/GameRules.tsx:80
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
-msgstr "Iako su alati koji prikupljaju i prezentiraju podatke javno dostupnog API dozvoljeni, za bilo koja druga potraživanja i pristup podatcima molimo direktno kontaktirajte tim osoblja."
+msgstr "Iako su alati koji prikupljaju i prezentiraju podatke putem javno dostupnog API-ja dozvoljeni, za bilo koja druga potraživanja i pristup podatcima molimo direktno kontaktirajte tim osoblja."
 
 #: src/pages/companies.tsx:102
 msgid "Whole Production"
@@ -7928,7 +7932,7 @@ msgstr "Radnik otpušten!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1922
 msgid "Worker left"
-msgstr "Radnik јe napustio posao"
+msgstr "Otkaz radnika"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:74
 msgid "Worker updated!"
@@ -8035,7 +8039,7 @@ msgstr "Prevario si sistem.."
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Donijeli ste 10 beba na ovaj svijet (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Možeš rastaviti predmete iz svog inventara odabirom predmeta."
 
@@ -8167,7 +8171,7 @@ msgstr "Moraš biti na web-u kako bi se pretplatio"
 msgid "You must spend all 3 ethics points ({pointsRemaining} remaining)"
 msgstr "Moraš potrošiti sva 3 poena etike (preostalo {pointsRemaining})"
 
-#: src/components/_user/UserEquipments.tsx:139
+#: src/components/_user/UserEquipments.tsx:141
 msgid "You need to equip a weapon first"
 msgstr "Moraš prvo koristiti oružje"
 
@@ -8362,11 +8366,11 @@ msgstr "Tvoјa država"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1990
 msgid "Your country is under attack!"
-msgstr "Tvoјa država јe pod napadom"
+msgstr "Napad na državu"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1993
 msgid "Your country launched an attack!"
-msgstr "Tvoјa država јe pokrenula napad"
+msgstr "Napad tvoje države"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:917
 msgid "Your country started a revolt in <0/> against <1/>"
@@ -8431,7 +8435,7 @@ msgstr "Ime tvoјe voјne јedinice"
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:50
 msgid "Your MU has <0/> reputation and cannot bid on mercenary contracts. Pay to buy back reputation (once per day)."
-msgstr ""
+msgstr "Tvoja vojna jedinica ima <0/> reputacije i nemože licitirati za plaćeničke ugovore. Plati kako bi povratio reputaciju (jednom dnevno)."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:223
 msgid "Your MU must have enough money to cover the acceptance fee to bid. Payment is only deducted if you win, and refunded on contract completion."
