@@ -5826,7 +5826,7 @@ msgstr "Brže rastavljaj predmete"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Brzo opremanje najboljom opremom bilo koje razine"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
