@@ -1652,7 +1652,7 @@ msgstr "Cikkek írója: <0/>"
 msgid "At least you tried"
 msgstr "Legalább megpróbáltad"
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Az időzítő végén <0>{actualTickPoints}</0> kerül kiosztásra a legtöbb sebzéssel rendelkező oldalnak."
 
@@ -1890,12 +1890,12 @@ msgstr "Csizma"
 msgid "Bounty"
 msgstr "Fejvadászdíj"
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Fejvadászdíj újratöltés"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "Fejvadászdíj elérhető lesz"
 
@@ -2234,7 +2234,7 @@ msgstr "Állampolgárság"
 msgid "Citizenship Applications"
 msgstr "Állampolgársági kérelmek"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Polgárháború"
 
@@ -2690,11 +2690,11 @@ msgstr "Számszeríj"
 msgid "Current Military Unit"
 msgstr "Jelenlegi katonai egység"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Jelenlegi tik:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Jelenlegi összeg:"
 
@@ -3204,7 +3204,7 @@ msgstr "Elfogadás költsége"
 msgid "Enchanted Trousers"
 msgstr "Varázsolt nadrág"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Véget ért"
 
@@ -3267,8 +3267,8 @@ msgstr "Hiba"
 msgid "Estimated benefit per"
 msgstr "Becsült haszon per"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr "Becsült minimális idő, amíg ez az oldal megnyeri az aktuális kört, ha minden tick-et nyer."
 
@@ -3706,7 +3706,7 @@ msgstr "Kormány"
 msgid "Government Member"
 msgstr "Kormánytag"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Kormánybüntetés"
 
@@ -3798,7 +3798,7 @@ msgstr "Grimdark tank"
 msgid "Ground"
 msgstr "Terep"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "terep körönként"
 
@@ -3873,7 +3873,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Támadj <0>{count}</0> alkalommal csatákban"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "A saját országod melletti harcolás kormánytagként {0}% jutalom hatékonyságot ad."
 
@@ -4852,7 +4852,7 @@ msgstr "Mitikus?! A fiókod áldott"
 msgid "Name"
 msgstr "Név"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "Nemzeti vérdíj"
 
@@ -4990,7 +4990,7 @@ msgstr "A következő tank lesz"
 msgid "Next reward"
 msgstr "Következő jutalom"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Következő tick"
 
@@ -6304,8 +6304,8 @@ msgstr "A kör hamarosan véget ér"
 msgid "Round ended"
 msgstr "A kör véget ért"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr "Kör becsült idő"
 
@@ -7065,7 +7065,7 @@ msgstr "A botok, scriptek vagy bármilyen automatizálás használata más ját�
 msgid "This action will submit your MU bid for this contract."
 msgstr "Ez a művelet elküldi a KE-d ajánlatát erre a szerződésre."
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "Ez a fejvadászdíj csak állampolgárok számára elérhető."
 
@@ -7271,7 +7271,7 @@ msgstr "A hónap legjobb ajándékozói"
 msgid "Top of the hill"
 msgstr "A domb teteje"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "összesen"
 

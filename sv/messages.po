@@ -1652,7 +1652,7 @@ msgstr "Artiklar av <0/>"
 msgid "At least you tried"
 msgstr "Ett tappert försök"
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "När tiden löper ut tilldelas <0>{actualTickPoints}</0> den sida som orsakat mest skada."
 
@@ -1890,12 +1890,12 @@ msgstr "Kängor"
 msgid "Bounty"
 msgstr ""
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Spärrtid för prissumma"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "Prissumma tillgänglig om"
 
@@ -2234,7 +2234,7 @@ msgstr "Medborgarskap"
 msgid "Citizenship Applications"
 msgstr "Ansökningar om medborgarskap"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Inbördeskrig"
 
@@ -2690,11 +2690,11 @@ msgstr "Armborst"
 msgid "Current Military Unit"
 msgstr "Nuvarande militärt förband"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Nuvarande tidsenhet:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Nuvarande total:"
 
@@ -3204,7 +3204,7 @@ msgstr "Lagstiftningskostnad"
 msgid "Enchanted Trousers"
 msgstr "Förtrollade byxor"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Avslutad"
 
@@ -3267,8 +3267,8 @@ msgstr "Fel"
 msgid "Estimated benefit per"
 msgstr "Uppskattad förmån per"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr "Uppskattad minimitid för den här sidan att vinna den pågående rundan om alla tidsenheter vinns."
 
@@ -3706,7 +3706,7 @@ msgstr "Regering"
 msgid "Government Member"
 msgstr "Regeringsledamot"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Regeringsmalus"
 
@@ -3798,7 +3798,7 @@ msgstr "Grimdark-stridsvagn"
 msgid "Ground"
 msgstr "Terräng"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "terräng per tidsenhet"
 
@@ -3873,7 +3873,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Gör <0>{count}</0> anfall i strider"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Att anfalla för ditt eget land medan du sitter i regeringen ger {0} % effektivitet för prissummor."
 
@@ -4852,7 +4852,7 @@ msgstr "Mytomspunnen?! Ditt konto är välsignat"
 msgid "Name"
 msgstr "Namn"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "Nationell prissumma"
 
@@ -4990,7 +4990,7 @@ msgstr "Nästa blir en stridsvagn 122"
 msgid "Next reward"
 msgstr "Nästa belöning"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Nästa tidsenhet"
 
@@ -6304,8 +6304,8 @@ msgstr "Ronden avslutas snart"
 msgid "Round ended"
 msgstr "Rond avslutad"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr "Rundans beräknade sluttid"
 
@@ -7065,7 +7065,7 @@ msgstr ""
 msgid "This action will submit your MU bid for this contract."
 msgstr ""
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "Denna prissumma är reserverad för landets egna medborgare."
 
@@ -7271,7 +7271,7 @@ msgstr "Månadens främsta givare"
 msgid "Top of the hill"
 msgstr "Kung av kullen"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "totalt"
 

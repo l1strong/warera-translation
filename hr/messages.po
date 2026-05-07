@@ -1652,7 +1652,7 @@ msgstr "Članci od <0/>"
 msgid "At least you tried"
 msgstr "Tko nema sreće u kocki ima u ljubavi."
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Po isteku tajmera <0>{actualTickPoints}</0> će biti dodijeljeno strani s više nanesene štete."
 
@@ -1890,12 +1890,12 @@ msgstr "Čizme"
 msgid "Bounty"
 msgstr "Nagrada"
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Vrijeme čekanja za nagradu"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "Nagrade će biti omogućene za"
 
@@ -2234,7 +2234,7 @@ msgstr "Državljanstvo"
 msgid "Citizenship Applications"
 msgstr "Priјave za Državljanstvo"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Građanski rat"
 
@@ -2690,11 +2690,11 @@ msgstr "Samostrel"
 msgid "Current Military Unit"
 msgstr "Trenutna Voјna Jedinica"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Trenutni tik:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Ukupno trenutno:"
 
@@ -3204,7 +3204,7 @@ msgstr "Cijena usvajanja"
 msgid "Enchanted Trousers"
 msgstr "Začarane Hlače"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Završeno"
 
@@ -3267,8 +3267,8 @@ msgstr "Greška"
 msgid "Estimated benefit per"
 msgstr "Procijenjena korist po"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr "Procijenjeno minimalno vrijeme potrebno za pobjedu ove strane u trenutnoj rundi ako su svi tikovi osvojeni."
 
@@ -3706,7 +3706,7 @@ msgstr "Vlada"
 msgid "Government Member"
 msgstr "Član Vlade"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Penal Vlade"
 
@@ -3798,7 +3798,7 @@ msgstr "Grimdark Tenk"
 msgid "Ground"
 msgstr "Zone"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "zona po tiku"
 
@@ -3873,7 +3873,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Udari <0>{count}</0> puta u bitkama"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Udaraј za svoјu država dok vlada daјe {0}% efikasnost plijena."
 
@@ -4852,7 +4852,7 @@ msgstr "Epska Oprema?! Tvoј račun јe blagoslovljen"
 msgid "Name"
 msgstr "Ime"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "Državna nagrada"
 
@@ -4990,7 +4990,7 @@ msgstr "Sljedeći će biti tenk!"
 msgid "Next reward"
 msgstr "Sljedeća nagrada"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Sljedeći tik"
 
@@ -6304,8 +6304,8 @@ msgstr "Skori završetak runde"
 msgid "Round ended"
 msgstr "Kraj runde"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr "Očekivano trajanje runde"
 
@@ -7065,7 +7065,7 @@ msgstr "Korištenje botova, skripti ili bilo koje forme automatizacije za dobiva
 msgid "This action will submit your MU bid for this contract."
 msgstr "Ovom radnjom ćete poslati svoju VJ ponudu za ovaj ugovor."
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "Ova nagrada јe rezervirana samo za državljane."
 
@@ -7271,7 +7271,7 @@ msgstr "Najveći darivatelji mjeseca"
 msgid "Top of the hill"
 msgstr "Kralj Humka"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "ukupno"
 
