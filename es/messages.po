@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-17 01:11+0200\n"
 "PO-Revision-Date: \n"
-"Last-Translator: meoww\n"
+"Last-Translator: Gokruzk <nigelljama@gmail.com>\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -164,7 +164,7 @@ msgstr "{registeredCount} {entityLabel} registrados"
 
 #: src/components/_military/battle/BattleTimeline.tsx:79
 msgid "{roundsToWin} Rounds to win "
-msgstr "{roundsToWin} rondas para ganar"
+msgstr "{roundsToWin} rondas para ganar "
 
 #. placeholder {0}: staticGameConfig.battle.roundsToWin
 #: src/components/_military/battle/RoundScore.tsx:50
@@ -200,7 +200,7 @@ msgstr "<0/> a <1>{0}</1> de salario.{1}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1821
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
-msgstr "<0/> compró tu {assetLabel} como regalo para <1/>"
+msgstr "¡<0/> compró tu {assetLabel} como regalo para <1/>!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1828
 msgid "<0/> bought your {assetLabel}!"
@@ -1272,8 +1272,7 @@ msgstr "Acceder a las batallas"
 #: src/components/_user/user/UserHeader.tsx:165
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:341
-#: src/pages/user/[userId]/account.tsx:32
-#: src/pages/user/[userId]/index.tsx:150
+#: src/pages/user/[userId]/account.tsx:32 src/pages/user/[userId]/index.tsx:150
 msgid "Account"
 msgstr "Cuenta"
 
@@ -1288,8 +1287,7 @@ msgstr "Acciones"
 #: src/components/_military/battle/BattlesHeader.tsx:25
 #: src/components/_military/mercenaryContract/MercenaryAuctionList.tsx:134
 #: src/components/_military/mercenaryContract/MercenaryContractList.tsx:85
-#: src/pages/events/index.tsx:94
-#: src/utils/translations.tsx:258
+#: src/pages/events/index.tsx:94 src/utils/translations.tsx:258
 msgid "Active"
 msgstr "Activas"
 
@@ -1472,8 +1470,7 @@ msgstr "Casi listo..."
 msgid "Alpha Tester"
 msgstr "Tester Alpha"
 
-#: src/components/_user/UserEquipments.tsx:130
-#: src/utils/translations.tsx:35
+#: src/components/_user/UserEquipments.tsx:130 src/utils/translations.tsx:35
 msgid "Ammo"
 msgstr "Munición"
 
@@ -1826,8 +1823,7 @@ msgstr "Órdenes de batalla"
 #: src/components/_layout/LayoutMenu.tsx:154
 #: src/components/_military/battle/BattlesHeader.tsx:21
 #: src/components/_military/war/WarHeader.tsx:83
-#: src/pages/region/[regionId]/index.tsx:132
-#: src/pages/war/[warId]/index.tsx:75
+#: src/pages/region/[regionId]/index.tsx:132 src/pages/war/[warId]/index.tsx:75
 msgid "Battles"
 msgstr "Batallas"
 
@@ -1881,8 +1877,7 @@ msgstr "Daño extra"
 msgid "Boost your production!"
 msgstr "¡Aumenta tu producción!"
 
-#: src/components/_user/UserEquipments.tsx:200
-#: src/utils/translations.tsx:192
+#: src/components/_user/UserEquipments.tsx:200 src/utils/translations.tsx:192
 msgid "Boots"
 msgstr "Botas"
 
@@ -2165,8 +2160,7 @@ msgstr "Cambiar el impuesto de {0} a"
 msgid "Check your loot!"
 msgstr "¡Revisa tu botín!"
 
-#: src/components/_user/UserEquipments.tsx:166
-#: src/utils/translations.tsx:183
+#: src/components/_user/UserEquipments.tsx:166 src/utils/translations.tsx:183
 msgid "Chest"
 msgstr "Pechera"
 
@@ -2321,8 +2315,7 @@ msgstr "Comunidad"
 #: src/components/_layout/LayoutMenu.tsx:184
 #: src/components/_user/user/MyAvatar.tsx:48
 #: src/components/_user/user/UserHeader.tsx:197
-#: src/components/_user/user/WealthPanel.tsx:42
-#: src/pages/companies.tsx:96
+#: src/components/_user/user/WealthPanel.tsx:42 src/pages/companies.tsx:96
 msgid "Companies"
 msgstr "Empresas"
 
@@ -2704,7 +2697,7 @@ msgstr "Fuente de nombre de usuario personalizada"
 
 #: src/components/_common/GameRules.tsx:212
 msgid "d. Any form of discrimination, racism, xenophobia, antisemitism, homophobia, transphobia and hate speech"
-msgstr "d. Cualquier forma de discriminación, racismo, xenofobia, antisemitismo, homofobia, transfobia y discurso de odio."
+msgstr "d. Cualquier forma de discriminación, racismo, xenofobia, antisemitismo, homofobia, transfobia y discurso de odio"
 
 #: src/components/_user/mission/MissionsList.tsx:190
 msgid "Daily"
@@ -2893,8 +2886,7 @@ msgstr "Eliminar cuenta"
 msgid "Delete contract"
 msgstr "Eliminar contrato"
 
-#: src/pages/index.tsx:146
-#: src/pages/rules.tsx:40
+#: src/pages/index.tsx:146 src/pages/rules.tsx:40
 msgid "Delete your account"
 msgstr "Eliminar tu cuenta"
 
@@ -3243,8 +3235,7 @@ msgid "Entrepreneurship"
 msgstr "Emprendimiento"
 
 #: src/components/_economy/inventory/case/RarityChances.tsx:50
-#: src/components/_user/user/WealthPanel.tsx:56
-#: src/pages/market/index.tsx:71
+#: src/components/_user/user/WealthPanel.tsx:56 src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
 #: src/pages/user/[userId]/inventory.tsx:58
 msgid "Equipment"
@@ -3334,7 +3325,7 @@ msgstr "Aprovecharse de errores o ignorarlos para obtener ventajas indebidas est
 
 #: src/components/_common/GameRules.tsx:225
 msgid "f. Glorification/apology of hateful ideologies such as nazism, neo-nazism, fascism, terrorism and terrorist groups and movements (considered as such by the United Nations, the European Union or France), genocide denial, war crimes, or crimes against humanity, Putinism and communism"
-msgstr "f. Glorificación o apología de ideologías de odio como el nazismo, neonazismo, fascismo, terrorismo y de grupos o movimientos terroristas (considerados como tales por las Naciones Unidas, la Unión Europea o Francia), negación del genocidio, crímenes de guerra o crímenes contra la humanidad, putinismo y comunismo."
+msgstr "f. Glorificación o apología de ideologías de odio como el nazismo, neonazismo, fascismo, terrorismo y de grupos o movimientos terroristas (considerados como tales por las Naciones Unidas, la Unión Europea o Francia), negación del genocidio, crímenes de guerra o crímenes contra la humanidad, putinismo y comunismo"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:92
 msgid "Failed to copy"
@@ -3504,8 +3495,7 @@ msgstr "Financiar una resistencia local"
 msgid "Finance resistance in <0/>"
 msgstr "Financiar la resistencia en <0/>"
 
-#: src/pages/companies.tsx:59
-#: src/pages/user/[userId]/companies.tsx:73
+#: src/pages/companies.tsx:59 src/pages/user/[userId]/companies.tsx:73
 msgid "Find a job"
 msgstr "Buscar trabajo"
 
@@ -3677,8 +3667,7 @@ msgstr "Otorga <0>{0}</0>"
 msgid "Globe (experimental)"
 msgstr "Globo (experimental)"
 
-#: src/components/_user/UserEquipments.tsx:217
-#: src/utils/translations.tsx:201
+#: src/components/_user/UserEquipments.tsx:217 src/utils/translations.tsx:201
 msgid "Gloves"
 msgstr "Guantes"
 
@@ -3835,8 +3824,7 @@ msgstr "Salud"
 msgid "Heavy Ammo"
 msgstr "Munición Pesada"
 
-#: src/components/_user/UserEquipments.tsx:151
-#: src/utils/translations.tsx:174
+#: src/components/_user/UserEquipments.tsx:151 src/utils/translations.tsx:174
 msgid "Helmet"
 msgstr "Casco"
 
@@ -4028,10 +4016,8 @@ msgstr "Las infracciones intencionales o reiteradas de esta política resultará
 
 #: src/components/_layout/LayoutMenu.tsx:125
 #: src/components/_user/user/MyAvatar.tsx:35
-#: src/components/_user/user/UserHeader.tsx:157
-#: src/pages/companies.tsx:83
-#: src/pages/country/[countryId]/account.tsx:25
-#: src/pages/market/index.tsx:49
+#: src/components/_user/user/UserHeader.tsx:157 src/pages/companies.tsx:83
+#: src/pages/country/[countryId]/account.tsx:25 src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:20
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:201
@@ -4076,8 +4062,7 @@ msgstr "Objetos"
 msgid "j. Spam and repeated messages"
 msgstr "j. Spam y mensajes repetidos"
 
-#: src/pages/companies.tsx:32
-#: src/pages/user/[userId]/companies.tsx:56
+#: src/pages/companies.tsx:32 src/pages/user/[userId]/companies.tsx:56
 msgid "Job"
 msgstr "Trabajo"
 
@@ -5180,8 +5165,7 @@ msgstr "¡Nada mal!"
 msgid "Not impressive, but not shameful"
 msgstr "No impresionante, pero tampoco vergonzoso"
 
-#: src/pages/notifications.tsx:38
-#: src/pages/user/[userId]/settings.tsx:79
+#: src/pages/notifications.tsx:38 src/pages/user/[userId]/settings.tsx:79
 msgid "Notification preferences"
 msgstr "Preferencias de notificación"
 
@@ -5383,8 +5367,7 @@ msgstr "Pacifista"
 msgid "Packs"
 msgstr "Packs"
 
-#: src/components/_user/UserEquipments.tsx:183
-#: src/utils/translations.tsx:210
+#: src/components/_user/UserEquipments.tsx:183 src/utils/translations.tsx:210
 msgid "Pants"
 msgstr "Pantalones"
 
@@ -5656,8 +5639,7 @@ msgstr "Elección primaria concluida"
 msgid "Priority from declaring wars or winning battles is <0>{0} hours</0> instead of 24."
 msgstr "Priority from declaring wars or winning battles is <0>{0} hours</0> instead of 24."
 
-#: src/pages/index.tsx:142
-#: src/pages/rules.tsx:36
+#: src/pages/index.tsx:142 src/pages/rules.tsx:36
 msgid "Privacy"
 msgstr "Privacidad"
 
@@ -5826,7 +5808,7 @@ msgstr "Desmontar rápido"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Equipa rápidamente los mejores objetos de cualquier nivel"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
@@ -5983,8 +5965,7 @@ msgstr "Regenera en..."
 #. placeholder {0}: staticGameConfig.items.bread.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.cookedFish.flatStats?.healthRegenPercent
 #. placeholder {0}: staticGameConfig.items.steak.flatStats?.healthRegenPercent
-#: src/utils/translations.tsx:45
-#: src/utils/translations.tsx:61
+#: src/utils/translations.tsx:45 src/utils/translations.tsx:61
 #: src/utils/translations.tsx:74
 msgid "Regens <0>{0}</0> when consumed"
 msgstr "Regenera <0>{0}</0> al consumirse"
@@ -6073,8 +6054,7 @@ msgstr "Remover <0/> del partido del consejo"
 msgid "Remove a member from the party council"
 msgstr "Remover un miembro del partido del consejo"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:174 src/pages/market/index.tsx:234
 msgid "Remove all"
 msgstr "Eliminar todo"
 
@@ -6968,8 +6948,7 @@ msgstr "Impuestos"
 msgid "Terminated"
 msgstr "Terminado"
 
-#: src/pages/index.tsx:138
-#: src/pages/rules.tsx:32
+#: src/pages/index.tsx:138 src/pages/rules.tsx:32
 msgid "Terms"
 msgstr "Términos"
 
@@ -7282,8 +7261,7 @@ msgstr "total"
 #: src/components/_economy/itemTrading/TradingOrders.tsx:93
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
-#: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
+#: src/components/_user/user/WealthPanel.tsx:28 src/pages/market/index.tsx:153
 #: src/pages/market/index.tsx:202
 msgid "Total"
 msgstr "Total"
@@ -7366,8 +7344,7 @@ msgid "Transac."
 msgstr "Transac."
 
 #: src/components/_political/country/CountryHeader.tsx:80
-#: src/pages/market/index.tsx:83
-#: src/pages/user/[userId]/index.tsx:230
+#: src/pages/market/index.tsx:83 src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
 msgstr "Transacciones"
 
@@ -7533,8 +7510,7 @@ msgstr "Usa tu <0>Emprendimiento</0> para trabajar en tu propia empresa y llenar
 msgid "Use your <0>Hunger</0> to eat food and refill your <1>Health</1>. Then get back to fighting!"
 msgstr "Usa tu <0>Hambre</0> para comer y rellenar tu <1>Salud</1>. ¡Luego vuelve a luchar!"
 
-#: src/utils/translations.tsx:90
-#: src/utils/translations.tsx:96
+#: src/utils/translations.tsx:90 src/utils/translations.tsx:96
 #: src/utils/translations.tsx:101
 msgid "Used for shooting guns. Increases your <0>Attack</0>"
 msgstr "Usada para disparar armas. Aumenta tu <0>Ataque</0>"
@@ -7997,8 +7973,7 @@ msgstr "Ya eres presidente de otro país. Dimite primero."
 msgid "You are already vice president of another country. Resign first."
 msgstr "Ya eres vicepresidente de otro país. Dimite primero."
 
-#: src/pages/companies.tsx:45
-#: src/pages/user/[userId]/companies.tsx:64
+#: src/pages/companies.tsx:45 src/pages/user/[userId]/companies.tsx:64
 msgid "You are jobless"
 msgstr "Estás desempleado"
 
