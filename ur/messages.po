@@ -1652,7 +1652,7 @@ msgstr "Articles by <0/>"
 msgid "At least you tried"
 msgstr "At least you tried"
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 
@@ -1890,12 +1890,12 @@ msgstr "Boots"
 msgid "Bounty"
 msgstr ""
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Bounty cooldown"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "Bounty will be available in"
 
@@ -2234,7 +2234,7 @@ msgstr "Citizenship"
 msgid "Citizenship Applications"
 msgstr "Citizenship Applications"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Civil war"
 
@@ -2690,11 +2690,11 @@ msgstr "Crossbow"
 msgid "Current Military Unit"
 msgstr "Current Military Unit"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Current tick:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Current total:"
 
@@ -3204,7 +3204,7 @@ msgstr "Enacting cost"
 msgid "Enchanted Trousers"
 msgstr "Enchanted Trousers"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Ended"
 
@@ -3267,8 +3267,8 @@ msgstr "Error"
 msgid "Estimated benefit per"
 msgstr "Estimated benefit per"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr ""
 
@@ -3706,7 +3706,7 @@ msgstr "Government"
 msgid "Government Member"
 msgstr "Government Member"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Government penalty"
 
@@ -3798,7 +3798,7 @@ msgstr "Grimdark Tank"
 msgid "Ground"
 msgstr "Ground"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "ground per tick"
 
@@ -3873,7 +3873,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Hit <0>{count}</0> times in battles"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Hitting for your own country while in government gives {0}% bounty efficiency."
 
@@ -4852,7 +4852,7 @@ msgstr "Mythic?! Your account is blessed"
 msgid "Name"
 msgstr "Name"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "National bounty"
 
@@ -4990,7 +4990,7 @@ msgstr "Next one will be tank"
 msgid "Next reward"
 msgstr "Next reward"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Next tick"
 
@@ -6304,8 +6304,8 @@ msgstr "Round about to end"
 msgid "Round ended"
 msgstr "Round ended"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr ""
 
@@ -7065,7 +7065,7 @@ msgstr ""
 msgid "This action will submit your MU bid for this contract."
 msgstr ""
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "This bounty is reserved for nationals only."
 
@@ -7271,7 +7271,7 @@ msgstr "Top gift givers of the month"
 msgid "Top of the hill"
 msgstr "Top of the hill"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "total"
 

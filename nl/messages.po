@@ -1652,7 +1652,7 @@ msgstr "Artikelen door <0/>"
 msgid "At least you tried"
 msgstr "Je hebt het geprobeerd!"
 
-#: src/components/_military/battle/BattleSystem.tsx:611
+#: src/components/_military/battle/BattleSystem.tsx:615
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Aan het einde van de timer wordt/worden <0>{actualTickPoints}</0> toegewezen aan de kant met de meeste schade."
 
@@ -1890,12 +1890,12 @@ msgstr "Laarzen"
 msgid "Bounty"
 msgstr "Beloning"
 
-#: src/components/_military/battle/BattleSystem.tsx:846
-#: src/components/_military/battle/BattleSystem.tsx:856
+#: src/components/_military/battle/BattleSystem.tsx:850
+#: src/components/_military/battle/BattleSystem.tsx:860
 msgid "Bounty cooldown"
 msgstr "Beloningsafkoelperiode"
 
-#: src/components/_military/battle/BattleSystem.tsx:832
+#: src/components/_military/battle/BattleSystem.tsx:836
 msgid "Bounty will be available in"
 msgstr "Beloning beschikbaar over"
 
@@ -2234,7 +2234,7 @@ msgstr "Burgerschap"
 msgid "Citizenship Applications"
 msgstr "Burgerschap aanvragen"
 
-#: src/components/_military/battle/BattleSystem.tsx:341
+#: src/components/_military/battle/BattleSystem.tsx:347
 msgid "Civil war"
 msgstr "Burgeroorlog"
 
@@ -2690,11 +2690,11 @@ msgstr "Kruisboog"
 msgid "Current Military Unit"
 msgstr "Huidige militaire eenheid"
 
-#: src/components/_military/battle/BattleSystem.tsx:630
+#: src/components/_military/battle/BattleSystem.tsx:634
 msgid "Current tick:"
 msgstr "Huidige tick:"
 
-#: src/components/_military/battle/BattleSystem.tsx:620
+#: src/components/_military/battle/BattleSystem.tsx:624
 msgid "Current total:"
 msgstr "Huidig totaal:"
 
@@ -3204,7 +3204,7 @@ msgstr "Invoerkosten"
 msgid "Enchanted Trousers"
 msgstr "Betoverde Broek"
 
-#: src/components/_military/battle/BattleSystem.tsx:739
+#: src/components/_military/battle/BattleSystem.tsx:743
 msgid "Ended"
 msgstr "Einde"
 
@@ -3267,8 +3267,8 @@ msgstr "Fout"
 msgid "Estimated benefit per"
 msgstr "Geschat voordeel per"
 
-#: src/components/_military/battle/BattleSystem.tsx:462
-#: src/components/_military/battle/BattleSystem.tsx:499
+#: src/components/_military/battle/BattleSystem.tsx:467
+#: src/components/_military/battle/BattleSystem.tsx:504
 msgid "Estimated minimum time for this side to win the current round if all ticks are won."
 msgstr "Geschatte minimale tijd voor deze zijde om de huidige ronde te winnen als alle ticks worden gewonnen."
 
@@ -3706,7 +3706,7 @@ msgstr "Regering"
 msgid "Government Member"
 msgstr "Regeringslid"
 
-#: src/components/_military/battle/BattleSystem.tsx:806
+#: src/components/_military/battle/BattleSystem.tsx:810
 msgid "Government penalty"
 msgstr "Regeringsnadeel"
 
@@ -3798,7 +3798,7 @@ msgstr "Grimdark Tank"
 msgid "Ground"
 msgstr "Grond"
 
-#: src/components/_military/battle/BattleSystem.tsx:669
+#: src/components/_military/battle/BattleSystem.tsx:673
 msgid "ground per tick"
 msgstr "Grond per tick"
 
@@ -3873,7 +3873,7 @@ msgid "Hit <0>{count}</0> times in battles"
 msgstr "Raak <0>{count}</0> keer in gevechten"
 
 #. placeholder {0}: staticGameConfig.battle.govMemberBountyRewardPercent
-#: src/components/_military/battle/BattleSystem.tsx:808
+#: src/components/_military/battle/BattleSystem.tsx:812
 msgid "Hitting for your own country while in government gives {0}% bounty efficiency."
 msgstr "Als je voor je eigen land vecht terwijl je in de regering zit, krijg je {0}% beloningsefficiëntie."
 
@@ -4852,7 +4852,7 @@ msgstr "Mythisch?! Je account is gezegend"
 msgid "Name"
 msgstr "Naam"
 
-#: src/components/_military/battle/BattleSystem.tsx:794
+#: src/components/_military/battle/BattleSystem.tsx:798
 msgid "National bounty"
 msgstr "Nationale beloning"
 
@@ -4990,7 +4990,7 @@ msgstr "De volgende is een tank"
 msgid "Next reward"
 msgstr "Volgende beloning"
 
-#: src/components/_military/battle/BattleSystem.tsx:606
+#: src/components/_military/battle/BattleSystem.tsx:610
 msgid "Next tick"
 msgstr "Volgende tick"
 
@@ -6304,8 +6304,8 @@ msgstr "Ronde bijna ten einde"
 msgid "Round ended"
 msgstr "Ronde beëindigd"
 
-#: src/components/_military/battle/BattleSystem.tsx:460
-#: src/components/_military/battle/BattleSystem.tsx:497
+#: src/components/_military/battle/BattleSystem.tsx:465
+#: src/components/_military/battle/BattleSystem.tsx:502
 msgid "Round ETA"
 msgstr "Ronde ETA"
 
@@ -7065,7 +7065,7 @@ msgstr "Het gebruik van bots, scripts of enige vorm van automatisering om een vo
 msgid "This action will submit your MU bid for this contract."
 msgstr "Deze actie zal je ME bod voor dit contract indienen."
 
-#: src/components/_military/battle/BattleSystem.tsx:795
+#: src/components/_military/battle/BattleSystem.tsx:799
 msgid "This bounty is reserved for nationals only."
 msgstr "Deze beloning is alleen gereserveerd voor staatsburgers."
 
@@ -7271,7 +7271,7 @@ msgstr "Meeste cadeaus gegeven deze maand"
 msgid "Top of the hill"
 msgstr "Top van de heuvel"
 
-#: src/components/_military/battle/BattleSystem.tsx:660
+#: src/components/_military/battle/BattleSystem.tsx:664
 msgid "total"
 msgstr "totaal"
 
