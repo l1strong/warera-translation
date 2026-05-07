@@ -5826,7 +5826,7 @@ msgstr "Desmontar rápido"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Equipe os melhores itens de qualquer categoria com apenas um clique"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
@@ -6156,7 +6156,7 @@ msgstr "A reputação diminui 20% até chegar a 0 todas as semanas (mínimo de 1
 
 #: src/components/_military/mercenaryContract/BuyMercenaryReputationButton.tsx:26
 msgid "Reputation purchased!"
-msgstr ""
+msgstr "Reputação adquirida!"
 
 #: src/components/_user/user/UserDropdown.tsx:335
 msgid "Request Phone Verification"
