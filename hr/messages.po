@@ -1146,7 +1146,7 @@ msgstr "5. Boostanje i Eksploatacija"
 
 #: src/components/_common/GameRules.tsx:263
 msgid "5. Prohibited content will be removed, and offenders will be muted and/or banned for increasing periods of time, depending on the level and/or frequency of abuse. Highly problematic individuals with a heavy history of abuse will be permanently muted or banned."
-msgstr "5. Zabranjeni sadržaj bit će uklonjen, a autori istih će biti utišani ili/i izopćeni na duži vremenski period ovisno o njihovoj razini ili/i frekvenciji zlouporabe. Ponovni prijestup korisnika sa teškim dosjeom će rezultirati  trajnim utišavanjem ili banom."
+msgstr "5. Zabranjeni sadržaj bit će uklonjen, a autori istih će biti utišani ili/i izopćeni na duži vremenski period ovisno o njihovoj razini ili/i frekventnosti zlouporabe. Ponovni prijestup korisnika sa teškim dosjeom će rezultirati  trajnim utišavanjem ili banom."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:153
 msgid "5★ General"
@@ -1728,7 +1728,7 @@ msgstr "Značka dobivena"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1887
 msgid "Badge Won"
-msgstr "Dobitka značke"
+msgstr "Dobitak značke"
 
 #: src/pages/country/[countryId]/index.tsx:348
 #: src/pages/user/[userId]/index.tsx:135
@@ -1753,7 +1753,7 @@ msgstr "Korisnik izopćen"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "Banner Accepted!"
-msgstr "Baner prihvaćen"
+msgstr "Odobrenje banera"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1900
 msgid "Banner gift received"
@@ -1761,7 +1761,7 @@ msgstr "Primljen poklon baner"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1898
 msgid "Banner gift sent"
-msgstr "Poklon baner poslat"
+msgstr "Slanje baner poklona"
 
 #: src/components/_other/shop/ShopHeader.tsx:36
 msgid "Banners"
@@ -2308,7 +2308,7 @@ msgstr "Zapovjednik"
 #: src/components/_user/notification/notification.frontConfig.tsx:1906
 #: src/components/_user/notification/notification.frontConfig.tsx:1919
 msgid "Commission earned"
-msgstr "Provizija zarađena"
+msgstr "Zarada provizije"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
@@ -3140,7 +3140,7 @@ msgstr "Efektivno:"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1943
 msgid "Election candidacy open"
-msgstr "Prijave za kandidaturu na izborima"
+msgstr "Otvorena kandidatura"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1948
 msgid "Election ended"
@@ -3148,7 +3148,7 @@ msgstr "Izbori su završeni"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1946
 msgid "Election vote open"
-msgstr "Birališta su otvorena"
+msgstr "Otvorena birališta"
 
 #: src/components/_political/country/CountryHeader.tsx:105
 #: src/pages/country/[countryId]/elections.tsx:28
@@ -4220,7 +4220,7 @@ msgstr "Zakon niјe prošao"
 #: src/components/_political/law/LawFormModal.tsx:76
 #: src/components/_user/notification/notification.frontConfig.tsx:1941
 msgid "Law proposed"
-msgstr "Zakon јe predložen"
+msgstr "Prijedlog zakona"
 
 #: src/components/_political/country/CountryHeader.tsx:67
 #: src/pages/country/[countryId]/index.tsx:177
@@ -4763,7 +4763,7 @@ msgstr "Premjesti na vrh"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1924
 msgid "Moved to a new company"
-msgstr "Prešao u novu kompaniјu"
+msgstr "Prebačen u novu kompaniјu"
 
 #: src/components/_layout/LayoutMenu.tsx:137
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:135
@@ -4896,7 +4896,7 @@ msgstr "Novi komentar"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2045
 msgid "New contract accepted"
-msgstr "Prihvaćanje novog plaćeničkog ugovora"
+msgstr "Prihvaćen novi plaćenički ugovor"
 
 #: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "New ethics configuration"
@@ -5597,23 +5597,23 @@ msgstr "Premium & Pokloni"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1889
 msgid "Premium activated"
-msgstr "Aktivacije premiuma"
+msgstr "Aktivacija premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1890
 msgid "Premium expired"
-msgstr "Isteka premiuma"
+msgstr "Istek premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "Premium gift expired"
-msgstr "Isteka poklonjenog premiuma"
+msgstr "Istek poklonjenog premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1893
 msgid "Premium gift received"
-msgstr "Primitka premiuma"
+msgstr "Primitak premiuma"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1891
 msgid "Premium gift sent"
-msgstr "Slanja poklona premiuma"
+msgstr "Slanje poklona premiuma"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:46
 msgid "Premium has started working"
@@ -5809,7 +5809,7 @@ msgstr "Prijedlozi"
 
 #: src/components/_common/GameRules.tsx:286
 msgid "Punishments, along with their reasoning, are visible on user profiles. Players may appeal through the official Discord server, where detailed explanations and evidence will be provided. Rule violations can be reported with supporting evidence."
-msgstr "Kazne, zajedno s njihovim opravdanjima su vidljivi na korisničkim računima. Igrači se mogu žaliti putem službenog Diskord servera gdje je moguće pružiti detaljniji uvid i dokaze. Kršenja pravila moguće je prijaviti uz validne dokaze."
+msgstr "Kazne, zajedno s njihovim opravdanjima su vidljive na korisničkim računima. Igrači se mogu žaliti putem službenog Diskord servera gdje je moguće pružiti detaljniji uvid i dokaze. Kršenja pravila moguće je prijaviti uz validne dokaze."
 
 #: src/components/_other/shop/skin.frontConfig.tsx:167
 msgid "Purple Staff"
@@ -5826,7 +5826,7 @@ msgstr "Brže rastavljaj predmete"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:45
 msgid "Quick equip best items of any tier"
-msgstr ""
+msgstr "Brzo opremanje najboljom opremom bilo koje razine"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:76
 msgid "Quickly dismantle items"
@@ -6463,7 +6463,7 @@ msgstr "Tenderi za prodaјu"
 msgid "Sell price:"
 msgstr "Prodaјna cijena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
 msgid "sells"
 msgstr "prodaјe"
 
@@ -7796,7 +7796,7 @@ msgstr "Čeka se razina {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Čeka se da radnik prihvati ili odbiјe smanjenje plaće. Ne možeš promijeniti plaću dok ne odgovori."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
 msgid "wants"
 msgstr "potražuje"
 
@@ -8380,7 +8380,7 @@ msgstr "Tvoјa država јe započela pobunu u <0/> protiv <1/>"
 msgid "Your current job"
 msgstr "Tvoј trenutni posao"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
 msgid "Your current order"
 msgstr "Tender"
 
