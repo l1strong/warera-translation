@@ -2282,7 +2282,7 @@ msgstr "Klikni da se priјaviš i odmah počneš zarađivati novac."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:166
 msgid "Click to consume."
-msgstr "Klikni da popiješ."
+msgstr "Klikni za konzumiranje."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
