@@ -1,4 +1,4 @@
-msgid ""
+vmsgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1566,7 +1566,7 @@ msgstr "Tajanstvene Čizme"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:216
 msgid "Are you sure you want to consume pill?"
-msgstr ""
+msgstr "Jeste li sigurni da želite konzumirati pilulu?"
 
 #: src/components/_military/mu/MuMemberList.tsx:154
 msgid "Are you sure you want to demote this commander?"
@@ -1707,7 +1707,7 @@ msgstr "Automatski generira <0>Poene Proizvodnje</0> kroz vrijeme, bez potrebe z
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:269
 msgid "Autobuy when empty"
-msgstr ""
+msgstr "Automatski kupi pri nedostatku zaliha"
 
 #: src/components/_economy/company/CompanyTags.tsx:87
 msgid "Automated engine"
@@ -2282,7 +2282,7 @@ msgstr "Klikni da se priјaviš i odmah počneš zarađivati novac."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:166
 msgid "Click to consume."
-msgstr ""
+msgstr "Klikni da popiješ."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:100
 msgid "Click to reveal what's inside. You might get something valuable!"
@@ -2492,7 +2492,7 @@ msgstr "Uzmi u obzir da to daš svom lokalnom moderatoru.."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:163
 msgid "Consume items"
-msgstr ""
+msgstr "Konzumiraj predmete"
 
 #: src/components/_user/user/skills.frontConfig.tsx:78
 msgid "Consumed when fighting in battles"
@@ -7140,7 +7140,7 @@ msgstr "Ovaј korisnik niјe dio niјedne obiteljske grupe"
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:217
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
-msgstr ""
+msgstr "Ovo će vam pružati buff na {cocainBuffHours} sati, a zatim uzrokovati debuff na {cocainDebuffHours} sati"
 
 #: src/components/_user/user/UserDropdown.tsx:336
 msgid "This will require the user to verify their mobile phone number."
