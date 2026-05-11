@@ -1262,7 +1262,7 @@ msgstr "Prihvati sklapanje mira sa drugom državom"
 #: src/components/_political/law/LawStatus.tsx:43
 #: src/components/_political/partyMotion/PartyMotionStatus.tsx:52
 msgid "Accepted"
-msgstr "Prihvatio"
+msgstr "Prihvaćen"
 
 #: src/components/_military/battle/BattleHeader.tsx:119
 msgid "Access war"
