@@ -1596,11 +1596,11 @@ msgstr "Да ли сте сигурни да желите да поставит�
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Да ли сте сигурни да желите да унапредите члана у командира?"
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Да ли сте сигурни да желите да уклоните све налоге за куповину?"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Да ли сте сигурни да желите да уклоните све налоге за продају?"
 
@@ -1701,7 +1701,7 @@ msgstr "Аутентификација неуспела. Покушајте по
 msgid "Auto approval"
 msgstr "Аутоматско одобравање"
 
-#: src/components/_user/kits/KitsPopover.tsx:223
+#: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1864,6 +1864,10 @@ msgstr "Битке добијене"
 msgid "Become a Candidate"
 msgstr "Постани кандидат"
 
+#: src/components/_user/kits/KitsPopover.tsx:251
+msgid "Best"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
 msgstr "Боље ишта него ништа, зар не?"
@@ -2001,7 +2005,7 @@ msgstr "Купи на тржишту за <0>{count}</0> новца"
 msgid "Buy Items"
 msgstr "Купи предмете"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Налози за куповину"
@@ -3648,7 +3652,7 @@ msgstr "Набавите више скинова одједном са попу�
 msgid "Get supporter plan"
 msgstr "Активирај претплату подржаваоца"
 
-#: src/components/_user/kits/KitsPopover.tsx:211
+#: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -5158,7 +5162,7 @@ msgstr "Нема опремљених скинова"
 msgid "No sworn enemy"
 msgstr "Нема заклетог непријатеља"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Нема налога за трговину"
@@ -6097,8 +6101,8 @@ msgstr "Уклони <0/> као члана савета"
 msgid "Remove a member from the party council"
 msgstr "Уклони члана савета из странке"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Уклони све"
 
@@ -6373,7 +6377,7 @@ msgstr "Понестаје ти здравља?"
 msgid "Save"
 msgstr "Сачувај"
 
-#: src/components/_user/kits/KitsPopover.tsx:197
+#: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -6482,8 +6486,8 @@ msgstr "Продај то, треба ти још сандучића за коц
 msgid "Sell Items"
 msgstr "Продај предмете"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Налози за продају"
 
@@ -6941,7 +6945,7 @@ msgstr "План подржаваоца"
 msgid "Supporter Plan"
 msgstr "План подржаваоца"
 
-#: src/components/_user/kits/KitsPopover.tsx:200
+#: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7314,13 +7318,13 @@ msgstr "укупно"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Укупно"
 
@@ -7982,6 +7986,10 @@ msgstr "Радници"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Рад за друге је одличан начин да зарадите новац на почетку."
+
+#: src/components/_user/kits/KitsPopover.tsx:265
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"

@@ -1596,11 +1596,11 @@ msgstr ""
 msgid "Are you sure you want to promote this member to commander?"
 msgstr ""
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Вы действительно хотите убрать все заявки на покупку?"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Вы действительно хотите убрать все заявки на продажу?"
 
@@ -1701,7 +1701,7 @@ msgstr ""
 msgid "Auto approval"
 msgstr "Авто-одобрение"
 
-#: src/components/_user/kits/KitsPopover.tsx:223
+#: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1864,6 +1864,10 @@ msgstr "Битвы Выиграны"
 msgid "Become a Candidate"
 msgstr "Выдвинуть кандидатуру"
 
+#: src/components/_user/kits/KitsPopover.tsx:251
+msgid "Best"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
 msgstr "Лучше чем ничего, правда?"
@@ -2001,7 +2005,7 @@ msgstr "Купить на рынке на сумму <0>{count}</0>"
 msgid "Buy Items"
 msgstr "Купить предмет"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Заявки на покупку"
@@ -3648,7 +3652,7 @@ msgstr "Получите несколько скинов сразу со ски�
 msgid "Get supporter plan"
 msgstr "Узнать про премиум-подписку"
 
-#: src/components/_user/kits/KitsPopover.tsx:211
+#: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -5158,7 +5162,7 @@ msgstr "Нет экипированных скинов"
 msgid "No sworn enemy"
 msgstr "Нет заклятых врагов"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Нет торговых заявок"
@@ -6097,8 +6101,8 @@ msgstr "Исключить <0/> из совета партии"
 msgid "Remove a member from the party council"
 msgstr "Исключить из совета партии"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Удалить всё"
 
@@ -6373,7 +6377,7 @@ msgstr "Мало здоровья?"
 msgid "Save"
 msgstr "Сохранить"
 
-#: src/components/_user/kits/KitsPopover.tsx:197
+#: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -6482,8 +6486,8 @@ msgstr "Продай это, тебе нужно купить больше ке�
 msgid "Sell Items"
 msgstr "Продать предметы"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Заявки на продажу"
 
@@ -6941,7 +6945,7 @@ msgstr "Особенности подписки"
 msgid "Supporter Plan"
 msgstr "Особенности подписки"
 
-#: src/components/_user/kits/KitsPopover.tsx:200
+#: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7314,13 +7318,13 @@ msgstr "всего"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Всего"
 
@@ -7982,6 +7986,10 @@ msgstr "Работники"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Работа на других — отличный способ заработать деньги на старте."
+
+#: src/components/_user/kits/KitsPopover.tsx:265
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"

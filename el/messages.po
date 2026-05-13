@@ -1596,11 +1596,11 @@ msgstr ""
 msgid "Are you sure you want to promote this member to commander?"
 msgstr ""
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Είσαι σίγουρος ότι θέλεις να αφαιρέσεις όλες τις εντολές αγοράς;"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Είσαι σίγουρος ότι θέλεις να αφαιρέσεις όλες τις εντολές πώλησης;"
 
@@ -1701,7 +1701,7 @@ msgstr ""
 msgid "Auto approval"
 msgstr "Αυτόματη έγκριση"
 
-#: src/components/_user/kits/KitsPopover.tsx:223
+#: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
 msgstr ""
 
@@ -1864,6 +1864,10 @@ msgstr "Μάχες που Κερδήθηκαν"
 msgid "Become a Candidate"
 msgstr "Γίνε Υποψήφιος"
 
+#: src/components/_user/kits/KitsPopover.tsx:251
+msgid "Best"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
 msgstr "Καλύτερο από το τίποτα, σωστά;"
@@ -2001,7 +2005,7 @@ msgstr "Αγορά για <0>{count}</0> χρήματα στην αγορά"
 msgid "Buy Items"
 msgstr "Αγορά Αντικειμένων"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Εντολές αγοράς"
@@ -3648,7 +3652,7 @@ msgstr "Πάρε πολλές αμφιέσεις ταυτόχρονα με 30% �
 msgid "Get supporter plan"
 msgstr "Αποκτήστε πρόγραμμα υποστηρικτή"
 
-#: src/components/_user/kits/KitsPopover.tsx:211
+#: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
 msgstr ""
 
@@ -5158,7 +5162,7 @@ msgstr "Δεν υπάρχουν εξοπλισμένα skins"
 msgid "No sworn enemy"
 msgstr "Δεν υπάρχει ορκισμένος εχθρός"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Δεν υπάρχουν εντολές συναλλαγών"
@@ -6097,8 +6101,8 @@ msgstr "Αφαίρεση <0/> από το κομματικό συμβούλιο"
 msgid "Remove a member from the party council"
 msgstr "Αφαίρεση μέλους από το κομματικό συμβούλιο"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Αφαίρεση όλων"
 
@@ -6373,7 +6377,7 @@ msgstr "Χαμηλή υγεία;"
 msgid "Save"
 msgstr "Αποθήκευση"
 
-#: src/components/_user/kits/KitsPopover.tsx:197
+#: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
 msgstr ""
 
@@ -6482,8 +6486,8 @@ msgstr "Πούλησέ το, χρειάζεσαι περισσότερα κου�
 msgid "Sell Items"
 msgstr "Πώληση Αντικειμένων"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Εντολές πώλησης"
 
@@ -6941,7 +6945,7 @@ msgstr "Πρόγραμμα υποστηρικτή"
 msgid "Supporter Plan"
 msgstr "Πρόγραμμα Υποστηρικτή"
 
-#: src/components/_user/kits/KitsPopover.tsx:200
+#: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
 msgstr ""
 
@@ -7314,13 +7318,13 @@ msgstr "σύνολο"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Σύνολο"
 
@@ -7982,6 +7986,10 @@ msgstr "Εργαζόμενοι"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Η εργασία για άλλους είναι καλός τρόπος να κερδίζεις χρήματα στην αρχή."
+
+#: src/components/_user/kits/KitsPopover.tsx:265
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
