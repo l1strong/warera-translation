@@ -1,4 +1,4 @@
-msgid ""
+vmsgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
@@ -1703,7 +1703,7 @@ msgstr "Automatsko odobravanje"
 
 #: src/components/_user/kits/KitsPopover.tsx:228
 msgid "Auto-equip when item breaks"
-msgstr ""
+msgstr "Automatska zamjena kad se predmet potrga"
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -1864,7 +1864,7 @@ msgstr "Bitke osvojene"
 msgid "Become a Candidate"
 msgstr "Postani kandidat"
 
-#: src/components/_user/kits/KitsPopover.tsx:247
+#: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
 msgstr ""
 
@@ -3654,7 +3654,7 @@ msgstr "Kupi Supporter plan"
 
 #: src/components/_user/kits/KitsPopover.tsx:215
 msgid "Get Supporter Plan"
-msgstr ""
+msgstr "Kupi Supporter Plan"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
@@ -6379,7 +6379,7 @@ msgstr "Sačuvaј"
 
 #: src/components/_user/kits/KitsPopover.tsx:201
 msgid "Save your equipment kits"
-msgstr ""
+msgstr "Sačuvajte svoje komplete opreme"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
@@ -6947,7 +6947,7 @@ msgstr "Supporter plan"
 
 #: src/components/_user/kits/KitsPopover.tsx:204
 msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
-msgstr ""
+msgstr "Supporter Plan omogućuje spremanje do {maxKits} prilagođenih kompleta opreme i mijenjanje kompleta sa samo jednim klikom."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
@@ -7987,7 +7987,7 @@ msgstr "Radnici"
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Rad za druge јe odličan način da zaradite novac na početku karijere."
 
-#: src/components/_user/kits/KitsPopover.tsx:257
+#: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
 msgstr ""
 
