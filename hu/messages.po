@@ -98,7 +98,7 @@ msgstr "{0} óra"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
-#: src/components/_user/notification/notification.frontConfig.tsx:1640
+#: src/components/_user/notification/notification.frontConfig.tsx:1645
 msgid "{0} outbid you at ${1}/K"
 msgstr "{0} túllicitált ${1}/K-nál"
 
@@ -188,7 +188,7 @@ msgid "/day"
 msgstr "/nap"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:378
-#: src/components/_user/notification/notification.frontConfig.tsx:1069
+#: src/components/_user/notification/notification.frontConfig.tsx:1074
 msgid "<0/> applied to join <1/>"
 msgstr "<0/> jelentkezett a csatlakozásra: <1/>"
 
@@ -198,21 +198,21 @@ msgstr "<0/> jelentkezett a csatlakozásra: <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> <1>{0}</1> fizetéssel.{1}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1821
+#: src/components/_user/notification/notification.frontConfig.tsx:1826
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr "<0/> megvette a {assetLabel}-t ajándékként <1/> részére!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1828
+#: src/components/_user/notification/notification.frontConfig.tsx:1833
 msgid "<0/> bought your {assetLabel}!"
 msgstr "<0/> megvette a {assetLabel}-t!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1475
+#: src/components/_user/notification/notification.frontConfig.tsx:1480
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
 msgstr "<0/> megvette a bannered{0} ajándékként <1/> részére!"
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1483
+#: src/components/_user/notification/notification.frontConfig.tsx:1488
 msgid "<0/> bought your banner{0}!"
 msgstr "<0/> megvette a bannered{0}!"
 
@@ -226,7 +226,7 @@ msgstr "<0/> megvásárolja <1/>-t <2>{0}</2> összegért"
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> megvásárolja a régiódat, <1/>, <2>{0}</2> összegért"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1560
+#: src/components/_user/notification/notification.frontConfig.tsx:1565
 msgid "<0/> cancelled the contract."
 msgstr "<0/> felmondta a szerződést."
 
@@ -234,7 +234,7 @@ msgstr "<0/> felmondta a szerződést."
 msgid "<0/> commented on your article <1/>"
 msgstr "<0/> hozzászólt a cikkedhez: <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1535
+#: src/components/_user/notification/notification.frontConfig.tsx:1540
 msgid "<0/> completed a contract, you earned <1/>"
 msgstr "<0/> teljesített egy szerződést, kerestél <1/>-t"
 
@@ -255,7 +255,7 @@ msgid "<0/> defended in <1/>"
 msgstr "<0/> védekezett itt: <1/>"
 
 #. placeholder {0}: data.amount
-#: src/components/_user/notification/notification.frontConfig.tsx:1143
+#: src/components/_user/notification/notification.frontConfig.tsx:1148
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> <1>{0}</1>-t adományozott ennek: <2/>"
 
@@ -284,21 +284,21 @@ msgstr "<0/> lázadást finanszírozott itt: <1/> ennek: <2/> ez ellen: <3/>"
 msgid "<0/> gifted a sub to <1/>"
 msgstr "<0/> előfizetést ajándékozott neki: <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1006
+#: src/components/_user/notification/notification.frontConfig.tsx:1011
 msgid "<0/> gifted you a premium subscription!"
 msgstr "<0/> prémium előfizetést ajándékozott neked!"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1444
+#: src/components/_user/notification/notification.frontConfig.tsx:1449
 msgid "<0/> gifted you the banner \"{0}\"!"
 msgstr "<0/> ajándékba adta neked a(z) \"{0}\" bannert!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1711
+#: src/components/_user/notification/notification.frontConfig.tsx:1716
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
 msgstr "<0/> ajándékba adta neked a(z) \"{skinTitle}\" skint!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1774
+#: src/components/_user/notification/notification.frontConfig.tsx:1779
 msgid "<0/> gifted you the skin pack \"{0}\"!"
 msgstr "<0/> ajándékba adta neked a(z) \"{0}\" skincsomagot!"
 
@@ -306,7 +306,7 @@ msgstr "<0/> ajándékba adta neked a(z) \"{0}\" skincsomagot!"
 msgid "<0/> got fee back"
 msgstr "<0/> visszakapta a díjat"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1297
+#: src/components/_user/notification/notification.frontConfig.tsx:1302
 msgid "<0/> has been created, it gonna start soon!"
 msgstr "<0/> létrejött, hamarosan kezdődik!"
 
@@ -351,7 +351,7 @@ msgstr "<0/> felszabadította <1/>-t és visszaadta <2/> számára"
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> forradalmat indított itt: <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1310
+#: src/components/_user/notification/notification.frontConfig.tsx:1315
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> elkezdődött! Kezdődjenek a csaták!"
 
@@ -426,7 +426,7 @@ msgstr "<0/> kedvelte az üzenetedet <1/>"
 msgid "<0/> made peace with <1/>"
 msgstr "<0/> békét kötött <1/> országgal"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1185
+#: src/components/_user/notification/notification.frontConfig.tsx:1190
 msgid "<0/> mentioned you in a message <1/>"
 msgstr "<0/> megemlített egy üzenetben <1/>"
 
@@ -447,7 +447,7 @@ msgid "<0/> published a new article"
 msgstr "<0/> új cikket publikált"
 
 #. placeholder {0}: data.level
-#: src/components/_user/notification/notification.frontConfig.tsx:1170
+#: src/components/_user/notification/notification.frontConfig.tsx:1175
 msgid "<0/> reached level {0}!"
 msgstr "<0/> elérte a(z) {0}. szintet!"
 
@@ -502,7 +502,7 @@ msgstr "<0/> jelölték mint <1>{0}</1>"
 msgid "<0/> won round {0}"
 msgstr "<0/> megnyerte a(z) {0}. kört"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1518
+#: src/components/_user/notification/notification.frontConfig.tsx:1523
 msgid "<0/> won the auction on a contract with <1/>"
 msgstr "<0/> megnyerte az aukciót egy szerződésre <1/> céggel"
 
@@ -601,7 +601,7 @@ msgid "<0>{0}</0> Defense bonus"
 msgstr "<0>{0}</0> Védelem bónusz"
 
 #. placeholder {0}: data.acceptanceFeeReturned
-#: src/components/_user/notification/notification.frontConfig.tsx:1581
+#: src/components/_user/notification/notification.frontConfig.tsx:1586
 msgid "<0>{0}</0> fee returned to MU."
 msgstr "<0>{0}</0> díj visszatérítve a KE-nek."
 
@@ -678,7 +678,7 @@ msgid "<0>{0}</0> ground are required to win a round, points are gained every ti
 msgstr "<0>{0}</0> terület szükséges egy kör megnyeréséhez, a pontok minden tikben gyűlnek"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1573
+#: src/components/_user/notification/notification.frontConfig.tsx:1578
 msgid "<0>{0}</0> returned to <1/>."
 msgstr "<0>{0}</0> visszatérítve <1/> részére."
 
@@ -1268,7 +1268,7 @@ msgstr "Elfogadva"
 msgid "Access war"
 msgstr "Háború megtekintése"
 
-#: src/components/_political/country/CountryHeader.tsx:74
+#: src/components/_political/country/CountryHeader.tsx:75
 #: src/components/_user/user/UserHeader.tsx:165
 #: src/pages/country/[countryId]/account.tsx:43
 #: src/pages/country/[countryId]/index.tsx:341
@@ -1337,7 +1337,7 @@ msgstr "További költség"
 msgid "Admin"
 msgstr "Admin"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2075
+#: src/components/_user/notification/notification.frontConfig.tsx:2080
 msgid "Admin notification"
 msgstr "Admin értesítés"
 
@@ -1499,7 +1499,7 @@ msgid "Amount of companies you can own"
 msgstr "A tulajdonodban lévő cégek száma"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1553
+#: src/components/_user/notification/notification.frontConfig.tsx:1558
 msgid "An admin cancelled the contract. <0>{0}</0> returned to <1/>."
 msgstr "Egy admin megszakította a szerződést. <0>{0}</0> visszautalva <1/> részére."
 
@@ -1596,11 +1596,11 @@ msgstr "Biztosan le akarod adni ezt az ajánlatot?"
 msgid "Are you sure you want to promote this member to commander?"
 msgstr "Biztosan elő akarod léptetni ezt a tagot parancsnokká?"
 
-#: src/pages/market/index.tsx:170
+#: src/pages/market/index.tsx:174
 msgid "Are you sure you want to remove all buy orders?"
 msgstr "Biztosan törölni akarod az összes vételi megbízást?"
 
-#: src/pages/market/index.tsx:230
+#: src/pages/market/index.tsx:236
 msgid "Are you sure you want to remove all sell orders?"
 msgstr "Biztosan törölni akarod az összes eladási megbízást?"
 
@@ -1630,7 +1630,7 @@ msgstr "Páncél"
 msgid "Article ID"
 msgstr "Cikk azonosító"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1936
+#: src/components/_user/notification/notification.frontConfig.tsx:1941
 msgid "Article liked"
 msgstr "Cikk lájkolva"
 
@@ -1638,8 +1638,8 @@ msgstr "Cikk lájkolva"
 msgid "Article Tip"
 msgstr "Cikk borravaló"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1938
-#: src/components/_user/notification/notification.frontConfig.tsx:1939
+#: src/components/_user/notification/notification.frontConfig.tsx:1943
+#: src/components/_user/notification/notification.frontConfig.tsx:1944
 msgid "Article tipped"
 msgstr "Cikk borravalót kapott"
 
@@ -1660,7 +1660,7 @@ msgstr "Legalább megpróbáltad"
 msgid "At the end of the timer <0>{actualTickPoints}</0> will be assigned to the side with the most damages."
 msgstr "Az időzítő végén <0>{actualTickPoints}</0> kerül kiosztásra a legtöbb sebzéssel rendelkező oldalnak."
 
-#: src/components/_military/hit/HitButton.tsx:454
+#: src/components/_military/hit/HitButton.tsx:466
 #: src/components/_user/user/skills.frontConfig.tsx:44
 #: src/components/_user/user/skills.frontConfig.tsx:45
 msgid "Attack"
@@ -1679,7 +1679,7 @@ msgstr "Támadók"
 msgid "Auction Duration (minutes)"
 msgstr "Aukció időtartama (percek)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2059
+#: src/components/_user/notification/notification.frontConfig.tsx:2064
 msgid "Auction Outbid"
 msgstr "Túllicitálva"
 
@@ -1700,6 +1700,10 @@ msgstr "Hitelesítés sikertelen. Kérlek, próbáld újra."
 #: src/pages/country/[countryId]/citizenship.tsx:47
 msgid "Auto approval"
 msgstr "Automatikus jóváhagyás"
+
+#: src/components/_user/kits/KitsPopover.tsx:228
+msgid "Auto-equip when item breaks"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
@@ -1734,7 +1738,7 @@ msgstr "Baby Boomer"
 msgid "Badge won"
 msgstr "Jelvény megszerzve"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1887
+#: src/components/_user/notification/notification.frontConfig.tsx:1892
 msgid "Badge Won"
 msgstr "Jelvény Megszerzve"
 
@@ -1759,15 +1763,15 @@ msgstr "Csőd"
 msgid "Banned"
 msgstr "Tiltva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1903
+#: src/components/_user/notification/notification.frontConfig.tsx:1908
 msgid "Banner Accepted!"
 msgstr "Banner elfogadva!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1900
+#: src/components/_user/notification/notification.frontConfig.tsx:1905
 msgid "Banner gift received"
 msgstr "Banner ajándék érkezett"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1898
+#: src/components/_user/notification/notification.frontConfig.tsx:1903
 msgid "Banner gift sent"
 msgstr "Banner ajándék elküldve"
 
@@ -1807,7 +1811,7 @@ msgid "Battle"
 msgstr "Csata"
 
 #: src/components/_political/event/EventList.tsx:65
-#: src/components/_user/notification/notification.frontConfig.tsx:1984
+#: src/components/_user/notification/notification.frontConfig.tsx:1989
 msgid "Battle ended"
 msgstr "Csata véget ért"
 
@@ -1859,6 +1863,10 @@ msgstr "Nyert csaták"
 #: src/components/_political/election/CandidateFormModal.tsx:55
 msgid "Become a Candidate"
 msgstr "Jelöltté válás"
+
+#: src/components/_user/kits/KitsPopover.tsx:247
+msgid "Best"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -1944,15 +1952,15 @@ msgstr "Csomagok böngészése"
 msgid "Budget"
 msgstr "Költségkeret"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2064
+#: src/components/_user/notification/notification.frontConfig.tsx:2069
 msgid "Buff ended"
 msgstr "Buff véget ért"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2062
+#: src/components/_user/notification/notification.frontConfig.tsx:2067
 msgid "Buff expiring soon"
 msgstr "Buff hamarosan lejár"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2060
+#: src/components/_user/notification/notification.frontConfig.tsx:2065
 msgid "Buff started"
 msgstr "Buff elkezdődött"
 
@@ -1997,7 +2005,7 @@ msgstr "Vásárolj <0>{count}</0> pénzért a piacon"
 msgid "Buy Items"
 msgstr "Tárgyak vásárlása"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:50
+#: src/components/_economy/itemTrading/TradingOrders.tsx:51
 #: src/pages/market/index.tsx:135
 msgid "Buy orders"
 msgstr "Vételi ajánlatok"
@@ -2198,7 +2206,7 @@ msgstr "Válaszd ki az oldaladat és kattints, hogy <0>Sebzést</0> okozz! Táma
 msgid "Citizen since <0><1/></0>"
 msgstr "Állampolgár <0><1/></0> óta"
 
-#: src/components/_political/country/CountryHeader.tsx:124
+#: src/components/_political/country/CountryHeader.tsx:125
 msgid "Citizens"
 msgstr "Állampolgárok"
 
@@ -2234,7 +2242,7 @@ msgstr "Az állampolgárok további <0>{0}</0> csatabónuszt kapnak, amikor szö
 msgid "Citizens get an additional <0>{0}</0> defensive battle bonus."
 msgstr "Az állampolgárok további <0>{0}</0> védelmi csatabónuszt kapnak."
 
-#: src/components/_political/country/CountryHeader.tsx:111
+#: src/components/_political/country/CountryHeader.tsx:112
 msgid "Citizenship"
 msgstr "Állampolgárság"
 
@@ -2317,8 +2325,8 @@ msgstr "Színséma"
 msgid "Commander"
 msgstr "Parancsnok"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1906
-#: src/components/_user/notification/notification.frontConfig.tsx:1919
+#: src/components/_user/notification/notification.frontConfig.tsx:1911
+#: src/components/_user/notification/notification.frontConfig.tsx:1924
 msgid "Commission earned"
 msgstr "Jutalék megszerzve"
 
@@ -2416,20 +2424,20 @@ msgid "Congratulations! You have been elected to the council of <0/>"
 msgstr "Gratulálunk! Megválasztottak <0/> tanácsába"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
-#: src/components/_user/notification/notification.frontConfig.tsx:1210
+#: src/components/_user/notification/notification.frontConfig.tsx:1215
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
 msgstr "Gratulálunk! Előléptettek <0/> rangra <1>{0}</1> támadási bónusszal"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1399
+#: src/components/_user/notification/notification.frontConfig.tsx:1404
 msgid "Congratulations! You won the giveaway and received cases!"
 msgstr "Gratulálunk! Megnyerted a sorsolást és ládákat kaptál!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:351
-#: src/components/_user/notification/notification.frontConfig.tsx:1055
+#: src/components/_user/notification/notification.frontConfig.tsx:1060
 msgid "Congratulations! Your application to <0/> has been accepted"
 msgstr "Gratulálunk! A <0/> szervezethez való jelentkezésedet elfogadták"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1278
+#: src/components/_user/notification/notification.frontConfig.tsx:1283
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
 msgstr "Gratulálunk! A <0/> csapatod megnyerte a <1/> bajnokságot!"
 
@@ -2508,19 +2516,19 @@ msgstr "Fogyasztása növeli a <0>Támadásod</0> {0} órán át.<1/> Utána ugy
 msgid "Contextual borders"
 msgstr "Kontextuális határok"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2051
+#: src/components/_user/notification/notification.frontConfig.tsx:2056
 msgid "Contract cancelled"
 msgstr "Szerződés törölve"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2048
+#: src/components/_user/notification/notification.frontConfig.tsx:2053
 msgid "Contract completed"
 msgstr "Szerződés teljesítve"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2054
+#: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "Contract expired"
 msgstr "Szerződés lejárt"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2057
+#: src/components/_user/notification/notification.frontConfig.tsx:2062
 msgid "Contract rolled back"
 msgstr "Szerződés visszavonva"
 
@@ -2528,7 +2536,7 @@ msgstr "Szerződés visszavonva"
 #: src/components/_military/battle/BattlesHeader.tsx:43
 #: src/components/_military/battle/BattleSideContractsModal.tsx:47
 #: src/components/_military/battle/LootSummaryCard.tsx:95
-#: src/components/_political/country/CountryHeader.tsx:132
+#: src/components/_political/country/CountryHeader.tsx:133
 msgid "Contracts"
 msgstr "Szerződések"
 
@@ -2593,7 +2601,7 @@ msgstr "Országok"
 #: src/components/_layout/MoreButtonNav.tsx:131
 #: src/components/_military/battle/BattleCountrySide.tsx:72
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:133
-#: src/components/_political/country/CountryHeader.tsx:54
+#: src/components/_political/country/CountryHeader.tsx:55
 msgid "Country"
 msgstr "Ország"
 
@@ -2606,7 +2614,7 @@ msgid "Country Orders"
 msgstr "Ország parancsok"
 
 #. placeholder {0}: data.partialPayout
-#: src/components/_user/notification/notification.frontConfig.tsx:1567
+#: src/components/_user/notification/notification.frontConfig.tsx:1572
 msgid "Country paid <0>{0}</0> for damages done."
 msgstr "Az ország <0>{0}</0>-t fizetett az okozott károkért."
 
@@ -2730,7 +2738,7 @@ msgstr "Napi"
 msgid "Daily maintenance"
 msgstr "Napi karbantartás"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2079
+#: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "Daily Missions Reset"
 msgstr "Napi küldetések visszaállítva"
 
@@ -2836,7 +2844,7 @@ msgstr "Több sebzést okoz"
 msgid "Deals some damages"
 msgstr "Némi sebzést okoz"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2065
+#: src/components/_user/notification/notification.frontConfig.tsx:2070
 msgid "Debuff ended"
 msgstr "Debuff lejárt"
 
@@ -2871,7 +2879,7 @@ msgstr "Csökkentés"
 msgid "Decrease unrest"
 msgstr "Nyugtalanság csökkentése"
 
-#: src/components/_military/hit/HitButton.tsx:457
+#: src/components/_military/hit/HitButton.tsx:469
 msgid "Defend"
 msgstr "Védelem"
 
@@ -2922,7 +2930,7 @@ msgstr "Parancsnok lefokozása"
 msgid "Demote from Commander"
 msgstr "Lefokozás parancsnokból"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2036
+#: src/components/_user/notification/notification.frontConfig.tsx:2041
 msgid "Demoted from Commander"
 msgstr "Parancsnokból lefokozva"
 
@@ -3082,7 +3090,7 @@ msgstr "Adomány"
 msgid "Donation Summary"
 msgstr "Adományok összesítése"
 
-#: src/components/_political/country/CountryHeader.tsx:86
+#: src/components/_political/country/CountryHeader.tsx:87
 #: src/pages/country/[countryId]/donations.tsx:17
 #: src/pages/mu/[muId]/donations.tsx:17
 #: src/pages/party/[partyId]/donations.tsx:17
@@ -3154,19 +3162,19 @@ msgstr "Munkás szerkesztése"
 msgid "Effective:"
 msgstr "Hatékony:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1943
+#: src/components/_user/notification/notification.frontConfig.tsx:1948
 msgid "Election candidacy open"
 msgstr "Jelölés megnyílt"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1948
+#: src/components/_user/notification/notification.frontConfig.tsx:1953
 msgid "Election ended"
 msgstr "Választás lezárult"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1946
+#: src/components/_user/notification/notification.frontConfig.tsx:1951
 msgid "Election vote open"
 msgstr "Szavazás megnyílt"
 
-#: src/components/_political/country/CountryHeader.tsx:105
+#: src/components/_political/country/CountryHeader.tsx:106
 #: src/pages/country/[countryId]/elections.tsx:28
 #: src/pages/country/[countryId]/index.tsx:369
 #: src/pages/party/[partyId]/index.tsx:100
@@ -3554,7 +3562,7 @@ msgstr "Kormánytag elbocsátása"
 msgid "Fire worker?"
 msgstr "Elbocsátod a dolgozót?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1955
+#: src/components/_user/notification/notification.frontConfig.tsx:1960
 msgid "Fired from government"
 msgstr "Elbocsátva a kormányból"
 
@@ -3644,6 +3652,10 @@ msgstr "Szerezz több skint egyszerre 30% kedvezménnyel!"
 msgid "Get supporter plan"
 msgstr "Támogatói csomag beszerzése"
 
+#: src/components/_user/kits/KitsPopover.tsx:215
+msgid "Get Supporter Plan"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:94
 msgid "Gift from Vatou, don't tell anyone"
 msgstr "Ajándék Vatou-tól, ne mondd el senkinek"
@@ -3680,7 +3692,7 @@ msgstr "Adj a tokenednek egy leíró nevet, hogy később azonosítani tudd."
 msgid "Giveaway Winner"
 msgstr "Nyereményjáték nyertese"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2077
+#: src/components/_user/notification/notification.frontConfig.tsx:2082
 msgid "Giveaway Won!"
 msgstr "Nyereményjátékot nyertél!"
 
@@ -3714,7 +3726,7 @@ msgstr "Menj a képességekhez"
 msgid "Gold"
 msgstr "Arany"
 
-#: src/components/_political/country/CountryHeader.tsx:92
+#: src/components/_political/country/CountryHeader.tsx:93
 msgid "Government"
 msgstr "Kormány"
 
@@ -3894,7 +3906,7 @@ msgid "Hitting for your own country while in government gives {0}% bounty effici
 msgstr "A saját országod melletti harcolás kormánytagként {0}% jutalom hatékonyságot ad."
 
 #: src/components/_other/shop/ShopHeader.tsx:16
-#: src/components/_political/country/CountryHeader.tsx:61
+#: src/components/_political/country/CountryHeader.tsx:62
 #: src/components/_user/user/UserHeader.tsx:151
 msgid "Home"
 msgstr "Kezdőlap"
@@ -4076,7 +4088,7 @@ msgstr "Csak jobb lehet… talán"
 msgid "It will not gain any production and its workers will not be able to work."
 msgstr "Nem termel semmit, és a dolgozók nem tudnak dolgozni."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1928
+#: src/components/_user/notification/notification.frontConfig.tsx:1933
 msgid "Item bought"
 msgstr "Tárgy megvásárolva"
 
@@ -4234,11 +4246,11 @@ msgid "Law failed"
 msgstr "Törvény elutasítva"
 
 #: src/components/_political/law/LawFormModal.tsx:76
-#: src/components/_user/notification/notification.frontConfig.tsx:1941
+#: src/components/_user/notification/notification.frontConfig.tsx:1946
 msgid "Law proposed"
 msgstr "Törvényjavaslatot benyújtottak"
 
-#: src/components/_political/country/CountryHeader.tsx:67
+#: src/components/_political/country/CountryHeader.tsx:68
 #: src/pages/country/[countryId]/index.tsx:177
 #: src/pages/country/[countryId]/laws.tsx:24
 msgid "Laws"
@@ -4299,7 +4311,7 @@ msgstr "{level}. szint"
 msgid "Level up your skills!"
 msgstr "Fejleszd a képességeidet!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1888
+#: src/components/_user/notification/notification.frontConfig.tsx:1893
 msgid "Level up!"
 msgstr "Szintlépés!"
 
@@ -4413,7 +4425,7 @@ msgstr "Zsákmányolj ládákat"
 msgid "Loot chance"
 msgstr "Zsákmányolás esélye"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2004
+#: src/components/_user/notification/notification.frontConfig.tsx:2009
 msgid "Loot reward"
 msgstr "Zsákmány jutalom"
 
@@ -4579,7 +4591,7 @@ msgstr "Tag előléptetve parancsnokká"
 msgid "Members"
 msgstr "Tagok"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2072
+#: src/components/_user/notification/notification.frontConfig.tsx:2077
 msgid "Mentioned in message"
 msgstr "Üzenetben említve"
 
@@ -4610,7 +4622,7 @@ msgstr "Zsoldos hírnév"
 msgid "Message (Optional)"
 msgstr "Üzenet (opcionális)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2070
+#: src/components/_user/notification/notification.frontConfig.tsx:2075
 msgid "Message liked"
 msgstr "Kedvelt üzenet"
 
@@ -4639,7 +4651,7 @@ msgstr "Katonai törvények"
 msgid "Military Rank"
 msgstr "Katonai rang"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1983
+#: src/components/_user/notification/notification.frontConfig.tsx:1988
 msgid "Military Rank Up!"
 msgstr "Katonai előléptetés!"
 
@@ -4777,7 +4789,7 @@ msgstr "A vállalat áthelyezése"
 msgid "Move to top"
 msgstr "Felülre helyezés"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1924
+#: src/components/_user/notification/notification.frontConfig.tsx:1929
 msgid "Moved to a new company"
 msgstr "Új vállalathoz költözött"
 
@@ -4786,19 +4798,19 @@ msgstr "Új vállalathoz költözött"
 msgid "MU"
 msgstr "KE"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2023
+#: src/components/_user/notification/notification.frontConfig.tsx:2028
 msgid "MU Application Accepted"
 msgstr "KE jelentkezés elfogadva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2020
+#: src/components/_user/notification/notification.frontConfig.tsx:2025
 msgid "MU Application Rejected"
 msgstr "KE jelentkezés elutasítva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2042
+#: src/components/_user/notification/notification.frontConfig.tsx:2047
 msgid "MU Donation Received"
 msgstr "KE adomány megérkezett"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2028
+#: src/components/_user/notification/notification.frontConfig.tsx:2033
 msgid "MU Level Up!"
 msgstr "KE szintlépés!"
 
@@ -4810,7 +4822,7 @@ msgstr "KE havi szintek"
 msgid "MU Orders"
 msgstr "KE parancsok"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2039
+#: src/components/_user/notification/notification.frontConfig.tsx:2044
 msgid "MU Ownership Transferred"
 msgstr "KE tulajdonjog átruházva"
 
@@ -4902,15 +4914,15 @@ msgstr "Új"
 msgid "New API Token Created"
 msgstr "Új API Token létrehozva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1935
+#: src/components/_user/notification/notification.frontConfig.tsx:1940
 msgid "New article"
 msgstr "Új cikk"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1937
+#: src/components/_user/notification/notification.frontConfig.tsx:1942
 msgid "New comment"
 msgstr "Új hozzászólás"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2045
+#: src/components/_user/notification/notification.frontConfig.tsx:2050
 msgid "New contract accepted"
 msgstr "Új szerződés elfogadva"
 
@@ -4936,7 +4948,7 @@ msgstr "Új helyszín"
 msgid "New Mercenary Auction"
 msgstr "Új zsoldos aukció"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2066
+#: src/components/_user/notification/notification.frontConfig.tsx:2071
 msgid "New message"
 msgstr "Új üzenet"
 
@@ -4944,7 +4956,7 @@ msgstr "Új üzenet"
 msgid "New military unit"
 msgstr "Új katonai egység"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2026
+#: src/components/_user/notification/notification.frontConfig.tsx:2031
 msgid "New MU Application"
 msgstr "Új KE jelentkezés"
 
@@ -4952,28 +4964,28 @@ msgstr "Új KE jelentkezés"
 msgid "New name"
 msgstr "Új név"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1978
+#: src/components/_user/notification/notification.frontConfig.tsx:1983
 msgid "New Party Application"
 msgstr "Új pártjelentkezés"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1967
+#: src/components/_user/notification/notification.frontConfig.tsx:1972
 msgid "New Party Leader"
 msgstr "Új pártvezető"
 
 #: src/components/_political/event/EventList.tsx:66
-#: src/components/_user/notification/notification.frontConfig.tsx:1950
+#: src/components/_user/notification/notification.frontConfig.tsx:1955
 msgid "New president"
 msgstr "Új elnök"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1981
+#: src/components/_user/notification/notification.frontConfig.tsx:1986
 msgid "New referred user"
 msgstr "Új ajánlott felhasználó"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1982
+#: src/components/_user/notification/notification.frontConfig.tsx:1987
 msgid "New referrer"
 msgstr "Új ajánló"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1940
+#: src/components/_user/notification/notification.frontConfig.tsx:1945
 msgid "New subscriber"
 msgstr "Új feliratkozó"
 
@@ -4981,7 +4993,7 @@ msgstr "Új feliratkozó"
 msgid "New supporters"
 msgstr "Új támogatók"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1921
+#: src/components/_user/notification/notification.frontConfig.tsx:1926
 msgid "New worker"
 msgstr "Új munkás"
 
@@ -5150,7 +5162,7 @@ msgstr "Nincs felszerelt kinézet"
 msgid "No sworn enemy"
 msgstr "Nincs esküdt ellenség"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:43
+#: src/components/_economy/itemTrading/TradingOrders.tsx:44
 #: src/pages/market/index.tsx:127
 msgid "No trading orders"
 msgstr "Nincs kereskedelmi megbízás"
@@ -5176,7 +5188,7 @@ msgstr "Jelölés"
 msgid "Nominate a {title}"
 msgstr "{title} jelölése"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1952
+#: src/components/_user/notification/notification.frontConfig.tsx:1957
 msgid "Nominated at government"
 msgstr "Kormányba jelölve"
 
@@ -5378,7 +5390,7 @@ msgstr "Tulajdonban lévő katonai egységek"
 msgid "Owner"
 msgstr "Tulajdonos"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1125
+#: src/components/_user/notification/notification.frontConfig.tsx:1130
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "<0/> tulajdonjoga átkerült <1/> személytől <2/> személyhez"
 
@@ -5423,11 +5435,11 @@ msgstr "Pártok"
 msgid "Party"
 msgstr "Párt"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1972
+#: src/components/_user/notification/notification.frontConfig.tsx:1977
 msgid "Party Application Accepted"
 msgstr "Párttagsági kérelem elfogadva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1975
+#: src/components/_user/notification/notification.frontConfig.tsx:1980
 msgid "Party Application Rejected"
 msgstr "Párttagsági kérelem elutasítva"
 
@@ -5451,15 +5463,15 @@ msgstr "A párttanács választáson a szavazás most nyitva van itt: <0/>"
 msgid "Party created"
 msgstr "Párt létrehozva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1958
+#: src/components/_user/notification/notification.frontConfig.tsx:1963
 msgid "Party election candidacy open"
 msgstr "Pártválasztási jelöltség nyitva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1964
+#: src/components/_user/notification/notification.frontConfig.tsx:1969
 msgid "Party election ended"
 msgstr "Pártválasztás lezárult"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1961
+#: src/components/_user/notification/notification.frontConfig.tsx:1966
 msgid "Party election vote open"
 msgstr "Pártválasztási szavazás nyitva"
 
@@ -5611,23 +5623,23 @@ msgstr "Prémium"
 msgid "Premium & Gifts"
 msgstr "Prémium és ajándékok"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1889
+#: src/components/_user/notification/notification.frontConfig.tsx:1894
 msgid "Premium activated"
 msgstr "Prémium aktiválva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1890
+#: src/components/_user/notification/notification.frontConfig.tsx:1895
 msgid "Premium expired"
 msgstr "Prémium lejárt"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1896
+#: src/components/_user/notification/notification.frontConfig.tsx:1901
 msgid "Premium gift expired"
 msgstr "Prémium ajándék lejárt"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1893
+#: src/components/_user/notification/notification.frontConfig.tsx:1898
 msgid "Premium gift received"
 msgstr "Prémium ajándék megérkezett"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1891
+#: src/components/_user/notification/notification.frontConfig.tsx:1896
 msgid "Premium gift sent"
 msgstr "Prémium ajándék elküldve"
 
@@ -5663,7 +5675,7 @@ msgstr "Elnökválasztások"
 msgid "Primary election"
 msgstr "Előválasztás"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1969
+#: src/components/_user/notification/notification.frontConfig.tsx:1974
 msgid "Primary Election Ended"
 msgstr "Előválasztás befejeződött"
 
@@ -5731,7 +5743,7 @@ msgstr "Termelési bónusz:"
 msgid "Production in<0/> is full, you should start production!"
 msgstr "A termelés <0/> régióban megtelt, indítsd el a termelést!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1930
+#: src/components/_user/notification/notification.frontConfig.tsx:1935
 msgid "Production is full"
 msgstr "A termelés megtelt"
 
@@ -5752,7 +5764,7 @@ msgstr "Profil"
 msgid "Promote to Commander"
 msgstr "Parancsnokká előléptetés"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2033
+#: src/components/_user/notification/notification.frontConfig.tsx:2038
 msgid "Promoted to Commander"
 msgstr "Parancsnokká előléptetve"
 
@@ -5852,7 +5864,7 @@ msgstr "Tárgyak gyors szétszerelése"
 msgid "Ranking"
 msgstr "Rangsor"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1980
+#: src/components/_user/notification/notification.frontConfig.tsx:1985
 msgid "Ranking reward"
 msgstr "Rangsori jutalom"
 
@@ -6014,7 +6026,7 @@ msgstr "Régió"
 msgid "Region buy offer"
 msgstr "Régió vételi ajánlat"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1996
+#: src/components/_user/notification/notification.frontConfig.tsx:2001
 msgid "Region is revolting!"
 msgstr "A régió fellázad!"
 
@@ -6030,7 +6042,7 @@ msgstr "Régió átvitel"
 msgid "regions"
 msgstr "régiók"
 
-#: src/components/_political/country/CountryHeader.tsx:118
+#: src/components/_political/country/CountryHeader.tsx:119
 msgid "Regions"
 msgstr "Régiók"
 
@@ -6089,8 +6101,8 @@ msgstr "<0/> eltávolítása a párt tanácsból"
 msgid "Remove a member from the party council"
 msgstr "Egy tag eltávolítása a párt tanácsból"
 
-#: src/pages/market/index.tsx:174
-#: src/pages/market/index.tsx:234
+#: src/pages/market/index.tsx:178
+#: src/pages/market/index.tsx:240
 msgid "Remove all"
 msgstr "Összes eltávolítása"
 
@@ -6124,7 +6136,7 @@ msgstr "Ellenség eltávolítása"
 msgid "Remove the current party leader from their position"
 msgstr "A jelenlegi pártvezető eltávolítása posztjáról"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2030
+#: src/components/_user/notification/notification.frontConfig.tsx:2035
 msgid "Removed from Military Unit"
 msgstr "Eltávolítva a katonai egységből"
 
@@ -6210,7 +6222,7 @@ msgstr "Felhasználónév visszaállítása"
 msgid "Reshuffle in"
 msgstr "Újraosztás"
 
-#: src/components/_military/hit/HitButton.tsx:452
+#: src/components/_military/hit/HitButton.tsx:464
 msgid "Resist"
 msgstr "Ellenállj"
 
@@ -6231,7 +6243,7 @@ msgstr "Erőforrások"
 msgid "Resources reshuffled"
 msgstr "Erőforrások újraosztva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2068
+#: src/components/_user/notification/notification.frontConfig.tsx:2073
 msgid "Response to message"
 msgstr "Válasz az üzenetre"
 
@@ -6247,7 +6259,7 @@ msgstr "Régió visszaadása az eredeti országának"
 msgid "Revoke API token?"
 msgstr "API token visszavonása?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1999
+#: src/components/_user/notification/notification.frontConfig.tsx:2004
 msgid "Revolt started!"
 msgstr "Lázadás elkezdődött!"
 
@@ -6259,7 +6271,7 @@ msgstr "Forradalom véget ért"
 msgid "Revolution started"
 msgstr "Forradalom elkezdődött"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2002
+#: src/components/_user/notification/notification.frontConfig.tsx:2007
 msgid "Revolution started!"
 msgstr "Forradalom elkezdődött!"
 
@@ -6312,11 +6324,11 @@ msgstr "#{0}. kör"
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
 msgstr "A(z) <0>#{0}</0> kör hamarosan véget ér itt: <1/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1987
+#: src/components/_user/notification/notification.frontConfig.tsx:1992
 msgid "Round about to end"
 msgstr "A kör hamarosan véget ér"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1985
+#: src/components/_user/notification/notification.frontConfig.tsx:1990
 msgid "Round ended"
 msgstr "A kör véget ért"
 
@@ -6364,6 +6376,10 @@ msgstr "Kevés az életerőd?"
 #: src/pages/user/[userId]/skills.tsx:210
 msgid "Save"
 msgstr "Mentés"
+
+#: src/components/_user/kits/KitsPopover.tsx:201
+msgid "Save your equipment kits"
+msgstr ""
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:124
 msgid "Save your progress!"
@@ -6470,8 +6486,8 @@ msgstr "Add el, több ládát kell venned a játékhoz!"
 msgid "Sell Items"
 msgstr "Tárgyak eladása"
 
-#: src/components/_economy/itemTrading/TradingOrders.tsx:77
-#: src/pages/market/index.tsx:183
+#: src/components/_economy/itemTrading/TradingOrders.tsx:84
+#: src/pages/market/index.tsx:187
 msgid "Sell orders"
 msgstr "Eladási megbízások"
 
@@ -6668,15 +6684,15 @@ msgstr "A képességek erősebbé tesznek. Fejleszd az képességeidet!"
 msgid "Skills saved!"
 msgstr "Képességek elmentve!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1910
+#: src/components/_user/notification/notification.frontConfig.tsx:1915
 msgid "Skin gift received"
 msgstr "Skin ajándék megérkezett"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1908
+#: src/components/_user/notification/notification.frontConfig.tsx:1913
 msgid "Skin gift sent"
 msgstr "Skin ajándék elküldve"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1913
+#: src/components/_user/notification/notification.frontConfig.tsx:1918
 msgid "Skin pack gift sent"
 msgstr "Skin csomag ajándék elküldve"
 
@@ -6688,7 +6704,7 @@ msgstr "Skin csomag feloldva! Minden skin felszerelve!"
 msgid "Skin Packs"
 msgstr "Skin csomagok"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2084
+#: src/components/_user/notification/notification.frontConfig.tsx:2089
 msgid "Skin Reward"
 msgstr "Skin jutalom"
 
@@ -6929,6 +6945,10 @@ msgstr "Támogató terv"
 msgid "Supporter Plan"
 msgstr "Támogató Terv"
 
+#: src/components/_user/kits/KitsPopover.tsx:204
+msgid "Supporter Plan lets you save up to {maxKits} custom equipment loadouts and switch between them with one click."
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
 msgstr "Legfelsőbb Parancsnok"
@@ -7022,12 +7042,12 @@ msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the gover
 msgstr "A(z) <0/> által <1/> területén kezdeményezett polgárháború sikerrel járt <2/> számára, és a kormány megbukott."
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1605
+#: src/components/_user/notification/notification.frontConfig.tsx:1610
 msgid "The contract for <0/> has expired. <1>{0}</1> returned to <2/>."
 msgstr "A szerződés <0/> számára lejárt. <1>{0}</1> visszaküldve ide: <2/>."
 
 #. placeholder {0}: data.moneyRolledBack
-#: src/components/_user/notification/notification.frontConfig.tsx:1623
+#: src/components/_user/notification/notification.frontConfig.tsx:1628
 msgid "The contract has been rolled back. <0>{0}</0> sent back to <1/>."
 msgstr "A szerződés vissza lett vonva. <0>{0}</0> visszaküldve ide: <1/>."
 
@@ -7065,7 +7085,7 @@ msgstr "A forradalom <0/> területén sikerrel járt! A kormány megbukott."
 msgid "The strategic resource will be reshuffled in the following amount of time."
 msgstr "A stratégiai erőforrás újrakeverésre kerül a következő idő múlva."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1323
+#: src/components/_user/notification/notification.frontConfig.tsx:1328
 msgid "The tournament has ended for your team <0/>. Check the results!"
 msgstr "A torna véget ért a csapatodnak <0/>. Nézd meg az eredményeket!"
 
@@ -7298,13 +7318,13 @@ msgstr "összesen"
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:116
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:153
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:180
-#: src/components/_economy/itemTrading/TradingOrders.tsx:66
-#: src/components/_economy/itemTrading/TradingOrders.tsx:93
+#: src/components/_economy/itemTrading/TradingOrders.tsx:55
+#: src/components/_economy/itemTrading/TradingOrders.tsx:88
 #: src/components/_economy/work/WorkChart.tsx:199
 #: src/components/_military/mu/MuMemberList.tsx:190
 #: src/components/_user/user/WealthPanel.tsx:28
-#: src/pages/market/index.tsx:153
-#: src/pages/market/index.tsx:202
+#: src/pages/market/index.tsx:139
+#: src/pages/market/index.tsx:191
 msgid "Total"
 msgstr "Összesen"
 
@@ -7336,15 +7356,15 @@ msgstr "Összesen:"
 msgid "Tournament"
 msgstr "Torna"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2010
+#: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
 msgstr "Torna létrehozva"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2017
+#: src/components/_user/notification/notification.frontConfig.tsx:2022
 msgid "Tournament Eliminated"
 msgstr "Kiesés a tornáról"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2015
+#: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "Tournament Ended"
 msgstr "Torna befejeződött"
 
@@ -7352,15 +7372,15 @@ msgstr "Torna befejeződött"
 msgid "Tournament reward:"
 msgstr "Torna jutalom:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2006
+#: src/components/_user/notification/notification.frontConfig.tsx:2011
 msgid "Tournament round won!"
 msgstr "Torna kör megnyerve!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2013
+#: src/components/_user/notification/notification.frontConfig.tsx:2018
 msgid "Tournament Started"
 msgstr "Torna elkezdődött"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2008
+#: src/components/_user/notification/notification.frontConfig.tsx:2013
 msgid "Tournament Won!"
 msgstr "Torna megnyerve!"
 
@@ -7373,7 +7393,7 @@ msgstr "Kereskedés"
 msgid "Trading"
 msgstr "Kereskedelem"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1933
+#: src/components/_user/notification/notification.frontConfig.tsx:1938
 msgid "Trading transaction"
 msgstr "Kereskedelmi tranzakció"
 
@@ -7385,7 +7405,7 @@ msgstr "Újonc"
 msgid "Transac."
 msgstr "Tranzak."
 
-#: src/components/_political/country/CountryHeader.tsx:80
+#: src/components/_political/country/CountryHeader.tsx:81
 #: src/pages/market/index.tsx:83
 #: src/pages/user/[userId]/index.tsx:230
 msgid "Transactions"
@@ -7462,7 +7482,7 @@ msgstr "Mindenkinek segít gomb feloldása"
 msgid "Unlock Produce all button"
 msgstr "Mindent előállít gomb feloldása"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1916
+#: src/components/_user/notification/notification.frontConfig.tsx:1921
 msgid "Unlocked pack"
 msgstr "Csomag feloldva"
 
@@ -7782,7 +7802,7 @@ msgstr "VS"
 msgid "Wage"
 msgstr "Bér"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1926
+#: src/components/_user/notification/notification.frontConfig.tsx:1931
 msgid "Wage changed"
 msgstr "Bér megváltozott"
 
@@ -7798,7 +7818,7 @@ msgstr "Bér termelésenként"
 msgid "Wage reduction accepted."
 msgstr "Bércsökkentés elfogadva."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1927
+#: src/components/_user/notification/notification.frontConfig.tsx:1932
 #: src/components/_user/worker/WageReductionAlert.tsx:66
 msgid "Wage reduction proposed"
 msgstr "Bércsökkentés javasolva"
@@ -7840,7 +7860,7 @@ msgstr "Figyelmeztetés"
 msgid "Warrant Officer"
 msgstr "Zászlós"
 
-#: src/components/_political/country/CountryHeader.tsx:98
+#: src/components/_political/country/CountryHeader.tsx:99
 msgid "Wars"
 msgstr "Háborúk"
 
@@ -7875,7 +7895,7 @@ msgstr "Heti egyenleg"
 msgid "Weekly damages"
 msgstr "Heti sebzés"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2082
+#: src/components/_user/notification/notification.frontConfig.tsx:2087
 msgid "Weekly Missions Reset"
 msgstr "Heti küldetések visszaállítása"
 
@@ -7950,7 +7970,7 @@ msgstr "Dolgozz és keress!"
 msgid "Worker fired!"
 msgstr "Munkás elbocsátva!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1922
+#: src/components/_user/notification/notification.frontConfig.tsx:1927
 msgid "Worker left"
 msgstr "Munkás kilépett"
 
@@ -7966,6 +7986,10 @@ msgstr "Munkások"
 #: src/components/_other/tour/tuto.frontConfig.tsx:58
 msgid "Working for others is a great way to earn money when starting out."
 msgstr "Másoknak dolgozni remek módja a pénzkeresésnek kezdéskor."
+
+#: src/components/_user/kits/KitsPopover.tsx:257
+msgid "Worst"
+msgstr ""
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
@@ -8079,15 +8103,15 @@ msgstr "Nem kérhetsz állampolgárságot, ha kormányzati/kongresszusi szereped
 msgid "You don't have permission to view applications."
 msgstr "Nincs jogosultságod a jelentkezések megtekintéséhez."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1490
+#: src/components/_user/notification/notification.frontConfig.tsx:1495
 msgid "You earned gems from a banner sale!"
 msgstr "Drágaköveket kerestél egy banner értékesítéséből!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1834
+#: src/components/_user/notification/notification.frontConfig.tsx:1839
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
 msgstr "Drágaköveket kerestél a(z) \"{skinTitle}\" értékesítéséből!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1836
+#: src/components/_user/notification/notification.frontConfig.tsx:1841
 msgid "You earned gems from a skin pack sale!"
 msgstr "Drágaköveket kerestél egy skin csomag értékesítéséből!"
 
@@ -8107,7 +8131,7 @@ msgstr "Automatikusan jóváhagyásra kerülsz, mert az ország népessége a k�
 msgid "You have a case!"
 msgstr "Van egy ládád!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1111
+#: src/components/_user/notification/notification.frontConfig.tsx:1116
 msgid "You have been demoted from commander in <0/> by <1/>"
 msgstr "Leléptettek parancsnoktól a(z) <0/> szervezetben <1/> által"
 
@@ -8115,11 +8139,11 @@ msgstr "Leléptettek parancsnoktól a(z) <0/> szervezetben <1/> által"
 msgid "You have been elected as the new leader of <0/>"
 msgstr "Megválasztottak a(z) <0/> új vezetőjévé"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1097
+#: src/components/_user/notification/notification.frontConfig.tsx:1102
 msgid "You have been promoted to commander in <0/> by <1/>"
 msgstr "Parancsnoktá léptettek elő a(z) <0/> szervezetben <1/> által"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1083
+#: src/components/_user/notification/notification.frontConfig.tsx:1088
 msgid "You have been removed from <0/> by <1/>"
 msgstr "Eltávolítottak a(z) <0/> szervezetből <1/> által"
 
@@ -8199,22 +8223,22 @@ msgstr "Először fel kell szerelned egy fegyvert"
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
 msgstr "Kifizetted a fejlesztő számláit <3 (top 3 a havi támogatói ajándékok ranglistáján)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1027
+#: src/components/_user/notification/notification.frontConfig.tsx:1032
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
 msgstr "A prémium ajándékod <0/>-től lejárt! Fontolóra vennéd az előfizetést és a játék támogatását? 👉👈"
 
 #. placeholder {0}: data.rank
-#: src/components/_user/notification/notification.frontConfig.tsx:1232
+#: src/components/_user/notification/notification.frontConfig.tsx:1237
 msgid "You received a loot item for rank <0>#{0}</0> in <1/>"
 msgstr "Zsákmánytárgyat kaptál a(z) <0>#{0}</0> helyezésért itt: <1/>"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
-#: src/components/_user/notification/notification.frontConfig.tsx:1358
+#: src/components/_user/notification/notification.frontConfig.tsx:1363
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "Jutalmat kaptál {0} {1} az<0/> szintért a ranglistán: <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1854
+#: src/components/_user/notification/notification.frontConfig.tsx:1859
 msgid "You received the skin \"{skinTitle}\"!"
 msgstr "Megkaptad a \"{skinTitle}\" kinézetet!"
 
@@ -8223,20 +8247,20 @@ msgid "You sold items."
 msgstr "Eladtál tárgyakat."
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1413
+#: src/components/_user/notification/notification.frontConfig.tsx:1418
 msgid "You successfully gifted \"{0}\" to <0/>!"
 msgstr "Sikeresen ajándékoztad \"{0}\"-t <0/> számára!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1679
+#: src/components/_user/notification/notification.frontConfig.tsx:1684
 msgid "You successfully gifted \"{skinTitle}\" to <0/>!"
 msgstr "Sikeresen ajándékoztad \"{skinTitle}\"-t <0/> számára!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:992
+#: src/components/_user/notification/notification.frontConfig.tsx:997
 msgid "You successfully gifted a premium subscription to <0/>!"
 msgstr "Sikeresen ajándékoztál premium előfizetést <0/> számára!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1743
+#: src/components/_user/notification/notification.frontConfig.tsx:1748
 msgid "You successfully gifted the skin pack \"{0}\" to <0/>!"
 msgstr "Sikeresen ajándékoztad a(z) \"{0}\" skin csomagot <0/> számára!"
 
@@ -8260,8 +8284,8 @@ msgstr "Kirúgtak a kormányból: <0/>"
 msgid "You were an alpha tester (user before 20 march 2025)"
 msgstr "Alfa tesztelő voltál (felhasználó 2025. március 20. előtt)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1949
-#: src/components/_user/notification/notification.frontConfig.tsx:1966
+#: src/components/_user/notification/notification.frontConfig.tsx:1954
+#: src/components/_user/notification/notification.frontConfig.tsx:1971
 msgid "You were elected"
 msgstr "Megválasztottak"
 
@@ -8359,7 +8383,7 @@ msgid "Your ancestors are proud"
 msgstr "Őseided büszkék"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:365
-#: src/components/_user/notification/notification.frontConfig.tsx:1042
+#: src/components/_user/notification/notification.frontConfig.tsx:1047
 msgid "Your application to <0/> has been rejected"
 msgstr "A jelentkezésed a(z) <0/> szervezethez elutasításra került"
 
@@ -8368,7 +8392,7 @@ msgid "Your article reached 2% of the active population in score (min 10)"
 msgstr "Cikked elérte az aktív népesség 2%-át pontszámban (min 10)"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1504
+#: src/components/_user/notification/notification.frontConfig.tsx:1509
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
 msgstr "A bannered (\"{0}\") elfogadásra került és most elérhető a boltban! Automatikusan feloldásra került számodra."
 
@@ -8384,11 +8408,11 @@ msgstr "Az állampolgárságod meg fog változni"
 msgid "Your country"
 msgstr "Országod"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1990
+#: src/components/_user/notification/notification.frontConfig.tsx:1995
 msgid "Your country is under attack!"
 msgstr "Az országod támadás alatt áll!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1993
+#: src/components/_user/notification/notification.frontConfig.tsx:1998
 msgid "Your country launched an attack!"
 msgstr "Az országod támadást indított!"
 
@@ -8404,7 +8428,7 @@ msgstr "Jelenlegi munkád"
 msgid "Your current order"
 msgstr "Jelenlegi megrendelésed"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1653
+#: src/components/_user/notification/notification.frontConfig.tsx:1658
 msgid "Your daily missions have been reset! Complete them to earn rewards."
 msgstr "Napi küldetéseid újraindultak! Teljesítsd őket a jutalmak megszerzéséhez."
 
@@ -8469,11 +8493,11 @@ msgstr "Ajánlataid"
 msgid "Your party name"
 msgstr "A pártod neve"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:974
+#: src/components/_user/notification/notification.frontConfig.tsx:979
 msgid "Your premium subscription has been activated!"
 msgstr "Prémium előfizetésed aktiválva lett!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:983
+#: src/components/_user/notification/notification.frontConfig.tsx:988
 msgid "Your premium subscription has expired!"
 msgstr "Prémium előfizetésed lejárt!"
 
@@ -8485,11 +8509,11 @@ msgstr "Rangod"
 msgid "Your referral link"
 msgstr "Ajánlói linked"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1337
+#: src/components/_user/notification/notification.frontConfig.tsx:1342
 msgid "Your team <0/> has been eliminated from the <1/>"
 msgstr "A csapatod <0/> kiesett a <1/> versenyből"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1248
+#: src/components/_user/notification/notification.frontConfig.tsx:1253
 msgid "Your team <0/> won a round in <1/>!"
 msgstr "A csapatod <0/> nyert egy fordulót a <1/> versenyben!"
 
@@ -8503,7 +8527,7 @@ msgstr "Csapatod:"
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
 msgstr "A béred a <0/> cégnél <1>{0}</1> értékről <2>{1}</2> értékre változott"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1665
+#: src/components/_user/notification/notification.frontConfig.tsx:1670
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "A heti küldetéseid újraindultak! Teljesítsd őket, hogy jutalmakat szerezz."
 
