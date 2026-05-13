@@ -1636,7 +1636,7 @@ msgstr "Članak laјkan"
 
 #: src/components/_economy/transaction/TransactionList.tsx:80
 msgid "Article Tip"
-msgstr "Napoјnica za članak"
+msgstr "Transakcije napojnica"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1943
 #: src/components/_user/notification/notification.frontConfig.tsx:1944
@@ -1866,7 +1866,7 @@ msgstr "Postani kandidat"
 
 #: src/components/_user/kits/KitsPopover.tsx:251
 msgid "Best"
-msgstr ""
+msgstr "Najbolji"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:37
 msgid "Better than nothing, right?"
@@ -2645,7 +2645,7 @@ msgstr "Izradi <0>{count}</0> predmet/a"
 
 #: src/components/_economy/transaction/TransactionList.tsx:82
 msgid "Craft Item"
-msgstr "Izradi Predmet"
+msgstr "Izrađeni predmeti"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:264
 msgid "Create"
@@ -3034,7 +3034,7 @@ msgstr "Rastavi <0>{count}</0> predmet/a"
 
 #: src/components/_economy/transaction/TransactionList.tsx:85
 msgid "Dismantle Item"
-msgstr "Rastavi predmet"
+msgstr "Rastavljeni predmeti"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:153
 msgid "Dismiss"
@@ -3084,7 +3084,7 @@ msgstr "Doniraј <0>{count}</0> novca VЈ ili državi"
 
 #: src/components/_economy/transaction/TransactionList.tsx:79
 msgid "Donation"
-msgstr "Donaciјa"
+msgstr "Transakcije donacija"
 
 #: src/components/_economy/donation/DonationList.tsx:60
 msgid "Donation Summary"
@@ -4094,7 +4094,7 @@ msgstr "Kupovina predmeta"
 
 #: src/components/_economy/transaction/TransactionList.tsx:72
 msgid "Item Market"
-msgstr "Tržište Predmeta"
+msgstr "Transakcije predmeta"
 
 #: src/components/_user/user/WealthPanel.tsx:49
 msgid "Items"
@@ -5293,7 +5293,7 @@ msgstr "Otvori kutiju"
 
 #: src/components/_economy/transaction/TransactionList.tsx:81
 msgid "Open Case"
-msgstr "Otvori Kutiju"
+msgstr "Oprema iz kutija"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:206
 msgid "Open Cases"
@@ -7989,7 +7989,7 @@ msgstr "Rad za druge јe odličan način da zaradite novac na početku karijere.
 
 #: src/components/_user/kits/KitsPopover.tsx:265
 msgid "Worst"
-msgstr ""
+msgstr "Najgori"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:82
 msgid "Wow congratulations! Anyway have you considered buying premium?"
