@@ -746,7 +746,7 @@ msgstr "<0>Tvoј račun zahtijeva dodatnu verifikaciјu. Verificiraj broј telef
 
 #: src/components/_layout/LayoutOptions.tsx:95
 msgid "= consumes more power"
-msgstr ""
+msgstr "= troši više energije"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -1806,7 +1806,7 @@ msgstr "Kraj bitke"
 
 #: src/components/_military/battle/BattleName.tsx:147
 msgid "Battle for {regionName} {score}"
-msgstr ""
+msgstr "Bitka za {regionName} {score}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:73
 msgid "Battle Hero"
@@ -1884,7 +1884,7 @@ msgstr "Plavo Žezlo"
 
 #: src/components/_layout/LayoutOptions.tsx:149
 msgid "Blur"
-msgstr ""
+msgstr "Zamućenje"
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
@@ -4472,7 +4472,7 @@ msgstr "mape"
 #: src/components/_layout/LayoutLeftIcons.tsx:64
 #: src/components/_layout/LayoutOptions.tsx:98
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: src/components/_political/law/LawFormModal.tsx:266
 msgid "Map Accent"
@@ -6236,7 +6236,7 @@ msgstr "Doprinositelji Otporu"
 
 #: src/components/_military/battle/BattleName.tsx:152
 msgid "Resistance for {regionName} {score}"
-msgstr ""
+msgstr "Otpor za {regionName} {score}"
 
 #: src/pages/country/[countryId]/index.tsx:315
 #: src/pages/region/[regionId]/index.tsx:49
@@ -6269,7 +6269,7 @@ msgstr "Početak revolta"
 
 #: src/components/_military/battle/BattleName.tsx:157
 msgid "Revolution {score}"
-msgstr ""
+msgstr "Revolucija {score}"
 
 #: src/components/_political/event/EventList.tsx:77
 msgid "Revolution ended"
@@ -7362,7 +7362,7 @@ msgstr "Turnir"
 
 #: src/components/_military/battle/BattleName.tsx:160
 msgid "Tournament battle for {tournamentName} {score}"
-msgstr ""
+msgstr "Turnir bitka za {tournamentName} {score}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "Tournament Created"
@@ -7458,7 +7458,7 @@ msgstr "Vodiči su resetirani"
 
 #: src/components/_layout/LayoutOptions.tsx:146
 msgid "UI"
-msgstr ""
+msgstr "Korisničko sučelje"
 
 #: src/components/_user/user/UserDropdown.tsx:277
 msgid "Unblock (show content)"
