@@ -98,7 +98,7 @@ msgstr "{0} сати"
 
 #. placeholder {0}: data.outbidByMuName
 #. placeholder {1}: data.newPerK
-#: src/components/_user/notification/notification.frontConfig.tsx:1668
+#: src/components/_user/notification/notification.frontConfig.tsx:1673
 msgid "{0} outbid you at ${1}/K"
 msgstr "{0} вас је надмашио по цени од ${1}/К"
 
@@ -182,21 +182,21 @@ msgstr "<0/> се пријавио за чланство <1/>"
 msgid "<0/> at <1>{0}</1> wage.{1}"
 msgstr "<0/> за <1>{0}</1> плату.{1}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1849
+#: src/components/_user/notification/notification.frontConfig.tsx:1854
 msgid "<0/> bought your {assetLabel} as a gift for <1/>!"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1856
+#: src/components/_user/notification/notification.frontConfig.tsx:1861
 msgid "<0/> bought your {assetLabel}!"
 msgstr ""
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1503
+#: src/components/_user/notification/notification.frontConfig.tsx:1508
 msgid "<0/> bought your banner{0} as a gift for <1/>!"
 msgstr ""
 
 #. placeholder {0}: data.bannerTitle ? ` "${data.bannerTitle}"` : ''
-#: src/components/_user/notification/notification.frontConfig.tsx:1511
+#: src/components/_user/notification/notification.frontConfig.tsx:1516
 msgid "<0/> bought your banner{0}!"
 msgstr ""
 
@@ -210,7 +210,7 @@ msgstr "<0/> купује <1/> за <2>{0}</2>"
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> купује твој регион <1/> за <2>{0}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1588
+#: src/components/_user/notification/notification.frontConfig.tsx:1593
 msgid "<0/> cancelled the contract."
 msgstr "<0/> је отказао уговор."
 
@@ -218,7 +218,7 @@ msgstr "<0/> је отказао уговор."
 msgid "<0/> commented on your article <1/>"
 msgstr "<0/> је коментарисао/ла твој чланак <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1563
+#: src/components/_user/notification/notification.frontConfig.tsx:1568
 msgid "<0/> completed a contract, you earned <1/>"
 msgstr "<0/> је завршио уговор, зарадио си <1/>"
 
@@ -273,16 +273,16 @@ msgid "<0/> gifted you a premium subscription!"
 msgstr "<0/> ти је поклонио премијум претплату!"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1472
+#: src/components/_user/notification/notification.frontConfig.tsx:1477
 msgid "<0/> gifted you the banner \"{0}\"!"
 msgstr "<0/> ти је поклонио банер „{0}“!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1739
+#: src/components/_user/notification/notification.frontConfig.tsx:1744
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
 msgstr "<0/> ти је поклонио скин „{skinTitle}“!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1802
+#: src/components/_user/notification/notification.frontConfig.tsx:1807
 msgid "<0/> gifted you the skin pack \"{0}\"!"
 msgstr "<0/> ти је поклонио скин пакет „{0}“!"
 
@@ -290,7 +290,7 @@ msgstr "<0/> ти је поклонио скин пакет „{0}“!"
 msgid "<0/> got fee back"
 msgstr "<0/> је добио повраћај таксе"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1325
+#: src/components/_user/notification/notification.frontConfig.tsx:1330
 msgid "<0/> has been created, it gonna start soon!"
 msgstr "<0/> је креиран, ускоро почиње!"
 
@@ -335,7 +335,7 @@ msgstr "<0/> ослобађа <1/> и враћа га <2/>"
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> започиње револуцију у <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1338
+#: src/components/_user/notification/notification.frontConfig.tsx:1343
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> почиње! Нека битке отпочну!"
 
@@ -413,6 +413,10 @@ msgstr ""
 #: src/components/_political/event/event.frontConfig.tsx:241
 msgid "<0/> made peace with <1/>"
 msgstr "<0/> је склопио мир са <1/>"
+
+#: src/components/_user/notification/notification.frontConfig.tsx:1218
+msgid "<0/> mentioned you <1/>"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1209
 msgid "<0/> mentioned you in <1/><2/>"
@@ -495,7 +499,7 @@ msgstr "<0/> је номинован за <1>{0}</1>"
 msgid "<0/> won round {0}"
 msgstr "<0/> је победио рунду {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1546
+#: src/components/_user/notification/notification.frontConfig.tsx:1551
 msgid "<0/> won the auction on a contract with <1/>"
 msgstr "<0/> је победио на аукцији за уговор са <1/>"
 
@@ -594,7 +598,7 @@ msgid "<0>{0}</0> Defense bonus"
 msgstr "<0>{0}</0> Одбрамбени бонус"
 
 #. placeholder {0}: data.acceptanceFeeReturned
-#: src/components/_user/notification/notification.frontConfig.tsx:1609
+#: src/components/_user/notification/notification.frontConfig.tsx:1614
 msgid "<0>{0}</0> fee returned to MU."
 msgstr "<0>{0}</0> такса враћена ВЈ."
 
@@ -671,7 +675,7 @@ msgid "<0>{0}</0> ground are required to win a round, points are gained every ti
 msgstr "<0>{0}</0> поена је потребно за победу у рунди, поени се добијају при сваком тику"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1601
+#: src/components/_user/notification/notification.frontConfig.tsx:1606
 msgid "<0>{0}</0> returned to <1/>."
 msgstr "<0>{0}</0> враћено за <1/>."
 
@@ -880,6 +884,10 @@ msgstr "1★ Вицеадмирал"
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:77
 msgid "1★ Warrant Officer"
 msgstr "1★ Заставник"
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:33
+msgid "100% historically accurate"
+msgstr ""
 
 #: src/components/_common/GameRules.tsx:46
 msgid "2. IP and Device Sharing"
@@ -1334,7 +1342,7 @@ msgstr "Додатни трошак"
 msgid "Admin"
 msgstr "Админ"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2103
+#: src/components/_user/notification/notification.frontConfig.tsx:2108
 msgid "Admin notification"
 msgstr "Админ обавештење"
 
@@ -1496,7 +1504,7 @@ msgid "Amount of companies you can own"
 msgstr "Број компанија који можеш поседовати"
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1581
+#: src/components/_user/notification/notification.frontConfig.tsx:1586
 msgid "An admin cancelled the contract. <0>{0}</0> returned to <1/>."
 msgstr "Администратор је отказао уговор. <0>{0}</0> враћено за <1/>."
 
@@ -1561,7 +1569,7 @@ msgstr "Прихваћено"
 msgid "Arcane Boots"
 msgstr "Мистериозне чизме"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:216
+#: src/components/_economy/inventory/ConsumeItems.tsx:222
 msgid "Are you sure you want to consume pill?"
 msgstr ""
 
@@ -1627,7 +1635,7 @@ msgstr "Панцир"
 msgid "Article ID"
 msgstr "ID чланка"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1964
+#: src/components/_user/notification/notification.frontConfig.tsx:1969
 msgid "Article liked"
 msgstr "Чланак лајкован"
 
@@ -1635,8 +1643,8 @@ msgstr "Чланак лајкован"
 msgid "Article Tip"
 msgstr "Напојница за чланак"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1966
-#: src/components/_user/notification/notification.frontConfig.tsx:1967
+#: src/components/_user/notification/notification.frontConfig.tsx:1971
+#: src/components/_user/notification/notification.frontConfig.tsx:1972
 msgid "Article tipped"
 msgstr "Напојница дата"
 
@@ -1676,7 +1684,7 @@ msgstr "Нападачи"
 msgid "Auction Duration (minutes)"
 msgstr "Трајање аукције (минути)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2087
+#: src/components/_user/notification/notification.frontConfig.tsx:2092
 msgid "Auction Outbid"
 msgstr "Надмашена понуда на аукцији"
 
@@ -1707,7 +1715,7 @@ msgstr ""
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
 msgstr "Аутоматски генерише <0>поене производње</0> током времена, без потребе за радом."
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:269
+#: src/components/_economy/inventory/ConsumeItems.tsx:275
 msgid "Autobuy when empty"
 msgstr ""
 
@@ -1736,7 +1744,7 @@ msgstr "Бејби бумер"
 msgid "Badge won"
 msgstr "Значка освојена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1915
+#: src/components/_user/notification/notification.frontConfig.tsx:1920
 msgid "Badge Won"
 msgstr "Значка освојена"
 
@@ -1761,15 +1769,15 @@ msgstr "Банкрот"
 msgid "Banned"
 msgstr "Банован"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1931
+#: src/components/_user/notification/notification.frontConfig.tsx:1936
 msgid "Banner Accepted!"
 msgstr "Банер прихваћен!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1928
+#: src/components/_user/notification/notification.frontConfig.tsx:1933
 msgid "Banner gift received"
 msgstr "Примљен поклон банер"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1926
+#: src/components/_user/notification/notification.frontConfig.tsx:1931
 msgid "Banner gift sent"
 msgstr "Поклон банер послат"
 
@@ -1809,7 +1817,7 @@ msgid "Battle"
 msgstr "Битка"
 
 #: src/components/_political/event/EventList.tsx:65
-#: src/components/_user/notification/notification.frontConfig.tsx:2012
+#: src/components/_user/notification/notification.frontConfig.tsx:2017
 msgid "Battle ended"
 msgstr "Битка завршена"
 
@@ -1895,6 +1903,10 @@ msgstr "Плаво жезло"
 msgid "Blur"
 msgstr ""
 
+#: src/components/_other/shop/skin.frontConfig.tsx:242
+msgid "Bone Club"
+msgstr ""
+
 #: src/components/_military/battle/BattleDamageBonuses.tsx:47
 #: src/components/_political/law/law.frontConfig.tsx:241
 msgid "Bonus damages"
@@ -1959,15 +1971,15 @@ msgstr "Прегледај пакете"
 msgid "Budget"
 msgstr "Буџет"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2092
+#: src/components/_user/notification/notification.frontConfig.tsx:2097
 msgid "Buff ended"
 msgstr "Ојачање завршено"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2090
+#: src/components/_user/notification/notification.frontConfig.tsx:2095
 msgid "Buff expiring soon"
 msgstr "Ојачање ускоро истиче"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2088
+#: src/components/_user/notification/notification.frontConfig.tsx:2093
 msgid "Buff started"
 msgstr "Ојачање започето"
 
@@ -2133,6 +2145,10 @@ msgstr "Сандучад садрже насумичне предмете. Кл�
 #: src/components/_other/shop/skin.frontConfig.tsx:92
 msgid "Catapult"
 msgstr "Катапулт"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:269
+msgid "Cave Bear Headdress"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:152
 msgid "Chance per hit to instantly loot:<0/>Each <1>1%</1> gives<2>1%</2> and <3>0.01%</3> to loot cases per hit."
@@ -2319,6 +2335,14 @@ msgstr "Клима"
 msgid "Close"
 msgstr "Затвори"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:266
+msgid "Clovis Point"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:37
+msgid "Cold af"
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:106
 msgid "Colonel"
 msgstr "Пуковник"
@@ -2332,8 +2356,8 @@ msgstr "Шема боја"
 msgid "Commander"
 msgstr "Командант"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1934
-#: src/components/_user/notification/notification.frontConfig.tsx:1947
+#: src/components/_user/notification/notification.frontConfig.tsx:1939
+#: src/components/_user/notification/notification.frontConfig.tsx:1952
 msgid "Commission earned"
 msgstr "Провизија зарађена"
 
@@ -2431,11 +2455,11 @@ msgid "Congratulations! You have been elected to the council of <0/>"
 msgstr "Честитамо! Изабран си за члана савета <0/>"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
-#: src/components/_user/notification/notification.frontConfig.tsx:1238
+#: src/components/_user/notification/notification.frontConfig.tsx:1243
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
 msgstr "Честитамо! Унапређен си у <0/> са бонусом напада од <1>{0}</1>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1427
+#: src/components/_user/notification/notification.frontConfig.tsx:1432
 msgid "Congratulations! You won the giveaway and received cases!"
 msgstr "Честитамо! Освојио си наградну игру и добио сандучиће!"
 
@@ -2444,7 +2468,7 @@ msgstr "Честитамо! Освојио си наградну игру и д�
 msgid "Congratulations! Your application to <0/> has been accepted"
 msgstr "Честитамо! Твоја пријава за <0/> је прихваћена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1306
+#: src/components/_user/notification/notification.frontConfig.tsx:1311
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
 msgstr "Честитамо! Твој тим <0/> је освојио турнир <1/>!"
 
@@ -2523,19 +2547,19 @@ msgstr "Конзумирање повећава твој <0>напад</0> то�
 msgid "Contextual borders"
 msgstr "Контекстуалне границе"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2079
+#: src/components/_user/notification/notification.frontConfig.tsx:2084
 msgid "Contract cancelled"
 msgstr "Уговор отказан"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2076
+#: src/components/_user/notification/notification.frontConfig.tsx:2081
 msgid "Contract completed"
 msgstr "Уговор завршен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2082
+#: src/components/_user/notification/notification.frontConfig.tsx:2087
 msgid "Contract expired"
 msgstr "Уговор истекао"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2085
+#: src/components/_user/notification/notification.frontConfig.tsx:2090
 msgid "Contract rolled back"
 msgstr "Уговор поништен"
 
@@ -2621,7 +2645,7 @@ msgid "Country Orders"
 msgstr "Државна наређења"
 
 #. placeholder {0}: data.partialPayout
-#: src/components/_user/notification/notification.frontConfig.tsx:1595
+#: src/components/_user/notification/notification.frontConfig.tsx:1600
 msgid "Country paid <0>{0}</0> for damages done."
 msgstr "Држава је платила <0>{0}</0> за нанесену штету."
 
@@ -2745,7 +2769,7 @@ msgstr "Дневне"
 msgid "Daily maintenance"
 msgstr "Дневно одржавање"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2107
+#: src/components/_user/notification/notification.frontConfig.tsx:2112
 msgid "Daily Missions Reset"
 msgstr "Ресет дневних мисија"
 
@@ -2851,7 +2875,7 @@ msgstr "Наноси више штете"
 msgid "Deals some damages"
 msgstr "Наноси нешто штете"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2093
+#: src/components/_user/notification/notification.frontConfig.tsx:2098
 msgid "Debuff ended"
 msgstr "Ослабљење завршено"
 
@@ -2937,7 +2961,7 @@ msgstr "Снизи чин командира"
 msgid "Demote from Commander"
 msgstr "Снизи чин са командира"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2064
+#: src/components/_user/notification/notification.frontConfig.tsx:2069
 msgid "Demoted from Commander"
 msgstr "Уклоњен са позиције команданта"
 
@@ -3165,15 +3189,15 @@ msgstr "Измени радника"
 msgid "Effective:"
 msgstr "Ефективно:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1971
+#: src/components/_user/notification/notification.frontConfig.tsx:1976
 msgid "Election candidacy open"
 msgstr "Кандидатура за изборе отворена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1976
+#: src/components/_user/notification/notification.frontConfig.tsx:1981
 msgid "Election ended"
 msgstr "Избори завршени"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1974
+#: src/components/_user/notification/notification.frontConfig.tsx:1979
 msgid "Election vote open"
 msgstr "Гласање на изборима отворено"
 
@@ -3566,7 +3590,7 @@ msgstr "Отпусти члана владе"
 msgid "Fire worker?"
 msgstr "Отпусти радника?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1983
+#: src/components/_user/notification/notification.frontConfig.tsx:1988
 msgid "Fired from government"
 msgstr "Отпуштен из владе"
 
@@ -3610,6 +3634,22 @@ msgstr "Бесплатна дневна награда"
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
 msgstr "Занимљивост: Кућа увек добија"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:275
+msgid "Fur Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:278
+msgid "Fur Loincloth"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:281
+msgid "Fur Mittens"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:272
+msgid "Fur Tunic"
+msgstr ""
 
 #: src/components/_common/GameRules.tsx:234
 msgid "g. The use of profiles (picture, description, name) related to aforementioned ideologies and movements as well as political figures linked to ongoing real-world wars and armed conflicts. Humoristic names, descriptions and pictures are tolerated, with the exception of any content related to nazism and neo-nazism."
@@ -3696,7 +3736,7 @@ msgstr "Дај свом токену описно име како би га ка
 msgid "Giveaway Winner"
 msgstr "Победник наградне игре"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2105
+#: src/components/_user/notification/notification.frontConfig.tsx:2110
 msgid "Giveaway Won!"
 msgstr "Наградна игра освојена!"
 
@@ -4092,7 +4132,7 @@ msgstr "Биће боље... можда"
 msgid "It will not gain any production and its workers will not be able to work."
 msgstr "Неће производити и њени радници неће моћи да раде."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1956
+#: src/components/_user/notification/notification.frontConfig.tsx:1961
 msgid "Item bought"
 msgstr "Предмет купљен"
 
@@ -4186,6 +4226,10 @@ msgstr "Избаци"
 msgid "Kick Member"
 msgstr "Избаци члана"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:263
+msgid "Knapped Flints"
+msgstr ""
+
 #: src/utils/translations.tsx:22
 msgid "Knife"
 msgstr "Нож"
@@ -4250,7 +4294,7 @@ msgid "Law failed"
 msgstr "Закон није прошао"
 
 #: src/components/_political/law/LawFormModal.tsx:76
-#: src/components/_user/notification/notification.frontConfig.tsx:1969
+#: src/components/_user/notification/notification.frontConfig.tsx:1974
 msgid "Law proposed"
 msgstr "Закон је предложен"
 
@@ -4263,6 +4307,10 @@ msgstr "Закони"
 #: src/utils/translations.tsx:38
 msgid "Lead"
 msgstr "Олово"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:248
+msgid "Leather Sling"
+msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:221
 msgid "Leave"
@@ -4315,7 +4363,7 @@ msgstr "Ниво {level}"
 msgid "Level up your skills!"
 msgstr "Надогради своје вештине!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1916
+#: src/components/_user/notification/notification.frontConfig.tsx:1921
 msgid "Level up!"
 msgstr "Подигнут ниво!"
 
@@ -4429,7 +4477,7 @@ msgstr "Сандуче са пленом"
 msgid "Loot chance"
 msgstr "Шанса за плен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2032
+#: src/components/_user/notification/notification.frontConfig.tsx:2037
 msgid "Loot reward"
 msgstr "Награда плена"
 
@@ -4596,7 +4644,7 @@ msgstr "Члан унапређен у командира"
 msgid "Members"
 msgstr "Чланови"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2100
+#: src/components/_user/notification/notification.frontConfig.tsx:2105
 msgid "Mentioned in message"
 msgstr "Споменут у поруци"
 
@@ -4627,7 +4675,7 @@ msgstr "Репутација плаћеника"
 msgid "Message (Optional)"
 msgstr "Порука (опционо)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2098
+#: src/components/_user/notification/notification.frontConfig.tsx:2103
 msgid "Message liked"
 msgstr "Порука лајкована"
 
@@ -4656,7 +4704,7 @@ msgstr "Војни закони"
 msgid "Military Rank"
 msgstr "Војни чин"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2011
+#: src/components/_user/notification/notification.frontConfig.tsx:2016
 msgid "Military Rank Up!"
 msgstr "Повећање војног чина!"
 
@@ -4794,7 +4842,7 @@ msgstr "Пресели компанију"
 msgid "Move to top"
 msgstr "Премести на врх"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1952
+#: src/components/_user/notification/notification.frontConfig.tsx:1957
 msgid "Moved to a new company"
 msgstr "Премештен у нову компанију"
 
@@ -4803,19 +4851,19 @@ msgstr "Премештен у нову компанију"
 msgid "MU"
 msgstr "ВЈ"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2051
+#: src/components/_user/notification/notification.frontConfig.tsx:2056
 msgid "MU Application Accepted"
 msgstr "Пријава за ВЈ прихваћена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2048
+#: src/components/_user/notification/notification.frontConfig.tsx:2053
 msgid "MU Application Rejected"
 msgstr "Пријава за ВЈ одбијена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2070
+#: src/components/_user/notification/notification.frontConfig.tsx:2075
 msgid "MU Donation Received"
 msgstr "Донација за ВЈ примљена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2056
+#: src/components/_user/notification/notification.frontConfig.tsx:2061
 msgid "MU Level Up!"
 msgstr "ВЈ је достигла виши ниво!"
 
@@ -4827,7 +4875,7 @@ msgstr "Месечни нивои ВЈ"
 msgid "MU Orders"
 msgstr "Наређења ВЈ"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2067
+#: src/components/_user/notification/notification.frontConfig.tsx:2072
 msgid "MU Ownership Transferred"
 msgstr "Власништво над ВЈ пренето"
 
@@ -4909,8 +4957,8 @@ msgstr "Никад не одустај!"
 msgid "Never stop gambling"
 msgstr "Никад не одустај од коцкања"
 
-#: src/components/_other/shop/SkinItem.tsx:120
-#: src/components/_other/shop/SkinPackItem.tsx:83
+#: src/components/_other/shop/SkinItem.tsx:124
+#: src/components/_other/shop/SkinPackItem.tsx:87
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Ново"
@@ -4919,15 +4967,15 @@ msgstr "Ново"
 msgid "New API Token Created"
 msgstr "Нови API токен креиран"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1963
+#: src/components/_user/notification/notification.frontConfig.tsx:1968
 msgid "New article"
 msgstr "Нови чланак"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1965
+#: src/components/_user/notification/notification.frontConfig.tsx:1970
 msgid "New comment"
 msgstr "Нови коментар"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2073
+#: src/components/_user/notification/notification.frontConfig.tsx:2078
 msgid "New contract accepted"
 msgstr "Нови уговор прихваћен"
 
@@ -4953,7 +5001,7 @@ msgstr "Нова локација"
 msgid "New Mercenary Auction"
 msgstr "Нова плаћеничка аукција"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2094
+#: src/components/_user/notification/notification.frontConfig.tsx:2099
 msgid "New message"
 msgstr "Нова порука"
 
@@ -4961,7 +5009,7 @@ msgstr "Нова порука"
 msgid "New military unit"
 msgstr "Нова војна јединица"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2054
+#: src/components/_user/notification/notification.frontConfig.tsx:2059
 msgid "New MU Application"
 msgstr "Нова пријава за ВЈ"
 
@@ -4969,28 +5017,28 @@ msgstr "Нова пријава за ВЈ"
 msgid "New name"
 msgstr "Ново име"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2006
+#: src/components/_user/notification/notification.frontConfig.tsx:2011
 msgid "New Party Application"
 msgstr "Нова пријава за чланство у странци"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1995
+#: src/components/_user/notification/notification.frontConfig.tsx:2000
 msgid "New Party Leader"
 msgstr "Нови лидер странке"
 
 #: src/components/_political/event/EventList.tsx:66
-#: src/components/_user/notification/notification.frontConfig.tsx:1978
+#: src/components/_user/notification/notification.frontConfig.tsx:1983
 msgid "New president"
 msgstr "Нови председник"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2009
+#: src/components/_user/notification/notification.frontConfig.tsx:2014
 msgid "New referred user"
 msgstr "Нови препоручен корисник"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2010
+#: src/components/_user/notification/notification.frontConfig.tsx:2015
 msgid "New referrer"
 msgstr "Нови препоручитељ"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1968
+#: src/components/_user/notification/notification.frontConfig.tsx:1973
 msgid "New subscriber"
 msgstr "Нови претплатник"
 
@@ -4998,7 +5046,7 @@ msgstr "Нови претплатник"
 msgid "New supporters"
 msgstr "Нови подржаваоци"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1949
+#: src/components/_user/notification/notification.frontConfig.tsx:1954
 msgid "New worker"
 msgstr "Нови радник"
 
@@ -5193,7 +5241,7 @@ msgstr "Номинуј"
 msgid "Nominate a {title}"
 msgstr "Номинуј {title}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1980
+#: src/components/_user/notification/notification.frontConfig.tsx:1985
 msgid "Nominated at government"
 msgstr "Номинован у влади"
 
@@ -5382,7 +5430,7 @@ msgstr "Преливање:"
 msgid "Overview"
 msgstr "Преглед"
 
-#: src/components/_other/shop/SkinPackItem.tsx:136
+#: src/components/_other/shop/SkinPackItem.tsx:140
 #: src/components/_other/shop/SkinPackModal.tsx:264
 msgid "Owned"
 msgstr "У власништву"
@@ -5440,11 +5488,11 @@ msgstr "Странке"
 msgid "Party"
 msgstr "Странка"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2000
+#: src/components/_user/notification/notification.frontConfig.tsx:2005
 msgid "Party Application Accepted"
 msgstr "Пријава за странку прихваћена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2003
+#: src/components/_user/notification/notification.frontConfig.tsx:2008
 msgid "Party Application Rejected"
 msgstr "Пријава за странку одбијена"
 
@@ -5468,15 +5516,15 @@ msgstr "Гласање на изборима савета странке је с
 msgid "Party created"
 msgstr "Странка креирана"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1986
+#: src/components/_user/notification/notification.frontConfig.tsx:1991
 msgid "Party election candidacy open"
 msgstr "Кандидатура за партијске изборе отворена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1992
+#: src/components/_user/notification/notification.frontConfig.tsx:1997
 msgid "Party election ended"
 msgstr "Партијски избори завршени"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1989
+#: src/components/_user/notification/notification.frontConfig.tsx:1994
 msgid "Party election vote open"
 msgstr "Гласање на партијским изборима отворено"
 
@@ -5620,6 +5668,10 @@ msgstr "Популаран чланак"
 msgid "Precision"
 msgstr "Прецизност"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:32
+msgid "Prehistoric Pack"
+msgstr ""
+
 #: src/pages/shop/index.tsx:165
 msgid "Premium"
 msgstr "Премијум"
@@ -5628,23 +5680,23 @@ msgstr "Премијум"
 msgid "Premium & Gifts"
 msgstr "Премијум и поклони"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1917
+#: src/components/_user/notification/notification.frontConfig.tsx:1922
 msgid "Premium activated"
 msgstr "Премијум активиран"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1918
+#: src/components/_user/notification/notification.frontConfig.tsx:1923
 msgid "Premium expired"
 msgstr "Премијум истекао"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1924
+#: src/components/_user/notification/notification.frontConfig.tsx:1929
 msgid "Premium gift expired"
 msgstr "Поклоњени премијум истекао"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1921
+#: src/components/_user/notification/notification.frontConfig.tsx:1926
 msgid "Premium gift received"
 msgstr "Примљен поклон премијум"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1919
+#: src/components/_user/notification/notification.frontConfig.tsx:1924
 msgid "Premium gift sent"
 msgstr "Премијум поклон послат"
 
@@ -5680,7 +5732,7 @@ msgstr "Председнички избори"
 msgid "Primary election"
 msgstr "Прелиминарни избори"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1997
+#: src/components/_user/notification/notification.frontConfig.tsx:2002
 msgid "Primary Election Ended"
 msgstr "Прелиминарни избори завршени"
 
@@ -5748,7 +5800,7 @@ msgstr "Бонус производње:"
 msgid "Production in<0/> is full, you should start production!"
 msgstr "Производња у <0/> је пуна, требало би да започнеш производњу!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1958
+#: src/components/_user/notification/notification.frontConfig.tsx:1963
 msgid "Production is full"
 msgstr "Производња је пуна"
 
@@ -5769,7 +5821,7 @@ msgstr "Профил"
 msgid "Promote to Commander"
 msgstr "Унапреди у команданта"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2061
+#: src/components/_user/notification/notification.frontConfig.tsx:2066
 msgid "Promoted to Commander"
 msgstr "Унапређен у команданта"
 
@@ -5869,7 +5921,7 @@ msgstr "Брзо растави предмете"
 msgid "Ranking"
 msgstr "Рангирање"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2008
+#: src/components/_user/notification/notification.frontConfig.tsx:2013
 msgid "Ranking reward"
 msgstr "Награда за рангирање"
 
@@ -6031,7 +6083,7 @@ msgstr "Регион"
 msgid "Region buy offer"
 msgstr "Понуда за куповину региона"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2024
+#: src/components/_user/notification/notification.frontConfig.tsx:2029
 msgid "Region is revolting!"
 msgstr "Регион диже буну!"
 
@@ -6141,7 +6193,7 @@ msgstr "Уклони непријатеља"
 msgid "Remove the current party leader from their position"
 msgstr "Уклони тренутног лидера странке са позиције"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2058
+#: src/components/_user/notification/notification.frontConfig.tsx:2063
 msgid "Removed from Military Unit"
 msgstr "Уклоњен из војне јединице"
 
@@ -6256,7 +6308,7 @@ msgstr "Ресурси"
 msgid "Resources reshuffled"
 msgstr "Ресурси премештени"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2096
+#: src/components/_user/notification/notification.frontConfig.tsx:2101
 msgid "Response to message"
 msgstr "Одговор на поруку"
 
@@ -6272,7 +6324,7 @@ msgstr "Врати регион његовој изворној земљи"
 msgid "Revoke API token?"
 msgstr "Опозови API токен?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2027
+#: src/components/_user/notification/notification.frontConfig.tsx:2032
 msgid "Revolt started!"
 msgstr "Буна почела!"
 
@@ -6288,7 +6340,7 @@ msgstr "Револуција завршена"
 msgid "Revolution started"
 msgstr "Револуција започета"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2030
+#: src/components/_user/notification/notification.frontConfig.tsx:2035
 msgid "Revolution started!"
 msgstr "Револуција започета!"
 
@@ -6341,11 +6393,11 @@ msgstr "Рунда #{0}"
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
 msgstr "Рунда <0>#{0}</0> у <1/> се ускоро завршава!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2015
+#: src/components/_user/notification/notification.frontConfig.tsx:2020
 msgid "Round about to end"
 msgstr "Рунда се ускоро завршава"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2013
+#: src/components/_user/notification/notification.frontConfig.tsx:2018
 msgid "Round ended"
 msgstr "Рунда завршена"
 
@@ -6701,15 +6753,15 @@ msgstr "Вештине те чине јачим. Хајде да појачам�
 msgid "Skills saved!"
 msgstr "Вештине сачуване!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1938
+#: src/components/_user/notification/notification.frontConfig.tsx:1943
 msgid "Skin gift received"
 msgstr "Примљен поклон скин"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1936
+#: src/components/_user/notification/notification.frontConfig.tsx:1941
 msgid "Skin gift sent"
 msgstr "Поклон скин послат"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1941
+#: src/components/_user/notification/notification.frontConfig.tsx:1946
 msgid "Skin pack gift sent"
 msgstr "Послат поклон пакет скинова"
 
@@ -6721,7 +6773,7 @@ msgstr "Пакет скинова је откључан! Сви скинови �
 msgid "Skin Packs"
 msgstr "Пакети скинова"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2112
+#: src/components/_user/notification/notification.frontConfig.tsx:2117
 msgid "Skin Reward"
 msgstr "Награда у скину"
 
@@ -6737,6 +6789,10 @@ msgstr "Скинови у овом пакету"
 #: src/components/_other/tour/TutorialStep.tsx:181
 msgid "Skip Tutorial"
 msgstr "Прескочи водич"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:260
+msgid "Sling Stones"
+msgstr ""
 
 #: src/utils/translations.tsx:25
 msgid "Sniper"
@@ -6871,6 +6927,10 @@ msgstr "Бифтек"
 #: src/utils/translations.tsx:37
 msgid "Steel"
 msgstr "Челик"
+
+#: src/components/_other/shop/skin.frontConfig.tsx:245
+msgid "Stone Maul"
+msgstr ""
 
 #: src/components/_economy/company/CompanyTags.tsx:107
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:78
@@ -7055,12 +7115,12 @@ msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the gover
 msgstr "Грађански рат који је започео <0/> у <1/> је успео уз <2/> и влада је свргнута."
 
 #. placeholder {0}: data.refund
-#: src/components/_user/notification/notification.frontConfig.tsx:1633
+#: src/components/_user/notification/notification.frontConfig.tsx:1638
 msgid "The contract for <0/> has expired. <1>{0}</1> returned to <2/>."
 msgstr "Уговор за <0/> је истекао. <1>{0}</1> враћено за <2/>."
 
 #. placeholder {0}: data.moneyRolledBack
-#: src/components/_user/notification/notification.frontConfig.tsx:1651
+#: src/components/_user/notification/notification.frontConfig.tsx:1656
 msgid "The contract has been rolled back. <0>{0}</0> sent back to <1/>."
 msgstr "Уговор је поништен. <0>{0}</0> враћено за <1/>."
 
@@ -7098,7 +7158,7 @@ msgstr "Револуција у <0/> је успела! Влада је сврг
 msgid "The strategic resource will be reshuffled in the following amount of time."
 msgstr "Стратешки ресурс ће бити поново распоређен за следећи временски период."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1351
+#: src/components/_user/notification/notification.frontConfig.tsx:1356
 msgid "The tournament has ended for your team <0/>. Check the results!"
 msgstr "Турнир је завршен за твој тим <0/>. Провери резултате!"
 
@@ -7171,7 +7231,7 @@ msgstr "Само ова рунда"
 msgid "This user is not part of any family group"
 msgstr "Овај корисник није део ниједне породичне групе"
 
-#: src/components/_economy/inventory/ConsumeItems.tsx:217
+#: src/components/_economy/inventory/ConsumeItems.tsx:223
 msgid "This will give you a buff for {cocainBuffHours}h then cause a malus for {cocainDebuffHours}h"
 msgstr ""
 
@@ -7373,15 +7433,15 @@ msgstr "Турнир"
 msgid "Tournament battle for {tournamentName} {score}"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2038
+#: src/components/_user/notification/notification.frontConfig.tsx:2043
 msgid "Tournament Created"
 msgstr "Турнир креиран"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2045
+#: src/components/_user/notification/notification.frontConfig.tsx:2050
 msgid "Tournament Eliminated"
 msgstr "Елиминисан са турнира"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2043
+#: src/components/_user/notification/notification.frontConfig.tsx:2048
 msgid "Tournament Ended"
 msgstr "Турнир завршен"
 
@@ -7389,15 +7449,15 @@ msgstr "Турнир завршен"
 msgid "Tournament reward:"
 msgstr "Награда турнира:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2034
+#: src/components/_user/notification/notification.frontConfig.tsx:2039
 msgid "Tournament round won!"
 msgstr "Турнирска рунда добијена!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2041
+#: src/components/_user/notification/notification.frontConfig.tsx:2046
 msgid "Tournament Started"
 msgstr "Турнир почео"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2036
+#: src/components/_user/notification/notification.frontConfig.tsx:2041
 msgid "Tournament Won!"
 msgstr "Турнир освојен!"
 
@@ -7410,7 +7470,7 @@ msgstr "Трговина"
 msgid "Trading"
 msgstr "Тржиште"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1961
+#: src/components/_user/notification/notification.frontConfig.tsx:1966
 msgid "Trading transaction"
 msgstr "Трговинска трансакција"
 
@@ -7465,6 +7525,10 @@ msgstr "Водичи"
 msgid "Tutorials reseted"
 msgstr "Водичи су ресетовани"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:257
+msgid "Tyrannosaurus Rex"
+msgstr ""
+
 #: src/components/_layout/LayoutOptions.tsx:146
 msgid "UI"
 msgstr ""
@@ -7503,7 +7567,7 @@ msgstr "Откључај дугме „Помози свима“"
 msgid "Unlock Produce all button"
 msgstr "Откључај дугме „Произведи све“"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1944
+#: src/components/_user/notification/notification.frontConfig.tsx:1949
 msgid "Unlocked pack"
 msgstr "Пакет откључан"
 
@@ -7823,7 +7887,7 @@ msgstr "Против"
 msgid "Wage"
 msgstr "Плата"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1954
+#: src/components/_user/notification/notification.frontConfig.tsx:1959
 msgid "Wage changed"
 msgstr "Плата промењена"
 
@@ -7839,7 +7903,7 @@ msgstr "Плата по производњи"
 msgid "Wage reduction accepted."
 msgstr "Смањење плате прихваћено."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1955
+#: src/components/_user/notification/notification.frontConfig.tsx:1960
 #: src/components/_user/worker/WageReductionAlert.tsx:66
 msgid "Wage reduction proposed"
 msgstr "Смањење плате предложено"
@@ -7916,7 +7980,7 @@ msgstr "Недељни биланс"
 msgid "Weekly damages"
 msgstr "Недељна штета"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2110
+#: src/components/_user/notification/notification.frontConfig.tsx:2115
 msgid "Weekly Missions Reset"
 msgstr "Недељне мисије су ресетоване"
 
@@ -7953,6 +8017,10 @@ msgstr "Цела производња"
 msgid "Why do you want to propose this law?"
 msgstr "Зашто желите да предложите овај закон?"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:36
+msgid "Winter Soldier pack"
+msgstr ""
+
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
 msgstr "са бонусом"
@@ -7974,6 +8042,14 @@ msgstr "Чаробњачки шешир"
 msgid "Won by"
 msgstr "Победио"
 
+#: src/components/_other/shop/skin.frontConfig.tsx:251
+msgid "Wooden Self Bow"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:254
+msgid "Woolly Mammoth"
+msgstr ""
+
 #: src/components/_economy/company/WorkButton.tsx:244
 #: src/components/_user/mission/mission.frontConfig.tsx:76
 msgid "Work"
@@ -7991,7 +8067,7 @@ msgstr "Ради и заради!"
 msgid "Worker fired!"
 msgstr "Радник отпуштен!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1950
+#: src/components/_user/notification/notification.frontConfig.tsx:1955
 msgid "Worker left"
 msgstr "Радник је напустио посао"
 
@@ -8125,15 +8201,15 @@ msgstr "Не можеш да се пријавиш за држављанство
 msgid "You don't have permission to view applications."
 msgstr "Немаш дозволу да видиш пријаве."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1518
+#: src/components/_user/notification/notification.frontConfig.tsx:1523
 msgid "You earned gems from a banner sale!"
 msgstr "Зарадио си драгуље од продаје банера!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1862
+#: src/components/_user/notification/notification.frontConfig.tsx:1867
 msgid "You earned gems from a sale of \"{skinTitle}\"!"
 msgstr "Зарадио си драгуље од продаје скина „{skinTitle}“!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1864
+#: src/components/_user/notification/notification.frontConfig.tsx:1869
 msgid "You earned gems from a skin pack sale!"
 msgstr "Зарадио си драгуље од продаје скин пакета!"
 
@@ -8250,17 +8326,17 @@ msgid "You premium gift from <0/> has expired! Would you consider subscribing an
 msgstr "Твој премијум поклон од <0/> је истекао! Да ли би размислио о претплати и подршци игри? 👉👈"
 
 #. placeholder {0}: data.rank
-#: src/components/_user/notification/notification.frontConfig.tsx:1260
+#: src/components/_user/notification/notification.frontConfig.tsx:1265
 msgid "You received a loot item for rank <0>#{0}</0> in <1/>"
 msgstr "Добио си предмет плена за ранг <0>#{0}</0> у <1/>"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
-#: src/components/_user/notification/notification.frontConfig.tsx:1386
+#: src/components/_user/notification/notification.frontConfig.tsx:1391
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "Добио си награду за {0} {1} у <0/> рангу на ранг-листи <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1882
+#: src/components/_user/notification/notification.frontConfig.tsx:1887
 msgid "You received the skin \"{skinTitle}\"!"
 msgstr "Добио си скин „{skinTitle}“!"
 
@@ -8269,11 +8345,11 @@ msgid "You sold items."
 msgstr "Продао си предмете."
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1441
+#: src/components/_user/notification/notification.frontConfig.tsx:1446
 msgid "You successfully gifted \"{0}\" to <0/>!"
 msgstr "Успешно си поклонио „{0}“ кориснику <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1707
+#: src/components/_user/notification/notification.frontConfig.tsx:1712
 msgid "You successfully gifted \"{skinTitle}\" to <0/>!"
 msgstr "Успешно си поклонио „{skinTitle}“ кориснику <0/>!"
 
@@ -8282,7 +8358,7 @@ msgid "You successfully gifted a premium subscription to <0/>!"
 msgstr "Успешно си поклонио премијум претплату кориснику <0/>!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1771
+#: src/components/_user/notification/notification.frontConfig.tsx:1776
 msgid "You successfully gifted the skin pack \"{0}\" to <0/>!"
 msgstr "Успешно си поклонио пакет скинова „{0}“ кориснику <0/>!"
 
@@ -8306,8 +8382,8 @@ msgstr "<0/> те је сменио из владе"
 msgid "You were an alpha tester (user before 20 march 2025)"
 msgstr "Био си алфа тестер (корисник пре 20. марта 2025.)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1977
-#: src/components/_user/notification/notification.frontConfig.tsx:1994
+#: src/components/_user/notification/notification.frontConfig.tsx:1982
+#: src/components/_user/notification/notification.frontConfig.tsx:1999
 msgid "You were elected"
 msgstr "Изабран си"
 
@@ -8414,7 +8490,7 @@ msgid "Your article reached 2% of the active population in score (min 10)"
 msgstr "Твој чланак је по скору достигао 2% активне популације (минимум 10)"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1532
+#: src/components/_user/notification/notification.frontConfig.tsx:1537
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
 msgstr "Твој банер „{0}“ је прихваћен и сада је доступан у продавници! Аутоматски ти је откључан."
 
@@ -8430,11 +8506,11 @@ msgstr "Твоје држављанство ће се променити"
 msgid "Your country"
 msgstr "Твоја држава"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2018
+#: src/components/_user/notification/notification.frontConfig.tsx:2023
 msgid "Your country is under attack!"
 msgstr "Твоја држава је под нападом!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:2021
+#: src/components/_user/notification/notification.frontConfig.tsx:2026
 msgid "Your country launched an attack!"
 msgstr "Твоја држава је покренула напад!"
 
@@ -8450,7 +8526,7 @@ msgstr "Твој тренутни посао"
 msgid "Your current order"
 msgstr "Твој тренутни налог"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1681
+#: src/components/_user/notification/notification.frontConfig.tsx:1686
 msgid "Your daily missions have been reset! Complete them to earn rewards."
 msgstr "Твоје дневне мисије су ресетоване! Заврши их да зарадиш награде."
 
@@ -8535,11 +8611,11 @@ msgstr "Твој линк препоруке"
 msgid "Your team"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1365
+#: src/components/_user/notification/notification.frontConfig.tsx:1370
 msgid "Your team <0/> has been eliminated from the <1/>"
 msgstr "Твој тим <0/> је елиминисан са <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1276
+#: src/components/_user/notification/notification.frontConfig.tsx:1281
 msgid "Your team <0/> won a round in <1/>!"
 msgstr "Твој тим <0/> је освојио рунду у <1/>!"
 
@@ -8553,7 +8629,7 @@ msgstr "Твој тим:"
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
 msgstr "Твоја плата у <0/> је промењена са <1>{0}</1> на <2>{1}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1693
+#: src/components/_user/notification/notification.frontConfig.tsx:1698
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Твоје недељне мисије су ресетоване! Заврши их да зарадиш награде."
 
