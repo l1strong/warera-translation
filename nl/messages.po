@@ -3479,51 +3479,51 @@ msgstr "Ontwikkeling"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:383
 msgid "Diesel Bomber Jacket"
-msgstr ""
+msgstr "Diesel bomberjack"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:386
 msgid "Diesel Boots"
-msgstr ""
+msgstr "Diesellaarzen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:362
 msgid "Diesel Butterfly Knife"
-msgstr ""
+msgstr "Diesel vlindermes"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:392
 msgid "Diesel Gloves"
-msgstr ""
+msgstr "Diesel handschoenen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:389
 msgid "Diesel Pants"
-msgstr ""
+msgstr "Diesel broek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:365
 msgid "Diesel Pistol"
-msgstr ""
+msgstr "Dieselpistool"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:48
 msgid "Diesel Power"
-msgstr ""
+msgstr "Dieselkracht"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:368
 msgid "Diesel Rifle"
-msgstr ""
+msgstr "Dieselgeweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:380
 msgid "Diesel Shades"
-msgstr ""
+msgstr "Diesel Zonnebril"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:377
 msgid "Diesel Smuggler Plane"
-msgstr ""
+msgstr "Diesel Smokkelvliegtuig"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:371
 msgid "Diesel Sniper"
-msgstr ""
+msgstr "Diesel-sluipschuttergeweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:374
 msgid "Diesel Sports Sedan"
-msgstr ""
+msgstr "Diesel Sportsedan"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:301
 msgid "Diminish <0/> received damages with <1>Armor</1> in battles"
@@ -4256,7 +4256,7 @@ msgstr "Gratis dagelijkse beloning"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:49
 msgid "Full throttle, no brakes"
-msgstr ""
+msgstr "Plankgas, niet remmen"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:27
 msgid "Fun fact: The house always wins"
@@ -5554,51 +5554,51 @@ msgstr "Bericht leuk gevonden"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:413
 msgid "Miami Aviators"
-msgstr ""
+msgstr "Miami Aviators"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:416
 msgid "Miami Blazer"
-msgstr ""
+msgstr "Miami Blazer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:419
 msgid "Miami Boots"
-msgstr ""
+msgstr "Miami Laarzen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:395
 msgid "Miami Brass Knuckles"
-msgstr ""
+msgstr "Miami boksbeugels"
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:52
 msgid "Miami Cartel"
-msgstr ""
+msgstr "Miami-kartel"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:425
 msgid "Miami Gloves"
-msgstr ""
+msgstr "Miami-handschoenen"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:422
 msgid "Miami Pants"
-msgstr ""
+msgstr "Miami broek"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:398
 msgid "Miami Pistol"
-msgstr ""
+msgstr "Miami Pistool"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:401
 msgid "Miami Rifle"
-msgstr ""
+msgstr "Miami-geweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:404
 msgid "Miami Sniper"
-msgstr ""
+msgstr "Miami-sluipschuttersgeweer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:410
 msgid "Miami Speedboat"
-msgstr ""
+msgstr "Miami Speedboot"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:407
 msgid "Miami Supercar"
-msgstr ""
+msgstr "Miami Supercar"
 
 #: src/components/_user/mission/MissionsHeader.tsx:82
 #: src/components/_user/user/UserRankingsPanel.tsx:86
@@ -9658,7 +9658,7 @@ msgstr "Hoewel gegevensverzamelings- en weergavetools die de officiële openbare
 
 #: src/components/_other/shop/skinPack.frontConfig.tsx:53
 msgid "White suit, gold everything"
-msgstr ""
+msgstr "Wit pak, alles in goud."
 
 #: src/pages/companies.tsx:103
 msgid "Whole Production"
