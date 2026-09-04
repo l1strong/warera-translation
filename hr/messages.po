@@ -3507,7 +3507,7 @@ msgstr "Dizel Paket"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:368
 msgid "Diesel Rifle"
-msgstr "Dizel Snajper"
+msgstr "Dizel Kalašnjikov"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:380
 msgid "Diesel Shades"
