@@ -5562,7 +5562,7 @@ msgstr "Miami Blejzer"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:419
 msgid "Miami Boots"
-msgstr "MIami Mokasinke"
+msgstr "Miami Mokasinke"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:395
 msgid "Miami Brass Knuckles"
