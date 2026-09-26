@@ -810,15 +810,15 @@ msgstr "<0>#{key}</0> resursa svake vrste = <1>{value}</1>"
 
 #: src/components/_political/country/CountryHeader.tsx:251
 msgid "<0>Average development</0> is the average of <1>Core development</1> and <2>Current development</2>."
-msgstr "<0>Prosječni razvoj</0> je prosjek <1>Razvoja izvornih regija</1> i <2>Trenutnog razvoja</2>."
+msgstr "<0>Prosječni razvoj</0> je prosjek <1>razvoja izvornih regija</1> i <2>trenutnog razvoja</2>."
 
 #: src/components/_political/country/CountryHeader.tsx:215
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
-msgstr "Iznos <0>Izvornog razvoja</0> ovisi o <1>Populaciji</1> i prosječnoj <2>Razini</2> podjeljeno sa brojem <3>Izvornih regija</3>."
+msgstr "Iznos <0>izvornog razvoja</0> ovisi o <1>populaciji</1> i prosječnoj <2>razini</2> podjeljeno sa brojem <3>izvornih regija</3>."
 
 #: src/components/_political/country/CountryHeader.tsx:279
 msgid "<0>Current development</0> is the total development of the <1>regions</1> the country currently controls, including conquered territory."
-msgstr "<0>Trenutni razvoj</0> predstavlja sumu razvoja svih <1>Regija</1> koje država kontrolira uključujući i osvojene regije."
+msgstr "<0>Trenutni razvoj</0> predstavlja sumu razvoja svih <1>regija</1> koje država kontrolira uključujući i osvojene regije."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:121
 msgid "<0>Emotes</0> in chat"
@@ -843,7 +843,7 @@ msgstr "<0>Za svaki radni dan kod istog poslodavca, bonus loјalnosti se poveća
 
 #: src/components/_economy/company/CompanyProduce.tsx:81
 msgid "<0>Filled with <1>Production Points</1> by employees working and from the automated engine.</0><2>Only the company owner can spend it to produce items.</2>"
-msgstr "<0>Popunjava se <1>Poenima Proizvodnje</1> radom zaposlenih i automatizacijom.</0><2>Samo ih vlasnik kompanije može potrošiti za proizvodnju predmeta.</2>"
+msgstr "<0>Popunjava se <1>poenima proizvodnje</1> radom zaposlenih i automatizacijom.</0><2>Samo ih vlasnik kompanije može potrošiti za proizvodnju predmeta.</2>"
 
 #. placeholder {0}: gameConfig?.unrest.contributionCost
 #. placeholder {1}: gameConfig?.unrest.contributionCost
@@ -1639,7 +1639,7 @@ msgstr "Iznos"
 
 #: src/components/_economy/company/CompanyTags.tsx:110
 msgid "Amount of <0>Production Points</0> that can be stored inside the company before production stops."
-msgstr "Definira količinu <0>Poena Proizvodnje</0> koјu je moguće akumulirati u kompaniјi."
+msgstr "Definira maksimalnu količinu <0>poena proizvodnje</0> koјu je moguće akumulirati u kompaniјi prije prestanka proizvodnje."
 
 #: src/components/_user/user/skills.frontConfig.tsx:200
 msgid "Amount of <0>Workers</0> you can manage. And daily hire limit."
@@ -1973,7 +1973,7 @@ msgstr "Automatska zamjena istrošene opreme"
 
 #: src/components/_economy/company/CompanyTags.tsx:89
 msgid "Auto-generates <0>Production Points</0> over time, without the need to work."
-msgstr "Automatski generira <0>Poene Proizvodnje</0> kroz vrijeme, bez potrebe za troškom energije."
+msgstr "Automatski s vremenom generira <0>poene proizvodnje</0> bez utroška energije."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:293
 msgid "Autobuy when empty"
@@ -4487,7 +4487,7 @@ msgstr "Poklonite ovaј paket nekome"
 
 #: src/pages/shop/index.tsx:103
 msgid "gifted"
-msgstr "poklonjeno"
+msgstr "poklanja"
 
 #: src/components/_military/mu/MuMemberList.tsx:446
 msgid "Give Ownership"
@@ -8523,7 +8523,7 @@ msgstr "Kondicija se troši tijekom putovanja: 10 poena kondicije za svaku prije
 
 #: src/components/_political/country/CountryHeader.tsx:230
 msgid "Stable, conquest-proof strength. Still used for unrest, government wages and revolution cost. Other costs use <0>Average development</0>."
-msgstr "Stabilna razvojna osnovica čija se vrijednost koristi za određivanje razine nemira, plaće vladinih pozicija i troškova revolucije. Drugi troškovi koriste vrijednost <0>Prosječnog razvoja</0>."
+msgstr "Stabilna razvojna osnovica čija se vrijednost koristi za određivanje razine nemira, plaće vladinih pozicija i troškova revolucije. Drugi troškovi koriste vrijednost <0>prosječnog razvoja</0>."
 
 #: src/components/_user/user/SkillUpgrade.tsx:268
 msgid "Stage a prestige point on this skill (applied on save, reset on skill reset)"
@@ -8724,11 +8724,11 @@ msgstr "Veliki Mecena"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:78
 msgid "Supporter gifts"
-msgstr "Darovao supportera"
+msgstr "Poklonjeni supporteri"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:72
 msgid "Supporter months"
-msgstr "Mjeseci supportera"
+msgstr "Mjeseca supporter"
 
 #: src/components/_user/premium/PremiumCard.tsx:60
 msgid "Supporter plan"
@@ -8864,7 +8864,7 @@ msgstr "<0>Poeni proizvodnje</0> koјe generirate radom."
 
 #: src/components/_user/user/skills.frontConfig.tsx:41
 msgid "The base value for <0>Damages</0> calculation."
-msgstr "Osnovna vrijednost za obračun <0>Štete</0>."
+msgstr "Osnovna vrijednost za obračun <0>štete</0>."
 
 #: src/components/_political/event/event.frontConfig.tsx:510
 msgid "The civil war started by <0/> in <1/> has been suppressed"
@@ -8906,7 +8906,7 @@ msgstr "Buff efekt završen. Započinje debuff faza i trajati će <0>{debuffDura
 
 #: src/components/_political/alliance/AllianceBattleBonus.tsx:53
 msgid "The full bonus of <0/> applies up to <1/> share of global <2>Development</2>. Above that, the bonus drops by <3/> per percentage point of share over the plateau, down to <4/>."
-msgstr "Puni bonus od <0/> primjenjuje se do <1/> udjela globalnog <2>Razvoja</2>. Bonus se smanjuje za <3/> za svaki postotni poen udjela razvoja saveza koji je iznad <1/> udjela globalnog razvoja, sve do <4/>."
+msgstr "Puni bonus od <0/> primjenjuje se do <1/> udjela globalnog <2>razvoja</2>. Bonus se smanjuje za <3/> za svaki postotni poen udjela razvoja saveza koji je iznad <1/> udjela globalnog razvoja, sve do <4/>."
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:69
 msgid "The map needs WebGL2, which your browser or device doesn't support. Everything else in the game works normally."
