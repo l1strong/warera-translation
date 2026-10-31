@@ -523,7 +523,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:290
 msgid "{gender, select, male {{name} bursts into your office: he has an idea to change how the work is done, and needs a little room to try it.} female {{name} bursts into your office: she has an idea to change how the work is done, and needs a little room to try it.} other {{name} bursts into your office: they have an idea to change how the work is done, and need a little room to try it.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} iznenada uleti u vaš ured sa revolucionarnom idejom koja će poboljšati rad kompanije, ali treba prostor za svoje eksperimente.} female {{name} iznenada uleti u vaš ured sa revolucionarnom idejom koja će poboljšati rad kompanije, ali treba prostor za svoje eksperimente.} other {{name} iznenada uleti u vaš ured sa revolucionarnom idejom koja će poboljšati rad kompanije, ali treba prostor za svoje eksperimente.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3130
 msgid "{gender, select, male {{name} calms down and breathes. The lift starts again on its own.} female {{name} calms down and breathes. The lift starts again on its own.} other {{name} calms down and breathes. The lift starts again on its own.}}"
@@ -603,7 +603,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2793
 msgid "{gender, select, male {{name} dreamed the solution to everything and wrote it on his arm before it faded. It is smudged.} female {{name} dreamed the solution to everything and wrote it on her arm before it faded. It is smudged.} other {{name} dreamed the solution to everything and wrote it on their arm before it faded. It is smudged.}}"
-msgstr ""
+msgstr "{gender, select, male {{name} je sanjao rješenje za sve probleme i zapisao ga na ruku prije nego je san iščezao. Do jutra je ostala samo mrlja.} female {{name} je sanjala rješenje za sve probleme i zapisala ga na ruku prije nego je san iščezao. Do jutra je ostala samo mrlja.} other {{name} sanja o rješenju za sve probleme i zapisao ga na ruku prije nego je san iščezao. Do jutra je ostala samo mrlja.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2630
 msgid "{gender, select, male {{name} dropped a sandwich into the machine, and output went up. Nobody knows why, least of all him.} female {{name} dropped a sandwich into the machine, and output went up. Nobody knows why, least of all her.} other {{name} dropped a sandwich into the machine, and output went up. Nobody knows why, least of all them.}}"
@@ -7482,7 +7482,7 @@ msgstr "Procijenjena vrijednost"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:288
 msgid "Eureka"
-msgstr ""
+msgstr "Eureka"
 
 #: src/components/_economy/employee/employeeStats.tsx:70
 #: src/components/_economy/employee/employeeStats.tsx:506
@@ -9664,7 +9664,7 @@ msgstr "Pusti neka traje"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:316
 msgid "Let them experiment on company time"
-msgstr "Pustite ih da eksperimentiraju nauštrb rada"
+msgstr "Dozvolite eksperimentiranje nauštrb rada"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:472
 msgid "Let them go, for a fee"
@@ -10727,7 +10727,7 @@ msgstr "Pomiče osobinu jednu stepenicu gore na ljestvici."
 
 #: src/components/_layout/loadingTips.tsx:399
 msgid "Moving an employee to another of your companies is free."
-msgstr ""
+msgstr "Premještanje zaposlenika između vaših kompanija je besplatno."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:590
 msgid "Moving costs <0>Stamina</0>, then Oil."
@@ -11608,7 +11608,7 @@ msgstr "Nije moguće koristit u ovoj kompaniji"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2791
 msgid "Notes on an arm"
-msgstr ""
+msgstr "Bilješke na ruci"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:748
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:228
@@ -18070,7 +18070,7 @@ msgstr "Dostigli ste maksimalnu razinu!"
 
 #: src/components/_layout/LoadingWelcomeCard.tsx:34
 msgid "Your <0>Energy</0> is full. Spend it before it goes to waste."
-msgstr ""
+msgstr "Vaša <0>energija</0> je puna, nemojte dopustiti njezino rasipanje."
 
 #: src/components/_layout/loadingTips.tsx:103
 msgid "Your <0>Energy</0>, <1>Health</1> and <2>Hunger</2> refill by {hourlyRegenPercent}% of their max every hour. A full bar wastes that regen, so spend it first."
@@ -18197,7 +18197,7 @@ msgstr "Vještine vašega zaposlenika"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:163
 msgid "Your employee's traits"
-msgstr ""
+msgstr "Osobine vašeg zaposlenika"
 
 #: src/components/_economy/manager/ManagerProfitEstimate.tsx:66
 msgid "Your employees produce nothing right now, so a manager would add nothing."
@@ -18264,11 +18264,11 @@ msgstr "Netko izgubi dobitak, ali dobije gubitak.."
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:173
 msgid "Your Management"
-msgstr ""
+msgstr "Vaše Upravljanje"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:88
 msgid "Your Management {value}"
-msgstr ""
+msgstr "Vaše Upravljanje {value}"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:303
 msgid "Your milestones"
